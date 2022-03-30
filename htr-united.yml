@@ -1,7 +1,7 @@
 schema: https://htr-united.github.io/schema/2021-10-15/schema.json
-title: Titre dataset
-description: Courte description du depot
-url: "https://github.com/Gallicorpora/template-depot"
+title: Imprimés 17e siècle
+description: "Corpus d'entrainement pour l'HTR compos\xE9 d'imprim\xE9s fran\xE7ais du 17e s."
+url: "https://github.com/Gallicorpora/HTR-imprime-17e-siecle"
 authors:
   - name: Sagot
     surname: Benoît
@@ -31,6 +31,10 @@ authors:
     surname: Jean-Baptiste
     roles:
       - project-manager
+  - name: Fabert
+    surname: Eliott
+    roles:
+      - transcriber
 project-name: Gallicorpora
 project-website: "https://github.com/Gallicorpora"
 language:
@@ -38,10 +42,10 @@ language:
   - fra
 script:
   - Latn
-script-type: evenly-mixed
+script-type: only-typed
 time:
-  notBefore: '1400'
-  notAfter: '1900'
+  notBefore: '1600'
+  notAfter: '1699'
 hands:
   count: 1-per-folder
   precision: estimated
@@ -52,4 +56,4 @@ format: Alto-XML
 volume:
   - metric: lines
     count: 0
-transcription-guidelines: "Ajouter les références des normes de transcription"
+transcription-guidelines: "Les normes de transcription suivent les pr\xE9conisations du projet CREMMALAB : https://cremmalab.hypotheses.org"
