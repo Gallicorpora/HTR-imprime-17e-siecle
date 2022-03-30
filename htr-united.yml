@@ -1,47 +1,48 @@
 schema: https://htr-united.github.io/schema/2021-10-15/schema.json
-title: Imprimés 17e siècle
-description: "Corpus d'entrainement pour l'HTR compos\xE9 d'imprim\xE9s fran\xE7ais du 17e s."
-url: "https://github.com/Gallicorpora/HTR-imprime-17e-siecle"
+title: "Imprim\xE9s 17e si\xE8cle"
+description: "Corpus d'entrainement pour l'HTR compos\xE9 d'imprim\xE9s fran\xE7ais\
+  \ du 17e s."
+url: https://github.com/Gallicorpora/HTR-imprime-17e-siecle
 authors:
-  - name: Sagot
-    surname: Benoît
-    roles:
-      - project-manager
-  - name: Romary
-    surname: Laurent
-    roles:
-      - project-manager 
-  - name: Bawden
-    surname: Rachel
-    roles:
-      - project-manager
-  - name: Ortiz Suárez
-    surname: Pedro Javier
-    roles:
-      - project-manager
-  - name: Gabay
-    surname: Simon
-    roles:
-      - project-manager
-  - name: Pinche
-    surname: Ariane
-    roles:
-      - project-manager
-  - name: Camps
-    surname: Jean-Baptiste
-    roles:
-      - project-manager
-  - name: Fabert
-    surname: Eliott
-    roles:
-      - transcriber
+- name: Sagot
+  surname: "Beno\xEEt"
+  roles:
+  - project-manager
+- name: Romary
+  surname: Laurent
+  roles:
+  - project-manager
+- name: Bawden
+  surname: Rachel
+  roles:
+  - project-manager
+- name: "Ortiz Su\xE1rez"
+  surname: Pedro Javier
+  roles:
+  - project-manager
+- name: Gabay
+  surname: Simon
+  roles:
+  - project-manager
+- name: Pinche
+  surname: Ariane
+  roles:
+  - project-manager
+- name: Camps
+  surname: Jean-Baptiste
+  roles:
+  - project-manager
+- name: Fabert
+  surname: Eliott
+  roles:
+  - transcriber
 project-name: Gallicorpora
-project-website: "https://github.com/Gallicorpora"
+project-website: https://github.com/Gallicorpora
 language:
-  - frm
-  - fra
+- frm
+- fra
 script:
-  - Latn
+- Latn
 script-type: only-typed
 time:
   notBefore: '1600'
@@ -50,10 +51,17 @@ hands:
   count: 1-per-folder
   precision: estimated
 license:
-  - name: CC-BY 4.0
-    url: "https://creativecommons.org/licenses/by/4.0/"
+- name: CC-BY 4.0
+  url: https://creativecommons.org/licenses/by/4.0/
 format: Alto-XML
 volume:
-  - metric: lines
-    count: 0
-transcription-guidelines: "Les normes de transcription suivent les pr\xE9conisations du projet CREMMALAB : https://cremmalab.hypotheses.org"
+- metric: characters
+  count: 21024
+- metric: files
+  count: 20
+- metric: lines
+  count: 569
+- metric: regions
+  count: 79
+transcription-guidelines: "Les normes de transcription suivent les pr\xE9conisations\
+  \ du projet CREMMALAB : https://cremmalab.hypotheses.org"
