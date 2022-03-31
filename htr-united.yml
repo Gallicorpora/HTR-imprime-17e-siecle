@@ -3,14 +3,14 @@ title: Imprimés 17e siècle
 description: "Corpus d'entrainement pour l'HTR compos\xE9 d'imprim\xE9s fran\xE7ais du 17e s."
 url: "https://github.com/Gallicorpora/HTR-imprime-17e-siecle"
 authors:
-  - name: Sagot
-    surname: Benoît
+  - name: Pinche
+    surname: Ariane
     roles:
       - project-manager
-  - name: Romary
-    surname: Laurent
+  - name: Gabay
+    surname: Simon
     roles:
-      - project-manager 
+      - project-manager
   - name: Bawden
     surname: Rachel
     roles:
@@ -19,18 +19,18 @@ authors:
     surname: Pedro Javier
     roles:
       - project-manager
-  - name: Gabay
-    surname: Simon
-    roles:
-      - project-manager
-  - name: Pinche
-    surname: Ariane
-    roles:
-      - project-manager
-  - name: Camps
+   - name: Camps
     surname: Jean-Baptiste
     roles:
       - project-manager
+   - name: Romary
+    surname: Laurent
+    roles:
+      - project-manager 
+   - name: Sagot
+    surname: Benoît
+    roles:
+      - project-manager 
   - name: Fabert
     surname: Eliott
     roles:
