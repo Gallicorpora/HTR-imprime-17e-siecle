@@ -7,36 +7,35 @@ authors:
 - name: Pinche
   surname: Ariane
   roles:
-    - project-manager
+  - project-manager
 - name: Gabay
   surname: Simon
   roles:
-    - project-manager
+  - project-manager
 - name: Bawden
   surname: Rachel
   roles:
-    - project-manager
-- name: Ortiz Suárez
+  - project-manager
+- name: "Ortiz Su\xE1rez"
   surname: Pedro Javier
   roles:
-    - project-manager
+  - project-manager
 - name: Camps
   surname: Jean-Baptiste
   roles:
-      - project-manager
+  - project-manager
 - name: Romary
   surname: Laurent
   roles:
-    - project-manager 
+  - project-manager
 - name: Sagot
-  surname: Benoît
+  surname: "Beno\xEEt"
   roles:
-      - project-manager 
+  - project-manager
 - name: Fabert
   surname: Eliott
   roles:
-      - transcriber
-
+  - transcriber
 project-name: Gallicorpora
 project-website: https://github.com/Gallicorpora
 language:
