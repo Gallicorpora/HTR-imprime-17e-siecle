@@ -563,17 +563,7 @@
                    ID="eSc_textblock_8d114bca"
                    TAGREFS="BT2325">
           <Shape><Polygon POINTS="2028 44 2028 141 2028 180 1922 180 1922 44"/></Shape>
-          
-        </TextBlock>
-        
-        <TextBlock HPOS="90"
-                   VPOS="1981"
-                   WIDTH="149"
-                   HEIGHT="211"
-                   ID="eSc_textblock_381d37c9"
-                   TAGREFS="BT2323">
-          <Shape><Polygon POINTS="90 1981 90 2192 239 2192 239 1981"/></Shape>
-          
+
           <TextLine ID="line_2"
                     TAGREFS="LT817"
                     BASELINE="1940 155 1978 155" 
@@ -588,6 +578,16 @@
                     WIDTH="38"
                     HEIGHT="139"></String>
           </TextLine>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="90"
+                   VPOS="1981"
+                   WIDTH="149"
+                   HEIGHT="211"
+                   ID="eSc_textblock_381d37c9"
+                   TAGREFS="BT2323">
+          <Shape><Polygon POINTS="90 1981 90 2192 239 2192 239 1981"/></Shape>
           
         </TextBlock>
         
