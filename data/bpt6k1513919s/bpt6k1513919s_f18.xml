@@ -33,22 +33,7 @@
                    TAGREFS="BT2327">
           <Shape><Polygon POINTS="1926 258 2160 269 2117 3117 193 3085 224 242 1917 242"/></Shape>
           
-          
-          <TextLine ID="line_1"
-                    TAGREFS="LT817"
-                    BASELINE="755 207 1866 228" 
-                    HPOS="750"
-                    VPOS="88"
-                    WIDTH="1116"
-                    HEIGHT="156">
-            <Shape><Polygon POINTS="755 207 755 88 925 107 925 107 928 107 928 107 928 107 930 107 930 107 949 126 984 126 1019 99 1024 94 1024 94 1027 94 1027 94 1027 94 1030 94 1030 94 1032 94 1032 94 1032 94 1035 94 1065 102 1148 126 1299 112 1436 102 1439 102 1439 102 1439 102 1441 102 1441 102 1490 123 1506 131 1866 142 1866 228 1861 244 750 217"/></Shape>
-	    <String CONTENT="Les diuers Entretiens"
-                    HPOS="750"
-                    VPOS="88"
-                    WIDTH="1116"
-                    HEIGHT="156"></String>
-          </TextLine>
-
+        
           
           
           <TextLine ID="line_2"
@@ -544,6 +529,42 @@
 
           
           
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="713"
+                   VPOS="66"
+                   WIDTH="1181"
+                   HEIGHT="165"
+                   ID="eSc_textblock_a6a52741"
+                   TAGREFS="BT2345">
+          <Shape><Polygon POINTS="713 66 713 231 1566 231 1894 231 1894 66"/></Shape>
+
+          <TextLine ID="line_1"
+                    TAGREFS="LT817"
+                    BASELINE="755 207 1866 228" 
+                    HPOS="750"
+                    VPOS="88"
+                    WIDTH="1116"
+                    HEIGHT="156">
+            <Shape><Polygon POINTS="755 207 755 88 925 107 925 107 928 107 928 107 928 107 930 107 930 107 949 126 984 126 1019 99 1024 94 1024 94 1027 94 1027 94 1027 94 1030 94 1030 94 1032 94 1032 94 1032 94 1035 94 1065 102 1148 126 1299 112 1436 102 1439 102 1439 102 1439 102 1441 102 1441 102 1490 123 1506 131 1866 142 1866 228 1861 244 750 217"/></Shape>
+	    <String CONTENT="Les diuers Entretiens"
+                    HPOS="750"
+                    VPOS="88"
+                    WIDTH="1116"
+                    HEIGHT="156"></String>
+          </TextLine>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="240"
+                   VPOS="109"
+                   WIDTH="133"
+                   HEIGHT="106"
+                   ID="eSc_textblock_562fe4f6"
+                   TAGREFS="BT2325">
+          <Shape><Polygon POINTS="373 109 373 215 240 215 240 109"/></Shape>
+          
           <TextLine ID="line_0"
                     TAGREFS="LT817"
                     BASELINE="242 207 363 212" 
@@ -558,27 +579,6 @@
                     WIDTH="127"
                     HEIGHT="105"></String>
           </TextLine>
-
-          
-        </TextBlock>
-        
-        <TextBlock HPOS="713"
-                   VPOS="66"
-                   WIDTH="1181"
-                   HEIGHT="165"
-                   ID="eSc_textblock_a6a52741"
-                   TAGREFS="BT2345">
-          <Shape><Polygon POINTS="713 66 713 231 1566 231 1894 231 1894 66"/></Shape>
-          
-        </TextBlock>
-        
-        <TextBlock HPOS="240"
-                   VPOS="109"
-                   WIDTH="133"
-                   HEIGHT="106"
-                   ID="eSc_textblock_562fe4f6"
-                   TAGREFS="BT2325">
-          <Shape><Polygon POINTS="373 109 373 215 240 215 240 109"/></Shape>
           
         </TextBlock>
         
