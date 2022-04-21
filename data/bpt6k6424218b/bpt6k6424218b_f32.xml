@@ -34,37 +34,6 @@
           <Shape><Polygon POINTS="528 234 940 225 1038 218 1081 214 1133 231 1104 1926 1019 1941 974 1861 260 1840 265 460 279 223"/></Shape>
           
           
-          <TextLine ID="line_0"
-                    TAGREFS="LT830"
-                    BASELINE="296 198 376 202" 
-                    HPOS="292"
-                    VPOS="139"
-                    WIDTH="84"
-                    HEIGHT="72">
-            <Shape><Polygon POINTS="296 198 296 139 376 140 376 202 372 211 292 209"/></Shape>
-	    <String CONTENT="18"
-                    HPOS="292"
-                    VPOS="139"
-                    WIDTH="84"
-                    HEIGHT="72"></String>
-          </TextLine>
-
-          
-          
-          <TextLine ID="line_1"
-                    TAGREFS="LT830"
-                    BASELINE="464 202 965 211" 
-                    HPOS="459"
-                    VPOS="158"
-                    WIDTH="506"
-                    HEIGHT="69">
-            <Shape><Polygon POINTS="464 202 462 169 618 158 620 158 650 166 681 173 692 164 697 160 697 158 699 158 701 158 703 158 764 158 795 162 855 171 885 160 893 158 894 158 896 158 965 160 965 211 963 225 878 227 876 227 875 227 873 227 867 223 857 216 799 220 743 223 741 223 739 223 737 223 737 222 732 218 730 214 726 218 714 223 712 223 710 223 708 223 683 216 676 214 667 214 614 222 612 222 544 211 542 211 540 211 489 220 488 220 486 220 459 207"/></Shape>
-	    <String CONTENT="LE ROMANT"
-                    HPOS="459"
-                    VPOS="158"
-                    WIDTH="506"
-                    HEIGHT="69"></String>
-          </TextLine>
 
           
           
@@ -501,6 +470,21 @@
                    ID="eSc_textblock_f47849f0"
                    TAGREFS="BT2367">
           <Shape><Polygon POINTS="445 123 445 229 982 229 982 123"/></Shape>
+
+          <TextLine ID="line_1"
+                    TAGREFS="LT830"
+                    BASELINE="464 202 965 211" 
+                    HPOS="459"
+                    VPOS="158"
+                    WIDTH="506"
+                    HEIGHT="69">
+            <Shape><Polygon POINTS="464 202 462 169 618 158 620 158 650 166 681 173 692 164 697 160 697 158 699 158 701 158 703 158 764 158 795 162 855 171 885 160 893 158 894 158 896 158 965 160 965 211 963 225 878 227 876 227 875 227 873 227 867 223 857 216 799 220 743 223 741 223 739 223 737 223 737 222 732 218 730 214 726 218 714 223 712 223 710 223 708 223 683 216 676 214 667 214 614 222 612 222 544 211 542 211 540 211 489 220 488 220 486 220 459 207"/></Shape>
+	    <String CONTENT="LE ROMANT"
+                    HPOS="459"
+                    VPOS="158"
+                    WIDTH="506"
+                    HEIGHT="69"></String>
+          </TextLine>
           
         </TextBlock>
         
@@ -511,6 +495,21 @@
                    ID="eSc_textblock_38a52433"
                    TAGREFS="BT2365">
           <Shape><Polygon POINTS="274 137 274 229 390 229 390 137"/></Shape>
+          
+          <TextLine ID="line_0"
+                    TAGREFS="LT830"
+                    BASELINE="296 198 376 202" 
+                    HPOS="292"
+                    VPOS="139"
+                    WIDTH="84"
+                    HEIGHT="72">
+            <Shape><Polygon POINTS="296 198 296 139 376 140 376 202 372 211 292 209"/></Shape>
+	    <String CONTENT="18"
+                    HPOS="292"
+                    VPOS="139"
+                    WIDTH="84"
+                    HEIGHT="72"></String>
+          </TextLine>
           
         </TextBlock>
         

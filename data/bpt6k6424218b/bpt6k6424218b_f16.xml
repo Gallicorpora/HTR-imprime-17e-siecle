@@ -51,37 +51,9 @@
 
           
           
-          <TextLine ID="line_1"
-                    TAGREFS="LT830"
-                    BASELINE="465 156 956 149" 
-                    HPOS="461"
-                    VPOS="102"
-                    WIDTH="495"
-                    HEIGHT="60">
-            <Shape><Polygon POINTS="465 156 461 104 949 102 956 149 956 156 465 162"/></Shape>
-	    <String CONTENT="LE ROMANT"
-                    HPOS="461"
-                    VPOS="102"
-                    WIDTH="495"
-                    HEIGHT="60"></String>
-          </TextLine>
 
           
           
-          <TextLine ID="line_2"
-                    TAGREFS="LT830"
-                    BASELINE="281 225 1131 214" 
-                    HPOS="277"
-                    VPOS="158"
-                    WIDTH="854"
-                    HEIGHT="85">
-            <Shape><Polygon POINTS="281 225 277 173 353 165 355 165 357 165 359 165 364 171 371 178 415 178 422 171 425 167 427 167 429 167 431 167 433 167 442 171 447 174 483 171 577 162 579 162 581 162 582 162 595 171 600 176 638 176 656 171 701 160 703 160 705 160 730 171 736 173 745 171 786 160 788 160 790 160 792 160 817 171 824 173 945 173 947 171 963 158 965 158 967 158 968 158 970 158 994 171 1109 171 1131 214 1129 230 577 230 566 239 564 239 562 239 561 239 550 239 460 232 373 241 371 241 330 234 281 243"/></Shape>
-	    <String CONTENT="d’heure : Mais au lieu detirer de tou¬"
-                    HPOS="277"
-                    VPOS="158"
-                    WIDTH="854"
-                    HEIGHT="85"></String>
-          </TextLine>
 
           
           
@@ -501,6 +473,21 @@
                    ID="eSc_textblock_93bb72f6"
                    TAGREFS="BT2367">
           <Shape><Polygon POINTS="984 72 982 170 455 161 455 72"/></Shape>
+
+          <TextLine ID="line_1"
+                    TAGREFS="LT830"
+                    BASELINE="465 156 956 149" 
+                    HPOS="461"
+                    VPOS="102"
+                    WIDTH="495"
+                    HEIGHT="60">
+            <Shape><Polygon POINTS="465 156 461 104 949 102 956 149 956 156 465 162"/></Shape>
+	    <String CONTENT="LE ROMANT"
+                    HPOS="461"
+                    VPOS="102"
+                    WIDTH="495"
+                    HEIGHT="60"></String>
+          </TextLine>
           
         </TextBlock>
         
@@ -511,6 +498,21 @@
                    ID="eSc_textblock_ae832f18"
                    TAGREFS="BT2365">
           <Shape><Polygon POINTS="275 108 275 164 347 164 347 108"/></Shape>
+          
+          <TextLine ID="line_2"
+                    TAGREFS="LT830"
+                    BASELINE="281 225 1131 214" 
+                    HPOS="277"
+                    VPOS="158"
+                    WIDTH="854"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="281 225 277 173 353 165 355 165 357 165 359 165 364 171 371 178 415 178 422 171 425 167 427 167 429 167 431 167 433 167 442 171 447 174 483 171 577 162 579 162 581 162 582 162 595 171 600 176 638 176 656 171 701 160 703 160 705 160 730 171 736 173 745 171 786 160 788 160 790 160 792 160 817 171 824 173 945 173 947 171 963 158 965 158 967 158 968 158 970 158 994 171 1109 171 1131 214 1129 230 577 230 566 239 564 239 562 239 561 239 550 239 460 232 373 241 371 241 330 234 281 243"/></Shape>
+	    <String CONTENT="d’heure : Mais au lieu detirer de tou¬"
+                    HPOS="277"
+                    VPOS="158"
+                    WIDTH="854"
+                    HEIGHT="85"></String>
+          </TextLine>
           
         </TextBlock>
         

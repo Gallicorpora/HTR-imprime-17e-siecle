@@ -34,37 +34,9 @@
           <Shape><Polygon POINTS="107 218 98 1928 998 1928 955 209"/></Shape>
           
           
-          <TextLine ID="line_11"
-                    TAGREFS="LT830"
-                    BASELINE="348 192 733 188" 
-                    HPOS="341"
-                    VPOS="132"
-                    WIDTH="392"
-                    HEIGHT="78">
-            <Shape><Polygon POINTS="348 192 341 147 355 134 357 134 359 134 361 134 445 147 452 147 575 147 575 145 593 132 594 132 596 132 598 132 600 132 634 145 729 145 733 188 729 208 677 199 652 208 648 208 646 208 645 208 612 206 517 201 510 204 503 210 501 210 499 210 497 210 346 201"/></Shape>
-	    <String CONTENT="COMIQVE."
-                    HPOS="341"
-                    VPOS="132"
-                    WIDTH="392"
-                    HEIGHT="78"></String>
-          </TextLine>
 
           
           
-          <TextLine ID="line_12"
-                    TAGREFS="LT830"
-                    BASELINE="885 188 955 188" 
-                    HPOS="882"
-                    VPOS="150"
-                    WIDTH="73"
-                    HEIGHT="63">
-            <Shape><Polygon POINTS="885 188 885 150 955 150 955 188 955 206 918 213 916 213 914 213 882 202"/></Shape>
-	    <String CONTENT="11"
-                    HPOS="882"
-                    VPOS="150"
-                    WIDTH="73"
-                    HEIGHT="63"></String>
-          </TextLine>
 
           
           
@@ -501,6 +473,21 @@
                    ID="eSc_textblock_f1c9bc60"
                    TAGREFS="BT2367">
           <Shape><Polygon POINTS="346 118 346 205 749 205 749 118"/></Shape>
+
+          <TextLine ID="line_11"
+                    TAGREFS="LT830"
+                    BASELINE="348 192 733 188" 
+                    HPOS="341"
+                    VPOS="132"
+                    WIDTH="392"
+                    HEIGHT="78">
+            <Shape><Polygon POINTS="348 192 341 147 355 134 357 134 359 134 361 134 445 147 452 147 575 147 575 145 593 132 594 132 596 132 598 132 600 132 634 145 729 145 733 188 729 208 677 199 652 208 648 208 646 208 645 208 612 206 517 201 510 204 503 210 501 210 499 210 497 210 346 201"/></Shape>
+	    <String CONTENT="COMIQVE."
+                    HPOS="341"
+                    VPOS="132"
+                    WIDTH="392"
+                    HEIGHT="78"></String>
+          </TextLine>
           
         </TextBlock>
         
@@ -511,6 +498,21 @@
                    ID="eSc_textblock_8c8ba341"
                    TAGREFS="BT2365">
           <Shape><Polygon POINTS="876 125 876 202 966 202 966 125"/></Shape>
+          
+          <TextLine ID="line_12"
+                    TAGREFS="LT830"
+                    BASELINE="885 188 955 188" 
+                    HPOS="882"
+                    VPOS="150"
+                    WIDTH="73"
+                    HEIGHT="63">
+            <Shape><Polygon POINTS="885 188 885 150 955 150 955 188 955 206 918 213 916 213 914 213 882 202"/></Shape>
+	    <String CONTENT="11"
+                    HPOS="882"
+                    VPOS="150"
+                    WIDTH="73"
+                    HEIGHT="63"></String>
+          </TextLine>
           
         </TextBlock>
         
