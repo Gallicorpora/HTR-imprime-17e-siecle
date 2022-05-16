@@ -4,38 +4,22 @@ description: "Corpus d'entrainement pour l'HTR compos\xE9 d'imprim\xE9s fran\xE7
   \ du 17e s."
 url: https://github.com/Gallicorpora/HTR-imprime-17e-siecle
 authors:
-- name: Pinche
-  surname: Ariane
-  roles:
-  - project-manager
 - name: Gabay
   surname: Simon
   roles:
   - project-manager
-- name: Bawden
-  surname: Rachel
-  roles:
-  - project-manager
-- name: "Ortiz Su\xE1rez"
-  surname: Pedro Javier
-  roles:
-  - project-manager
-- name: Camps
-  surname: Jean-Baptiste
-  roles:
-  - project-manager
-- name: Romary
-  surname: Laurent
-  roles:
-  - project-manager
-- name: Sagot
-  surname: "Beno\xEEt"
+- name: Pinche
+  surname: Ariane
   roles:
   - project-manager
 - name: Fabert
   surname: Eliott
   roles:
   - transcriber
+- name : Christensen
+  surname : Kelly
+  roles:
+  - support
 project-name: Gallicorpora
 project-website: https://github.com/Gallicorpora
 language:
@@ -64,4 +48,5 @@ volume:
 - metric: regions
   count: 152
 transcription-guidelines: "Les normes de transcription suivent les pr\xE9conisations\
-  \ du projet CREMMALAB : https://cremmalab.hypotheses.org"
+  \ du projet gallicorpora"
+citation-file-link: https://github.com/Gallicorpora/HTR-imprime-17e-siecle/CITATION.cff
