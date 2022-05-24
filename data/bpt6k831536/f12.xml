@@ -565,14 +565,14 @@
           
           
           <TextLine ID="eSc_line_ea4fe7c0"
-                    
+                    TAGREFS="LT725"
                     BASELINE="2240 1399 2318 1399" 
                     HPOS="2238"
                     VPOS="1344"
                     WIDTH="79"
                     HEIGHT="78">
-            <Shape><Polygon POINTS="2277 1352 2238 1344 2238 1395 2238 1422 2317 1418 2317 1395 2317 1356 2277 1352"/></Shape>
-	    <String CONTENT=""
+            <Shape><Polygon POINTS="2238 1344 2238 1395 2238 1422 2317 1418 2317 1395 2317 1356 2277 1352"/></Shape>
+	    <String CONTENT="II"
                     HPOS="2238"
                     VPOS="1344"
                     WIDTH="79"
