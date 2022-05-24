@@ -95,25 +95,8 @@
 
           
           
-          <TextLine ID="eSc_line_96bfc9c4"
-                    
-                    BASELINE="932 323 1006 322" 
-                    HPOS="927"
-                    VPOS="262"
-                    WIDTH="77"
-                    HEIGHT="79">
-            <Shape><Polygon POINTS="931 322 931 341 1004 339 1004 320 1000 262 927 262 931 322"/></Shape>
-	    <String CONTENT=""
-                    HPOS="927"
-                    VPOS="262"
-                    WIDTH="77"
-                    HEIGHT="79"></String>
-          </TextLine>
-
-          
-          
           <TextLine ID="eSc_line_8aa6a4cb"
-                    
+                    TAGREFS="LT712"
                     BASELINE="68 382 128 381" 
                     HPOS="67"
                     VPOS="264"
