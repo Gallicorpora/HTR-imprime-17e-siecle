@@ -32,22 +32,6 @@
                    ID="eSc_textblock_932aa067"
                    TAGREFS="BT2062">
           <Shape><Polygon POINTS="277 403 277 3117 2313 3117 2292 385"/></Shape>
-          
-          
-          <TextLine ID="eSc_line_ecadb35e"
-                    TAGREFS="LT722"
-                    BASELINE="918 368 1675 356" 
-                    HPOS="915"
-                    VPOS="256"
-                    WIDTH="760"
-                    HEIGHT="131">
-            <Shape><Polygon POINTS="918 368 915 256 1657 259 1675 356 1675 365 918 387"/></Shape>
-	    <String CONTENT="EPISTRE."
-                    HPOS="915"
-                    VPOS="256"
-                    WIDTH="760"
-                    HEIGHT="131"></String>
-          </TextLine>
 
           
           
@@ -444,6 +428,21 @@
                    TAGREFS="BT2067">
           <Shape><Polygon POINTS="902 278 904 380 1392 378 1698 373 1698 271"/></Shape>
           
+        <TextLine ID="eSc_line_ecadb35e"
+                    TAGREFS="LT722"
+                    BASELINE="918 368 1675 356" 
+                    HPOS="915"
+                    VPOS="256"
+                    WIDTH="760"
+                    HEIGHT="131">
+            <Shape><Polygon POINTS="918 368 915 256 1657 259 1675 356 1675 365 918 387"/></Shape>
+	    <String CONTENT="EPISTRE."
+                    HPOS="915"
+                    VPOS="256"
+                    WIDTH="760"
+                    HEIGHT="131"></String>
+          </TextLine>
+
         </TextBlock>
         
 
