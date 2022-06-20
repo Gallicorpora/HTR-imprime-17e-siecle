@@ -44,7 +44,7 @@ license:
 format: Alto-XML
 volume:
 - metric: characters
-  count: 95990
+  count: 97131
 - metric: files
   count: 140
 - metric: lines
@@ -55,3 +55,91 @@ transcription-guidelines: "Les normes de transcription suivent les pr\xE9conisat
   \ du projet gallicorpora"
 citation-file-link: https://github.com/Gallicorpora/HTR-imprime-17e-siecle/CITATION.cff
 production-software: eScriptorium + Kraken
+characters:
+  mode: NFD
+  members:
+  - e
+  - u
+  - a
+  - n
+  - r
+  - i
+  - t
+  - o
+  - l
+  - s
+  - "\u017F"
+  - d
+  - c
+  - m
+  - p
+  - ','
+  - q
+  - v
+  - f
+  - "\u2019"
+  - g
+  - y
+  - b
+  - E
+  - .
+  - h
+  - "\u0301"
+  - '&'
+  - A
+  - S
+  - x
+  - C
+  - "\xAC"
+  - L
+  - I
+  - "\u0300"
+  - P
+  - D
+  - M
+  - V
+  - ''''
+  - R
+  - O
+  - T
+  - z
+  - N
+  - ':'
+  - '-'
+  - Q
+  - F
+  - "\u0308"
+  - G
+  - B
+  - ;
+  - j
+  - '?'
+  - "\u0303"
+  - H
+  - "\u0327"
+  - '1'
+  - "\u0153"
+  - '3'
+  - "\u0302"
+  - '2'
+  - Y
+  - '4'
+  - "\xDF"
+  - '5'
+  - Z
+  - "\xC6"
+  - '7'
+  - '6'
+  - (
+  - X
+  - '9'
+  - '!'
+  - "\xE6"
+  - )
+  - J
+  - '8'
+  - '0'
+  - K
+  - U
+  - "\u0152"
+  - "\uA770"
