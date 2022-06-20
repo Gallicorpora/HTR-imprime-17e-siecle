@@ -1,4 +1,4 @@
-schema: https://htr-united.github.io/schema/2021-10-15/schema.json
+schema: https://htr-united.github.io/schema/2022-04-15/schema.json
 title: "Imprim\xE9s 17e si\xE8cle"
 description: "Corpus d'entrainement pour l'HTR compos\xE9 d'imprim\xE9s fran\xE7ais\
   \ du 17e s."
@@ -30,7 +30,7 @@ language:
 - frm
 - fra
 script:
-- Latn
+- iso: Latn
 script-type: only-typed
 time:
   notBefore: '1600'
@@ -54,3 +54,4 @@ volume:
 transcription-guidelines: "Les normes de transcription suivent les pr\xE9conisations\
   \ du projet gallicorpora"
 citation-file-link: https://github.com/Gallicorpora/HTR-imprime-17e-siecle/CITATION.cff
+production-software: eScriptorium + Kraken
