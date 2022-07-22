@@ -81,55 +81,59 @@
             <ptr target="https://github.com/segmonto"/>
           </bibl>
           <category xml:id="SegmOntoZones">
-            <catDesc xml:id="QuireMarksZone">
-              <title>QuireMarksZone</title>
-              <ptr target="https://segmonto.github.io/gd/gdZ/QuireMarksZone"/>
-            </catDesc>
-            <catDesc xml:id="MusicZone">
-              <title>MusicZone</title>
-              <ptr target="https://segmonto.github.io/gd/gdZ/MusicZone"/>
+            <catDesc xml:id="DropCapitalZone">
+              <title>DropCapitalZone</title>
+              <ptr target="https://segmonto.github.io/gd/gdZ/DropCapitalZone"/>
             </catDesc>
             <catDesc xml:id="TableZone">
               <title>TableZone</title>
               <ptr target="https://segmonto.github.io/gd/gdZ/TableZone"/>
             </catDesc>
-            <catDesc xml:id="MainZone">
-              <title>MainZone</title>
-              <ptr target="https://segmonto.github.io/gd/gdZ/MainZone"/>
-            </catDesc>
             <catDesc xml:id="SealZone">
               <title>SealZone</title>
               <ptr target="https://segmonto.github.io/gd/gdZ/SealZone"/>
             </catDesc>
-            <catDesc xml:id="StampZone">
-              <title>StampZone</title>
-              <ptr target="https://segmonto.github.io/gd/gdZ/StampZone"/>
-            </catDesc>
-            <catDesc xml:id="DamageZone">
-              <title>DamageZone</title>
-              <ptr target="https://segmonto.github.io/gd/gdZ/DamageZone"/>
+            <catDesc xml:id="MainZone">
+              <title>MainZone</title>
+              <ptr target="https://segmonto.github.io/gd/gdZ/MainZone"/>
             </catDesc>
             <catDesc xml:id="TitlePageZone">
               <title>TitlePageZone</title>
               <ptr target="https://segmonto.github.io/gd/gdZ/TitlePageZone"/>
             </catDesc>
-            <catDesc xml:id="DropCapitalZone">
-              <title>DropCapitalZone</title>
-              <ptr target="https://segmonto.github.io/gd/gdZ/DropCapitalZone"/>
+            <catDesc xml:id="DamageZone">
+              <title>DamageZone</title>
+              <ptr target="https://segmonto.github.io/gd/gdZ/DamageZone"/>
             </catDesc>
-            <catDesc xml:id="NumberingZone">
-              <title>NumberingZone</title>
-              <ptr target="https://segmonto.github.io/gd/gdZ/NumberingZone"/>
+            <catDesc xml:id="StampZone">
+              <title>StampZone</title>
+              <ptr target="https://segmonto.github.io/gd/gdZ/StampZone"/>
+            </catDesc>
+            <catDesc xml:id="MusicZone">
+              <title>MusicZone</title>
+              <ptr target="https://segmonto.github.io/gd/gdZ/MusicZone"/>
             </catDesc>
             <catDesc xml:id="RunningTitleZone">
               <title>RunningTitleZone</title>
               <ptr target="https://segmonto.github.io/gd/gdZ/RunningTitleZone"/>
+            </catDesc>
+            <catDesc xml:id="QuireMarksZone">
+              <title>QuireMarksZone</title>
+              <ptr target="https://segmonto.github.io/gd/gdZ/QuireMarksZone"/>
+            </catDesc>
+            <catDesc xml:id="NumberingZone">
+              <title>NumberingZone</title>
+              <ptr target="https://segmonto.github.io/gd/gdZ/NumberingZone"/>
             </catDesc>
           </category>
           <category xml:id="SegmOntoLines">
             <catDesc xml:id="MusicLine">
               <title>MusicLine</title>
               <ptr target="https://segmonto.github.io/gd/gdL/MusicLine"/>
+            </catDesc>
+            <catDesc xml:id="DefaultLine">
+              <title>DefaultLine</title>
+              <ptr target="https://segmonto.github.io/gd/gdL/DefaultLine"/>
             </catDesc>
             <catDesc xml:id="InterlinearLine">
               <title>InterlinearLine</title>
@@ -142,10 +146,6 @@
             <catDesc xml:id="HeadingLine">
               <title>HeadingLine</title>
               <ptr target="https://segmonto.github.io/gd/gdL/HeadingLine"/>
-            </catDesc>
-            <catDesc xml:id="DefaultLine">
-              <title>DefaultLine</title>
-              <ptr target="https://segmonto.github.io/gd/gdL/DefaultLine"/>
             </catDesc>
           </category>
         </taxonomy>
@@ -1626,11 +1626,11 @@
       <div>
         <pb corresp="#f2"/>
         <pb corresp="#f3"/>
-        <ab corresp="#f3-eSc_textblock_d8a16921-blockCount1" type="MainZone"><hi rend="HeadingLine"><lb corresp="#f3-eSc_textblock_d8a16921-eSc_line_953379eb-lineCount1"/>PREFACE.<lb corresp="#f3-eSc_textblock_d8a16921-eSc_line_a760bc14-lineCount2"/>P</hi><lb corresp="#f3-eSc_textblock_d8a16921-eSc_line_8a63fe7f-lineCount3"/>Our la ſatisfaction du<lb corresp="#f3-eSc_textblock_d8a16921-eSc_line_97095f59-lineCount4"/>Lecteur, &amp; pour ma<lb corresp="#f3-eSc_textblock_d8a16921-eSc_line_d55b5447-lineCount5"/>propre iuſtification, je<lb corresp="#f3-eSc_textblock_d8a16921-eSc_line_529803d9-lineCount6"/>crois que ie dois dire deux mots<lb corresp="#f3-eSc_textblock_d8a16921-eSc_line_d1f960cd-lineCount7"/>du deſſein qui m’a obligé d'entre¬<lb corresp="#f3-eSc_textblock_d8a16921-eSc_line_2b3708cb-lineCount8"/>prendre ces Lettres. Ie ne pre¬<lb corresp="#f3-eSc_textblock_d8a16921-eSc_line_5aff61c8-lineCount9"/>tens pas d’éclaircir icy le lecteur<lb corresp="#f3-eSc_textblock_d8a16921-eSc_line_98ffa166-lineCount10"/>ſi les cinq Portugaiſes ſont, ou<lb corresp="#f3-eSc_textblock_d8a16921-eSc_line_376c0f30-lineCount11"/>veritables ou ſuppoſées, ny ſi elles<lb corresp="#f3-eSc_textblock_d8a16921-eSc_line_7b2b3a15-lineCount12"/>s’addreſſent, comme l’on dit, à vn<lb corresp="#f3-eSc_textblock_d8a16921-eSc_line_0cb45029-lineCount13"/>des plus ſignalez Seigneurs du<lb corresp="#f3-eSc_textblock_d8a16921-eSc_line_a8498201-lineCount14"/>Royaume; ce n’eſt pas ſur cette</ab>
+        <ab corresp="#f3-eSc_textblock_d8a16921-blockCount1" type="MainZone"><hi rend="HeadingLine"><lb corresp="#f3-eSc_textblock_d8a16921-eSc_line_953379eb-lineCount1"/>PREFACE.</hi><hi rend="DropCapitalLine"><lb corresp="#f3-eSc_textblock_d8a16921-eSc_line_a760bc14-lineCount2"/>P</hi><lb corresp="#f3-eSc_textblock_d8a16921-eSc_line_8a63fe7f-lineCount3"/>Our la ſatisfaction du<lb corresp="#f3-eSc_textblock_d8a16921-eSc_line_97095f59-lineCount4"/>Lecteur, &amp; pour ma<lb corresp="#f3-eSc_textblock_d8a16921-eSc_line_d55b5447-lineCount5"/>propre iuſtification, je<lb corresp="#f3-eSc_textblock_d8a16921-eSc_line_529803d9-lineCount6"/>crois que ie dois dire deux mots<lb corresp="#f3-eSc_textblock_d8a16921-eSc_line_d1f960cd-lineCount7"/>du deſſein qui m’a obligé d'entre¬<lb corresp="#f3-eSc_textblock_d8a16921-eSc_line_2b3708cb-lineCount8"/>prendre ces Lettres. Ie ne pre¬<lb corresp="#f3-eSc_textblock_d8a16921-eSc_line_5aff61c8-lineCount9"/>tens pas d’éclaircir icy le lecteur<lb corresp="#f3-eSc_textblock_d8a16921-eSc_line_98ffa166-lineCount10"/>ſi les cinq Portugaiſes ſont, ou<lb corresp="#f3-eSc_textblock_d8a16921-eSc_line_376c0f30-lineCount11"/>veritables ou ſuppoſées, ny ſi elles<lb corresp="#f3-eSc_textblock_d8a16921-eSc_line_7b2b3a15-lineCount12"/>s’addreſſent, comme l’on dit, à vn<lb corresp="#f3-eSc_textblock_d8a16921-eSc_line_0cb45029-lineCount13"/>des plus ſignalez Seigneurs du<lb corresp="#f3-eSc_textblock_d8a16921-eSc_line_a8498201-lineCount14"/>Royaume; ce n’eſt pas ſur cette</ab>
         <fw corresp="#f3-eSc_textblock_ae8ed9cc-blockCount2" type="QuireMarksZone"><lb corresp="#f3-eSc_textblock_ae8ed9cc-eSc_line_c55fac01-lineCount15"/>ã. ij</fw>
         <pb corresp="#f11"/>
         <fw corresp="#f11-eSc_textblock_1107215c-blockCount1" type="NumberingZone"><lb corresp="#f11-eSc_textblock_1107215c-eSc_line_997eee51-lineCount1"/>1</fw>
-        <ab corresp="#f11-eSc_textblock_a18171b8-blockCount2" type="MainZone"><hi rend="HeadingLine"><lb corresp="#f11-eSc_textblock_a18171b8-eSc_line_a525cf7d-lineCount2"/>PREMIERE<lb corresp="#f11-eSc_textblock_a18171b8-eSc_line_aef28e61-lineCount3"/>LETTRE.<lb corresp="#f11-eSc_textblock_a18171b8-eSc_line_38f73a0f-lineCount4"/>A</hi><lb corresp="#f11-eSc_textblock_a18171b8-eSc_line_65c40fbf-lineCount5"/>Dieu Mariane,<lb corresp="#f11-eSc_textblock_a18171b8-eSc_line_b49ae5ac-lineCount6"/>Adieu; Ie te quit¬<lb corresp="#f11-eSc_textblock_a18171b8-eSc_line_1a77676c-lineCount7"/>te, &amp; ie te quitte<lb corresp="#f11-eSc_textblock_a18171b8-eSc_line_a38da135-lineCount8"/>auec ce déplaiſir de ne te<lb corresp="#f11-eSc_textblock_a18171b8-eSc_line_b1219822-lineCount9"/>pouuoir pas perſuader le<lb corresp="#f11-eSc_textblock_a18171b8-eSc_line_1f5b5efa-lineCount10"/>deſeſpoir où me jette la<lb corresp="#f11-eSc_textblock_a18171b8-eSc_line_bd55fa5b-lineCount11"/>neceſſité inéuitable de<lb corresp="#f11-eSc_textblock_a18171b8-eSc_line_aab1772b-lineCount12"/>mon départ; mais je t’en</ab>
+        <ab corresp="#f11-eSc_textblock_a18171b8-blockCount2" type="MainZone"><hi rend="HeadingLine"><lb corresp="#f11-eSc_textblock_a18171b8-eSc_line_a525cf7d-lineCount2"/>PREMIERE<lb corresp="#f11-eSc_textblock_a18171b8-eSc_line_aef28e61-lineCount3"/>LETTRE.</hi><hi rend="DropCapitalLine"><lb corresp="#f11-eSc_textblock_a18171b8-eSc_line_38f73a0f-lineCount4"/>A</hi><lb corresp="#f11-eSc_textblock_a18171b8-eSc_line_65c40fbf-lineCount5"/>Dieu Mariane,<lb corresp="#f11-eSc_textblock_a18171b8-eSc_line_b49ae5ac-lineCount6"/>Adieu; Ie te quit¬<lb corresp="#f11-eSc_textblock_a18171b8-eSc_line_1a77676c-lineCount7"/>te, &amp; ie te quitte<lb corresp="#f11-eSc_textblock_a18171b8-eSc_line_a38da135-lineCount8"/>auec ce déplaiſir de ne te<lb corresp="#f11-eSc_textblock_a18171b8-eSc_line_b1219822-lineCount9"/>pouuoir pas perſuader le<lb corresp="#f11-eSc_textblock_a18171b8-eSc_line_1f5b5efa-lineCount10"/>deſeſpoir où me jette la<lb corresp="#f11-eSc_textblock_a18171b8-eSc_line_bd55fa5b-lineCount11"/>neceſſité inéuitable de<lb corresp="#f11-eSc_textblock_a18171b8-eSc_line_aab1772b-lineCount12"/>mon départ; mais je t’en</ab>
         <fw corresp="#f11-eSc_textblock_0618e13c-blockCount3" type="QuireMarksZone"><lb corresp="#f11-eSc_textblock_0618e13c-eSc_line_e501783d-lineCount13"/>A</fw>
         <pb corresp="#f12"/>
         <fw corresp="#f12-eSc_textblock_44adae3c-blockCount1" type="NumberingZone"><lb corresp="#f12-eSc_textblock_44adae3c-eSc_line_56c7a52c-lineCount1"/>2</fw>
@@ -1669,7 +1669,7 @@
         <ab corresp="#f32-eSc_textblock_1893dd53-blockCount3" type="MainZone"><lb corresp="#f32-eSc_textblock_1893dd53-eSc_line_ccb0300d-lineCount3"/>quelques fois à nos plai¬<lb corresp="#f32-eSc_textblock_1893dd53-eSc_line_0ed9f3d4-lineCount4"/>ſirs, penſez auſſi quelque<lb corresp="#f32-eSc_textblock_1893dd53-eSc_line_070a4cf7-lineCount5"/>fois à mon infortune; ie<lb corresp="#f32-eSc_textblock_1893dd53-eSc_line_d797b045-lineCount6"/>me vas mettre ſur le plus<lb corresp="#f32-eSc_textblock_1893dd53-eSc_line_0be3a3a7-lineCount7"/>infidelle des élemens, que<lb corresp="#f32-eSc_textblock_1893dd53-eSc_line_137915ad-lineCount8"/>n’eſt-il auſſi le plus cruel,<lb corresp="#f32-eSc_textblock_1893dd53-eSc_line_d8b248ea-lineCount9"/>&amp; s’il eſt vray que ie ne<lb corresp="#f32-eSc_textblock_1893dd53-eSc_line_d75dfc06-lineCount10"/>vous verray plus, &amp; que<lb corresp="#f32-eSc_textblock_1893dd53-eSc_line_276b6fe3-lineCount11"/>vous m'oubliés dans cet¬<lb corresp="#f32-eSc_textblock_1893dd53-eSc_line_068cdaad-lineCount12"/>te abſence (ce que ie ne<lb corresp="#f32-eSc_textblock_1893dd53-eSc_line_ebaecea5-lineCount13"/>puis m'imaginer) que<lb corresp="#f32-eSc_textblock_1893dd53-eSc_line_8da2cb4d-lineCount14"/>ne m’engloutit-il mille<lb corresp="#f32-eSc_textblock_1893dd53-eSc_line_e0340eed-lineCount15"/>fois, que ne fait-il é¬<lb corresp="#f32-eSc_textblock_1893dd53-eSc_line_af272c16-lineCount16"/>choüer mon vaiſſeau con¬<lb corresp="#f32-eSc_textblock_1893dd53-eSc_line_786ba709-lineCount17"/>tre vn banc de ſable; que</ab>
         <pb corresp="#f35"/>
         <fw corresp="#f35-eSc_textblock_afc78e64-blockCount1" type="NumberingZone"><lb corresp="#f35-eSc_textblock_afc78e64-eSc_line_f94bcf72-lineCount1"/>25</fw>
-        <ab corresp="#f35-eSc_textblock_63904eca-blockCount2" type="MainZone"><hi rend="HeadingLine"><lb corresp="#f35-eSc_textblock_63904eca-eSc_line_6c6bfec9-lineCount2"/>SECONDE<lb corresp="#f35-eSc_textblock_63904eca-eSc_line_be8ba11c-lineCount3"/>LETTRE.<lb corresp="#f35-eSc_textblock_63904eca-eSc_line_87bc1fe1-lineCount4"/>N</hi><lb corresp="#f35-eSc_textblock_63904eca-eSc_line_52e52b6e-lineCount5"/>'Eſtoit-ce pas aſ¬<lb corresp="#f35-eSc_textblock_63904eca-eSc_line_213d67d2-lineCount6"/>ſez de mes mal¬<lb corresp="#f35-eSc_textblock_63904eca-eSc_line_f93be9f5-lineCount7"/>heurs? Le deſeſ¬<lb corresp="#f35-eSc_textblock_63904eca-eSc_line_4942e0bf-lineCount8"/>poir d’eſtre reduit à vous<lb corresp="#f35-eSc_textblock_63904eca-eSc_line_9eec5b8c-lineCount9"/>abandonner ne pouuoit-<lb corresp="#f35-eSc_textblock_63904eca-eSc_line_9e511ca4-lineCount10"/>il pas ſeul me rendre aſſez<lb corresp="#f35-eSc_textblock_63904eca-eSc_line_461ca7f0-lineCount11"/>infortuné; ſans qu’il falut<lb corresp="#f35-eSc_textblock_63904eca-eSc_line_2eb4f885-lineCount12"/>y joindre vos déplaiſirs,</ab>
+        <ab corresp="#f35-eSc_textblock_63904eca-blockCount2" type="MainZone"><hi rend="HeadingLine"><lb corresp="#f35-eSc_textblock_63904eca-eSc_line_6c6bfec9-lineCount2"/>SECONDE<lb corresp="#f35-eSc_textblock_63904eca-eSc_line_be8ba11c-lineCount3"/>LETTRE.</hi><hi rend="DropCapitalLine"><lb corresp="#f35-eSc_textblock_63904eca-eSc_line_87bc1fe1-lineCount4"/>N</hi><lb corresp="#f35-eSc_textblock_63904eca-eSc_line_52e52b6e-lineCount5"/>'Eſtoit-ce pas aſ¬<lb corresp="#f35-eSc_textblock_63904eca-eSc_line_213d67d2-lineCount6"/>ſez de mes mal¬<lb corresp="#f35-eSc_textblock_63904eca-eSc_line_f93be9f5-lineCount7"/>heurs? Le deſeſ¬<lb corresp="#f35-eSc_textblock_63904eca-eSc_line_4942e0bf-lineCount8"/>poir d’eſtre reduit à vous<lb corresp="#f35-eSc_textblock_63904eca-eSc_line_9eec5b8c-lineCount9"/>abandonner ne pouuoit-<lb corresp="#f35-eSc_textblock_63904eca-eSc_line_9e511ca4-lineCount10"/>il pas ſeul me rendre aſſez<lb corresp="#f35-eSc_textblock_63904eca-eSc_line_461ca7f0-lineCount11"/>infortuné; ſans qu’il falut<lb corresp="#f35-eSc_textblock_63904eca-eSc_line_2eb4f885-lineCount12"/>y joindre vos déplaiſirs,</ab>
         <fw corresp="#f35-eSc_textblock_0286e8b1-blockCount3" type="QuireMarksZone"><lb corresp="#f35-eSc_textblock_0286e8b1-eSc_line_a2596573-lineCount13"/>C</fw>
         <pb corresp="#f37"/>
         <fw corresp="#f37-eSc_textblock_0f076917-blockCount1" type="RunningTitleZone"><lb corresp="#f37-eSc_textblock_0f076917-eSc_line_9cd37f08-lineCount1"/>Seconde Lettre.</fw>

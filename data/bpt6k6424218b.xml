@@ -93,17 +93,17 @@
             <ptr target="https://github.com/segmonto"/>
           </bibl>
           <category xml:id="SegmOntoZones">
-            <catDesc xml:id="QuireMarksZone">
-              <title>QuireMarksZone</title>
-              <ptr target="https://segmonto.github.io/gd/gdZ/QuireMarksZone"/>
-            </catDesc>
-            <catDesc xml:id="TableZone">
-              <title>TableZone</title>
-              <ptr target="https://segmonto.github.io/gd/gdZ/TableZone"/>
+            <catDesc xml:id="DropCapitalZone">
+              <title>DropCapitalZone</title>
+              <ptr target="https://segmonto.github.io/gd/gdZ/DropCapitalZone"/>
             </catDesc>
             <catDesc xml:id="MainZone">
               <title>MainZone</title>
               <ptr target="https://segmonto.github.io/gd/gdZ/MainZone"/>
+            </catDesc>
+            <catDesc xml:id="TableZone">
+              <title>TableZone</title>
+              <ptr target="https://segmonto.github.io/gd/gdZ/TableZone"/>
             </catDesc>
             <catDesc xml:id="TitlePageZone">
               <title>TitlePageZone</title>
@@ -113,20 +113,24 @@
               <title>DamageZone</title>
               <ptr target="https://segmonto.github.io/gd/gdZ/DamageZone"/>
             </catDesc>
-            <catDesc xml:id="DropCapitalZone">
-              <title>DropCapitalZone</title>
-              <ptr target="https://segmonto.github.io/gd/gdZ/DropCapitalZone"/>
+            <catDesc xml:id="RunningTitleZone">
+              <title>RunningTitleZone</title>
+              <ptr target="https://segmonto.github.io/gd/gdZ/RunningTitleZone"/>
+            </catDesc>
+            <catDesc xml:id="QuireMarksZone">
+              <title>QuireMarksZone</title>
+              <ptr target="https://segmonto.github.io/gd/gdZ/QuireMarksZone"/>
             </catDesc>
             <catDesc xml:id="NumberingZone">
               <title>NumberingZone</title>
               <ptr target="https://segmonto.github.io/gd/gdZ/NumberingZone"/>
             </catDesc>
-            <catDesc xml:id="RunningTitleZone">
-              <title>RunningTitleZone</title>
-              <ptr target="https://segmonto.github.io/gd/gdZ/RunningTitleZone"/>
-            </catDesc>
           </category>
           <category xml:id="SegmOntoLines">
+            <catDesc xml:id="DropCapitalLine">
+              <title>DropCapitalLine</title>
+              <ptr target="https://segmonto.github.io/gd/gdL/DropCapitalLine"/>
+            </catDesc>
             <catDesc xml:id="HeadingLine">
               <title>HeadingLine</title>
               <ptr target="https://segmonto.github.io/gd/gdL/HeadingLine"/>
@@ -134,10 +138,6 @@
             <catDesc xml:id="DefaultLine">
               <title>DefaultLine</title>
               <ptr target="https://segmonto.github.io/gd/gdL/DefaultLine"/>
-            </catDesc>
-            <catDesc xml:id="DropCapitalLine">
-              <title>DropCapitalLine</title>
-              <ptr target="https://segmonto.github.io/gd/gdL/DropCapitalLine"/>
             </catDesc>
           </category>
         </taxonomy>
@@ -2559,7 +2559,7 @@
         <pb corresp="#f33"/>
         <fw corresp="#f33-eSc_textblock_5c2c400a-blockCount1" type="RunningTitleZone"><lb corresp="#f33-eSc_textblock_5c2c400a-line_1-lineCount1"/>COMIQVE.</fw>
         <fw corresp="#f33-eSc_textblock_4a846153-blockCount2" type="NumberingZone"><lb corresp="#f33-eSc_textblock_4a846153-line_0-lineCount2"/>19</fw>
-        <ab corresp="#f33-eSc_textblock_1353340e-blockCount3" type="MainZone"><lb corresp="#f33-eSc_textblock_1353340e-line_2-lineCount3"/>que ces pauures reſtes d’vne troupe<lb corresp="#f33-eSc_textblock_1353340e-line_3-lineCount4"/>deſlabrée allaſſent loger en vne ho¬<lb corresp="#f33-eSc_textblock_1353340e-line_4-lineCount5"/>ſtellerie, il les emmena chez luy,<lb corresp="#f33-eSc_textblock_1353340e-line_5-lineCount6"/>où le chartier deſchargea le bagage<lb corresp="#f33-eSc_textblock_1353340e-line_10-lineCount7"/>comique, &amp; s’en retourna en ſon<lb corresp="#f33-eSc_textblock_1353340e-line_6-lineCount8"/>viſlage.<hi rend="HeadingLine"><lb corresp="#f33-eSc_textblock_1353340e-line_7-lineCount9"/>CHAPITRE IV.<lb corresp="#f33-eSc_textblock_1353340e-line_8-lineCount10"/>Dans lequel on continuë à parler du ſieur<lb corresp="#f33-eSc_textblock_1353340e-line_11-lineCount11"/>de la Rappiniere, &amp; de ce qui arriua la<lb corresp="#f33-eSc_textblock_1353340e-line_9-lineCount12"/>nuict en ſa maiſon¬<lb corresp="#f33-eSc_textblock_1353340e-eSc_line_cfca9c25-lineCount13"/>M</hi><lb corresp="#f33-eSc_textblock_1353340e-line_12-lineCount14"/>Adamoiſelle de la Rappinie¬<lb corresp="#f33-eSc_textblock_1353340e-line_13-lineCount15"/>re receut la compagnie auec¬<lb corresp="#f33-eSc_textblock_1353340e-line_14-lineCount16"/>que grande ciuilité, comme elle<lb corresp="#f33-eSc_textblock_1353340e-line_15-lineCount17"/>eſtoit la femme du monde qui ſe<lb corresp="#f33-eSc_textblock_1353340e-line_16-lineCount18"/>ſoubmettoit le plus facilement,elle<lb corresp="#f33-eSc_textblock_1353340e-line_17-lineCount19"/>n’eſtoit pas laide, quoy que ſi mai¬<lb corresp="#f33-eSc_textblock_1353340e-line_18-lineCount20"/>gre &amp; ſi ſeiche, qu’elle n’auoit ia¬<lb corresp="#f33-eSc_textblock_1353340e-line_19-lineCount21"/>mais mouché de chandelle auec les<lb corresp="#f33-eSc_textblock_1353340e-line_20-lineCount22"/>doigts, que le feu ny priſt; l’en<lb corresp="#f33-eSc_textblock_1353340e-line_21-lineCount23"/>pourrois dire cent choſes rares que<lb corresp="#f33-eSc_textblock_1353340e-line_22-lineCount24"/>ie laiſſe de peur d’eſtre trop long.<lb corresp="#f33-eSc_textblock_1353340e-line_23-lineCount25"/>En moins de rien les deux dames<lb corresp="#f33-eSc_textblock_1353340e-line_24-lineCount26"/>ſurent</ab>
+        <ab corresp="#f33-eSc_textblock_1353340e-blockCount3" type="MainZone"><lb corresp="#f33-eSc_textblock_1353340e-line_2-lineCount3"/>que ces pauures reſtes d’vne troupe<lb corresp="#f33-eSc_textblock_1353340e-line_3-lineCount4"/>deſlabrée allaſſent loger en vne ho¬<lb corresp="#f33-eSc_textblock_1353340e-line_4-lineCount5"/>ſtellerie, il les emmena chez luy,<lb corresp="#f33-eSc_textblock_1353340e-line_5-lineCount6"/>où le chartier deſchargea le bagage<lb corresp="#f33-eSc_textblock_1353340e-line_10-lineCount7"/>comique, &amp; s’en retourna en ſon<lb corresp="#f33-eSc_textblock_1353340e-line_6-lineCount8"/>viſlage.<hi rend="HeadingLine"><lb corresp="#f33-eSc_textblock_1353340e-line_7-lineCount9"/>CHAPITRE IV.<lb corresp="#f33-eSc_textblock_1353340e-line_8-lineCount10"/>Dans lequel on continuë à parler du ſieur<lb corresp="#f33-eSc_textblock_1353340e-line_11-lineCount11"/>de la Rappiniere, &amp; de ce qui arriua la<lb corresp="#f33-eSc_textblock_1353340e-line_9-lineCount12"/>nuict en ſa maiſon¬</hi><hi rend="DropCapitalLine"><lb corresp="#f33-eSc_textblock_1353340e-eSc_line_cfca9c25-lineCount13"/>M</hi><lb corresp="#f33-eSc_textblock_1353340e-line_12-lineCount14"/>Adamoiſelle de la Rappinie¬<lb corresp="#f33-eSc_textblock_1353340e-line_13-lineCount15"/>re receut la compagnie auec¬<lb corresp="#f33-eSc_textblock_1353340e-line_14-lineCount16"/>que grande ciuilité, comme elle<lb corresp="#f33-eSc_textblock_1353340e-line_15-lineCount17"/>eſtoit la femme du monde qui ſe<lb corresp="#f33-eSc_textblock_1353340e-line_16-lineCount18"/>ſoubmettoit le plus facilement,elle<lb corresp="#f33-eSc_textblock_1353340e-line_17-lineCount19"/>n’eſtoit pas laide, quoy que ſi mai¬<lb corresp="#f33-eSc_textblock_1353340e-line_18-lineCount20"/>gre &amp; ſi ſeiche, qu’elle n’auoit ia¬<lb corresp="#f33-eSc_textblock_1353340e-line_19-lineCount21"/>mais mouché de chandelle auec les<lb corresp="#f33-eSc_textblock_1353340e-line_20-lineCount22"/>doigts, que le feu ny priſt; l’en<lb corresp="#f33-eSc_textblock_1353340e-line_21-lineCount23"/>pourrois dire cent choſes rares que<lb corresp="#f33-eSc_textblock_1353340e-line_22-lineCount24"/>ie laiſſe de peur d’eſtre trop long.<lb corresp="#f33-eSc_textblock_1353340e-line_23-lineCount25"/>En moins de rien les deux dames<lb corresp="#f33-eSc_textblock_1353340e-line_24-lineCount26"/>ſurent</ab>
         <pb corresp="#f34"/>
         <ab corresp="#f34-block_0-blockCount1" type="MainZone"><lb corresp="#f34-block_0-line_2-lineCount1"/>furent ſi<lb corresp="#f34-block_0-line_3-lineCount2"/>grandes camarades, qu’el¬<lb corresp="#f34-block_0-line_4-lineCount3"/>les s’entr’appellerent ma chere, &amp;<lb corresp="#f34-block_0-line_5-lineCount4"/>ma fidelle. La Rappiniere qui auoit<lb corresp="#f34-block_0-line_6-lineCount5"/>de la mauuaiſe gloire autant que<lb corresp="#f34-block_0-line_7-lineCount6"/>barbier de la ville, diſt en entrant<lb corresp="#f34-block_0-line_8-lineCount7"/>qu’on allaſt à la cuiſine, &amp; a l’office,<lb corresp="#f34-block_0-line_9-lineCount8"/>faire haſter le ſouper. C’eſtoit vne<lb corresp="#f34-block_0-line_10-lineCount9"/>pure rodomontade, outte ſon vieil<lb corresp="#f34-block_0-line_11-lineCount10"/>valet qui penſoit meſme ſes che¬<lb corresp="#f34-block_0-line_12-lineCount11"/>uaux, il n’y auoit dans le logis qu’vne<lb corresp="#f34-block_0-line_13-lineCount12"/>ieune ſeruante, &amp; vne vieille boit¬<lb corresp="#f34-block_0-line_14-lineCount13"/>teuſe qui auoit du mal comme vn<lb corresp="#f34-block_0-line_15-lineCount14"/>chien. Sa vanité fut punie par vne<lb corresp="#f34-block_0-line_16-lineCount15"/>grande confuſion qui luy arriua: Il<lb corresp="#f34-block_0-line_17-lineCount16"/>mangeoit d’ordinaire au cabaret,<lb corresp="#f34-block_0-line_18-lineCount17"/>aux deſpens des ſots, ſa femme &amp;<lb corresp="#f34-block_0-line_19-lineCount18"/>ſon train ſi reiglé, eſtoient reduits<lb corresp="#f34-block_0-line_20-lineCount19"/>au potage aux choux ſelon la cou¬<lb corresp="#f34-block_0-line_21-lineCount20"/>ſtume du païs; voulant paroiſtre<lb corresp="#f34-block_0-line_22-lineCount21"/>deuant ſes hoſtes, &amp; les regaller, il<lb corresp="#f34-block_0-line_23-lineCount22"/>penſa couler par derriere ſon dos<lb corresp="#f34-block_0-line_24-lineCount23"/>quelque monnoye à ſon valet pour<lb corresp="#f34-block_0-line_25-lineCount24"/>aller querir dequoy ſouper: par la<lb corresp="#f34-block_0-line_26-lineCount25"/>faute du valet, ou du maiſtre, l’ar¬</ab>
         <fw corresp="#f34-eSc_textblock_2369fc28-blockCount2" type="RunningTitleZone"><lb corresp="#f34-eSc_textblock_2369fc28-line_1-lineCount26"/>LE ROMANT</fw>

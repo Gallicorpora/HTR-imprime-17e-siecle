@@ -81,55 +81,59 @@
             <ptr target="https://github.com/segmonto"/>
           </bibl>
           <category xml:id="SegmOntoZones">
-            <catDesc xml:id="QuireMarksZone">
-              <title>QuireMarksZone</title>
-              <ptr target="https://segmonto.github.io/gd/gdZ/QuireMarksZone"/>
-            </catDesc>
-            <catDesc xml:id="MusicZone">
-              <title>MusicZone</title>
-              <ptr target="https://segmonto.github.io/gd/gdZ/MusicZone"/>
+            <catDesc xml:id="DropCapitalZone">
+              <title>DropCapitalZone</title>
+              <ptr target="https://segmonto.github.io/gd/gdZ/DropCapitalZone"/>
             </catDesc>
             <catDesc xml:id="TableZone">
               <title>TableZone</title>
               <ptr target="https://segmonto.github.io/gd/gdZ/TableZone"/>
             </catDesc>
-            <catDesc xml:id="MainZone">
-              <title>MainZone</title>
-              <ptr target="https://segmonto.github.io/gd/gdZ/MainZone"/>
-            </catDesc>
             <catDesc xml:id="SealZone">
               <title>SealZone</title>
               <ptr target="https://segmonto.github.io/gd/gdZ/SealZone"/>
             </catDesc>
-            <catDesc xml:id="StampZone">
-              <title>StampZone</title>
-              <ptr target="https://segmonto.github.io/gd/gdZ/StampZone"/>
-            </catDesc>
-            <catDesc xml:id="DamageZone">
-              <title>DamageZone</title>
-              <ptr target="https://segmonto.github.io/gd/gdZ/DamageZone"/>
+            <catDesc xml:id="MainZone">
+              <title>MainZone</title>
+              <ptr target="https://segmonto.github.io/gd/gdZ/MainZone"/>
             </catDesc>
             <catDesc xml:id="TitlePageZone">
               <title>TitlePageZone</title>
               <ptr target="https://segmonto.github.io/gd/gdZ/TitlePageZone"/>
             </catDesc>
-            <catDesc xml:id="DropCapitalZone">
-              <title>DropCapitalZone</title>
-              <ptr target="https://segmonto.github.io/gd/gdZ/DropCapitalZone"/>
+            <catDesc xml:id="DamageZone">
+              <title>DamageZone</title>
+              <ptr target="https://segmonto.github.io/gd/gdZ/DamageZone"/>
             </catDesc>
-            <catDesc xml:id="NumberingZone">
-              <title>NumberingZone</title>
-              <ptr target="https://segmonto.github.io/gd/gdZ/NumberingZone"/>
+            <catDesc xml:id="StampZone">
+              <title>StampZone</title>
+              <ptr target="https://segmonto.github.io/gd/gdZ/StampZone"/>
+            </catDesc>
+            <catDesc xml:id="MusicZone">
+              <title>MusicZone</title>
+              <ptr target="https://segmonto.github.io/gd/gdZ/MusicZone"/>
             </catDesc>
             <catDesc xml:id="RunningTitleZone">
               <title>RunningTitleZone</title>
               <ptr target="https://segmonto.github.io/gd/gdZ/RunningTitleZone"/>
+            </catDesc>
+            <catDesc xml:id="QuireMarksZone">
+              <title>QuireMarksZone</title>
+              <ptr target="https://segmonto.github.io/gd/gdZ/QuireMarksZone"/>
+            </catDesc>
+            <catDesc xml:id="NumberingZone">
+              <title>NumberingZone</title>
+              <ptr target="https://segmonto.github.io/gd/gdZ/NumberingZone"/>
             </catDesc>
           </category>
           <category xml:id="SegmOntoLines">
             <catDesc xml:id="MusicLine">
               <title>MusicLine</title>
               <ptr target="https://segmonto.github.io/gd/gdL/MusicLine"/>
+            </catDesc>
+            <catDesc xml:id="DefaultLine">
+              <title>DefaultLine</title>
+              <ptr target="https://segmonto.github.io/gd/gdL/DefaultLine"/>
             </catDesc>
             <catDesc xml:id="InterlinearLine">
               <title>InterlinearLine</title>
@@ -142,10 +146,6 @@
             <catDesc xml:id="HeadingLine">
               <title>HeadingLine</title>
               <ptr target="https://segmonto.github.io/gd/gdL/HeadingLine"/>
-            </catDesc>
-            <catDesc xml:id="DefaultLine">
-              <title>DefaultLine</title>
-              <ptr target="https://segmonto.github.io/gd/gdL/DefaultLine"/>
             </catDesc>
           </category>
         </taxonomy>
@@ -2667,7 +2667,7 @@
         <pb corresp="#f6"/>
         <fw corresp="#f6-eSc_textblock_c69f69aa-blockCount1" type="RunningTitleZone"><lb corresp="#f6-eSc_textblock_c69f69aa-eSc_line_26741c09-lineCount1"/>DE PEPESVC.</fw>
         <fw corresp="#f6-eSc_textblock_bdc6dd31-blockCount2" type="NumberingZone"><lb corresp="#f6-eSc_textblock_bdc6dd31-eSc_line_4e0da314-lineCount2"/>5</fw>
-        <ab corresp="#f6-eSc_textblock_1dc56353-blockCount3" type="MainZone"><lb corresp="#f6-eSc_textblock_1dc56353-eSc_line_b228e34e-lineCount3"/>Cette Piece eſt de feu Mr. Bonnet Aduocat.<hi rend="HeadingLine"><lb corresp="#f6-eSc_textblock_1dc56353-eSc_line_a27aff01-lineCount4"/>ENTREPARLEVRS.<lb corresp="#f6-eSc_textblock_1dc56353-eSc_line_951e9d04-lineCount5"/>MEGERE.<lb corresp="#f6-eSc_textblock_1dc56353-eSc_line_dd876c39-lineCount6"/>SOLDAT FRANC'OIS.<lb corresp="#f6-eSc_textblock_1dc56353-eSc_line_5a730c15-lineCount7"/>SOLDAT GASCON.<lb corresp="#f6-eSc_textblock_1dc56353-eSc_line_3ede57a3-lineCount8"/>PEPESVC.<lb corresp="#f6-eSc_textblock_1dc56353-eSc_line_33fddf27-lineCount9"/>LA PAIX.<lb corresp="#f6-eSc_textblock_1dc56353-eSc_line_21fe74c7-lineCount10"/>PROLOGVE.<lb corresp="#f6-eSc_textblock_1dc56353-eSc_line_0d9656f5-lineCount11"/>T</hi><lb corresp="#f6-eSc_textblock_1dc56353-eSc_line_150cab3a-lineCount12"/>OVTES choſes icy bas vien¬<lb corresp="#f6-eSc_textblock_1dc56353-eSc_line_105928df-lineCount13"/>nent du Dieu ſupreme,<lb corresp="#f6-eSc_textblock_1dc56353-eSc_line_64f56c9b-lineCount14"/>L’homme depend de Dieu, Dieu<lb corresp="#f6-eSc_textblock_1dc56353-eSc_line_789b8393-lineCount15"/>depend de ſoy-meſme;<lb corresp="#f6-eSc_textblock_1dc56353-eSc_line_9cb8bf9c-lineCount16"/>Il fait mouuoir les Cieux, battre<lb corresp="#f6-eSc_textblock_1dc56353-eSc_line_601d3856-lineCount17"/>les Elemens,<lb corresp="#f6-eSc_textblock_1dc56353-eSc_line_665641d9-lineCount18"/>Et regle quand il veut leurs diuers mouuemens;<lb corresp="#f6-eSc_textblock_1dc56353-eSc_line_f388dea9-lineCount19"/>Celuy s’efforce en vain contre la deſtinêe,<lb corresp="#f6-eSc_textblock_1dc56353-eSc_line_ecc8c969-lineCount20"/>Qui veut troubler le cours d’vne choſe ordõnée,<lb corresp="#f6-eSc_textblock_1dc56353-eSc_line_38a6d061-lineCount21"/>Et qui veur deſtourner l’influance des Cieux,<lb corresp="#f6-eSc_textblock_1dc56353-eSc_line_a7fb9cb7-lineCount22"/>Et priuer les humains de la grace des Dieux.<lb corresp="#f6-eSc_textblock_1dc56353-eSc_line_2b34fd13-lineCount23"/>Meſſieurs, vous en verres lez effets veritables,<lb corresp="#f6-eSc_textblock_1dc56353-eSc_line_42f49faf-lineCount24"/>Si vous rendeZ vos cœurs à nos vœux fauorables:<lb corresp="#f6-eSc_textblock_1dc56353-eSc_line_ca7fb35b-lineCount25"/>Vous verreZ l’air chargé de mille tourbillons,</ab>
+        <ab corresp="#f6-eSc_textblock_1dc56353-blockCount3" type="MainZone"><lb corresp="#f6-eSc_textblock_1dc56353-eSc_line_b228e34e-lineCount3"/>Cette Piece eſt de feu Mr. Bonnet Aduocat.<hi rend="HeadingLine"><lb corresp="#f6-eSc_textblock_1dc56353-eSc_line_a27aff01-lineCount4"/>ENTREPARLEVRS.<lb corresp="#f6-eSc_textblock_1dc56353-eSc_line_951e9d04-lineCount5"/>MEGERE.<lb corresp="#f6-eSc_textblock_1dc56353-eSc_line_dd876c39-lineCount6"/>SOLDAT FRANC'OIS.<lb corresp="#f6-eSc_textblock_1dc56353-eSc_line_5a730c15-lineCount7"/>SOLDAT GASCON.<lb corresp="#f6-eSc_textblock_1dc56353-eSc_line_3ede57a3-lineCount8"/>PEPESVC.<lb corresp="#f6-eSc_textblock_1dc56353-eSc_line_33fddf27-lineCount9"/>LA PAIX.<lb corresp="#f6-eSc_textblock_1dc56353-eSc_line_21fe74c7-lineCount10"/>PROLOGVE.</hi><hi rend="DropCapitalLine"><lb corresp="#f6-eSc_textblock_1dc56353-eSc_line_0d9656f5-lineCount11"/>T</hi><lb corresp="#f6-eSc_textblock_1dc56353-eSc_line_150cab3a-lineCount12"/>OVTES choſes icy bas vien¬<lb corresp="#f6-eSc_textblock_1dc56353-eSc_line_105928df-lineCount13"/>nent du Dieu ſupreme,<lb corresp="#f6-eSc_textblock_1dc56353-eSc_line_64f56c9b-lineCount14"/>L’homme depend de Dieu, Dieu<lb corresp="#f6-eSc_textblock_1dc56353-eSc_line_789b8393-lineCount15"/>depend de ſoy-meſme;<lb corresp="#f6-eSc_textblock_1dc56353-eSc_line_9cb8bf9c-lineCount16"/>Il fait mouuoir les Cieux, battre<lb corresp="#f6-eSc_textblock_1dc56353-eSc_line_601d3856-lineCount17"/>les Elemens,<lb corresp="#f6-eSc_textblock_1dc56353-eSc_line_665641d9-lineCount18"/>Et regle quand il veut leurs diuers mouuemens;<lb corresp="#f6-eSc_textblock_1dc56353-eSc_line_f388dea9-lineCount19"/>Celuy s’efforce en vain contre la deſtinêe,<lb corresp="#f6-eSc_textblock_1dc56353-eSc_line_ecc8c969-lineCount20"/>Qui veut troubler le cours d’vne choſe ordõnée,<lb corresp="#f6-eSc_textblock_1dc56353-eSc_line_38a6d061-lineCount21"/>Et qui veur deſtourner l’influance des Cieux,<lb corresp="#f6-eSc_textblock_1dc56353-eSc_line_a7fb9cb7-lineCount22"/>Et priuer les humains de la grace des Dieux.<lb corresp="#f6-eSc_textblock_1dc56353-eSc_line_2b34fd13-lineCount23"/>Meſſieurs, vous en verres lez effets veritables,<lb corresp="#f6-eSc_textblock_1dc56353-eSc_line_42f49faf-lineCount24"/>Si vous rendeZ vos cœurs à nos vœux fauorables:<lb corresp="#f6-eSc_textblock_1dc56353-eSc_line_ca7fb35b-lineCount25"/>Vous verreZ l’air chargé de mille tourbillons,</ab>
         <pb corresp="#f8"/>
         <fw corresp="#f8-eSc_textblock_a011836b-blockCount1" type="RunningTitleZone"><lb corresp="#f8-eSc_textblock_a011836b-eSc_line_46edc0e1-lineCount1"/>DE PEPESVC.</fw>
         <fw corresp="#f8-eSc_textblock_3652e118-blockCount2" type="NumberingZone"><lb corresp="#f8-eSc_textblock_3652e118-eSc_line_cc5252e9-lineCount2"/>7</fw>
@@ -2739,7 +2739,7 @@
         <fw corresp="#f34-eSc_textblock_4fb17d22-blockCount4" type="QuireMarksZone"><lb corresp="#f34-eSc_textblock_4fb17d22-eSc_line_c75e1493-lineCount32"/>B 5</fw>
         <pb corresp="#f35"/>
         <fw corresp="#f35-eSc_textblock_201b13ad-blockCount1" type="NumberingZone"><lb corresp="#f35-eSc_textblock_201b13ad-eSc_line_3e6473b7-lineCount1"/>34</fw>
-        <ab corresp="#f35-eSc_textblock_8fc4f5b0-blockCount2" type="MainZone"><lb corresp="#f35-eSc_textblock_8fc4f5b0-eSc_line_6a94e4c0-lineCount2"/>Et fa fa mays que l'on non dis,<lb corresp="#f35-eSc_textblock_8fc4f5b0-eSc_line_8dff16f6-lineCount3"/>Quand l’on a ounchat la coudene,<lb corresp="#f35-eSc_textblock_8fc4f5b0-eSc_line_e9906319-lineCount4"/>L'on canto peys comme vne orguene,<lb corresp="#f35-eSc_textblock_8fc4f5b0-eSc_line_6558b2e8-lineCount5"/>Y cou podi be ſuiuant mon ſen<lb corresp="#f35-eSc_textblock_8fc4f5b0-eSc_line_2c12ce23-lineCount6"/>Canta dous mouts camy fazen.<lb corresp="#f35-eSc_textblock_8fc4f5b0-eSc_line_c79d9503-lineCount7"/>Chanſon, ſur le chant de Guelindon.<hi rend="HeadingLine"><lb corresp="#f35-eSc_textblock_8fc4f5b0-eSc_line_cd69a9e3-lineCount8"/>SOLDAT GASCOV.<lb corresp="#f35-eSc_textblock_8fc4f5b0-eSc_line_a219db81-lineCount9"/>Q</hi><lb corresp="#f35-eSc_textblock_8fc4f5b0-eSc_line_e1100e22-lineCount10"/>V'aquo ſerio greau as paüres gendarmes<lb corresp="#f35-eSc_textblock_8fc4f5b0-eSc_line_2879c52c-lineCount11"/>Guelindon, guelindon, guelindeine, guelindõ.<lb corresp="#f35-eSc_textblock_8fc4f5b0-eSc_line_848ea264-lineCount12"/>De s'en tourna leau &amp; quitta las armes,<lb corresp="#f35-eSc_textblock_8fc4f5b0-eSc_line_a023507b-lineCount13"/>De non gaigna res, porta l’arquebouſe,<lb corresp="#f35-eSc_textblock_8fc4f5b0-eSc_line_ba34570d-lineCount14"/>Valdrio tant aué lou fus &amp; fialouſe,<lb corresp="#f35-eSc_textblock_8fc4f5b0-eSc_line_deaf99ba-lineCount15"/>Guelindõ, guelindon, guelindeine, guelindon.<lb corresp="#f35-eSc_textblock_8fc4f5b0-eSc_line_13ab54b0-lineCount16"/>Fazen aquel cas, qu'on nous vengue dire<lb corresp="#f35-eSc_textblock_8fc4f5b0-eSc_line_8c1fd106-lineCount17"/>Qu'aro auen la pas, be nyauro perrire,<lb corresp="#f35-eSc_textblock_8fc4f5b0-eSc_line_3c9af6b8-lineCount18"/>Guelindon, guelindõ, guelindeine, guelindon.<lb corresp="#f35-eSc_textblock_8fc4f5b0-eSc_line_94c79646-lineCount19"/>Yeou ay may patit que non pas las peyres,<lb corresp="#f35-eSc_textblock_8fc4f5b0-eSc_line_b7ff54ca-lineCount20"/>Aro non ſios tu lon de las chambrieyres,<lb corresp="#f35-eSc_textblock_8fc4f5b0-eSc_line_bb4b54c1-lineCount21"/>Guelindon, guelindõ, guelindeine, guelindon.<lb corresp="#f35-eSc_textblock_8fc4f5b0-eSc_line_f1223e0c-lineCount22"/>Fin de la Chanſon.<lb corresp="#f35-eSc_textblock_8fc4f5b0-eSc_line_877b05d0-lineCount23"/>Quel Demon infernal de ſa puante allaine,<hi rend="HeadingLine"><lb corresp="#f35-eSc_textblock_8fc4f5b0-eSc_line_56f6c3fb-lineCount24"/>LA PAIX.</hi><lb corresp="#f35-eSc_textblock_8fc4f5b0-eSc_line_713b887f-lineCount25"/>S'efforce de troubler les eaux de ma fontainne?</ab>
+        <ab corresp="#f35-eSc_textblock_8fc4f5b0-blockCount2" type="MainZone"><lb corresp="#f35-eSc_textblock_8fc4f5b0-eSc_line_6a94e4c0-lineCount2"/>Et fa fa mays que l'on non dis,<lb corresp="#f35-eSc_textblock_8fc4f5b0-eSc_line_8dff16f6-lineCount3"/>Quand l’on a ounchat la coudene,<lb corresp="#f35-eSc_textblock_8fc4f5b0-eSc_line_e9906319-lineCount4"/>L'on canto peys comme vne orguene,<lb corresp="#f35-eSc_textblock_8fc4f5b0-eSc_line_6558b2e8-lineCount5"/>Y cou podi be ſuiuant mon ſen<lb corresp="#f35-eSc_textblock_8fc4f5b0-eSc_line_2c12ce23-lineCount6"/>Canta dous mouts camy fazen.<lb corresp="#f35-eSc_textblock_8fc4f5b0-eSc_line_c79d9503-lineCount7"/>Chanſon, ſur le chant de Guelindon.<hi rend="HeadingLine"><lb corresp="#f35-eSc_textblock_8fc4f5b0-eSc_line_cd69a9e3-lineCount8"/>SOLDAT GASCOV.</hi><hi rend="DropCapitalLine"><lb corresp="#f35-eSc_textblock_8fc4f5b0-eSc_line_a219db81-lineCount9"/>Q</hi><lb corresp="#f35-eSc_textblock_8fc4f5b0-eSc_line_e1100e22-lineCount10"/>V'aquo ſerio greau as paüres gendarmes<lb corresp="#f35-eSc_textblock_8fc4f5b0-eSc_line_2879c52c-lineCount11"/>Guelindon, guelindon, guelindeine, guelindõ.<lb corresp="#f35-eSc_textblock_8fc4f5b0-eSc_line_848ea264-lineCount12"/>De s'en tourna leau &amp; quitta las armes,<lb corresp="#f35-eSc_textblock_8fc4f5b0-eSc_line_a023507b-lineCount13"/>De non gaigna res, porta l’arquebouſe,<lb corresp="#f35-eSc_textblock_8fc4f5b0-eSc_line_ba34570d-lineCount14"/>Valdrio tant aué lou fus &amp; fialouſe,<lb corresp="#f35-eSc_textblock_8fc4f5b0-eSc_line_deaf99ba-lineCount15"/>Guelindõ, guelindon, guelindeine, guelindon.<lb corresp="#f35-eSc_textblock_8fc4f5b0-eSc_line_13ab54b0-lineCount16"/>Fazen aquel cas, qu'on nous vengue dire<lb corresp="#f35-eSc_textblock_8fc4f5b0-eSc_line_8c1fd106-lineCount17"/>Qu'aro auen la pas, be nyauro perrire,<lb corresp="#f35-eSc_textblock_8fc4f5b0-eSc_line_3c9af6b8-lineCount18"/>Guelindon, guelindõ, guelindeine, guelindon.<lb corresp="#f35-eSc_textblock_8fc4f5b0-eSc_line_94c79646-lineCount19"/>Yeou ay may patit que non pas las peyres,<lb corresp="#f35-eSc_textblock_8fc4f5b0-eSc_line_b7ff54ca-lineCount20"/>Aro non ſios tu lon de las chambrieyres,<lb corresp="#f35-eSc_textblock_8fc4f5b0-eSc_line_bb4b54c1-lineCount21"/>Guelindon, guelindõ, guelindeine, guelindon.<lb corresp="#f35-eSc_textblock_8fc4f5b0-eSc_line_f1223e0c-lineCount22"/>Fin de la Chanſon.<lb corresp="#f35-eSc_textblock_8fc4f5b0-eSc_line_877b05d0-lineCount23"/>Quel Demon infernal de ſa puante allaine,<hi rend="HeadingLine"><lb corresp="#f35-eSc_textblock_8fc4f5b0-eSc_line_56f6c3fb-lineCount24"/>LA PAIX.</hi><lb corresp="#f35-eSc_textblock_8fc4f5b0-eSc_line_713b887f-lineCount25"/>S'efforce de troubler les eaux de ma fontainne?</ab>
         <fw corresp="#f35-eSc_textblock_f801f944-blockCount3" type="RunningTitleZone"><lb corresp="#f35-eSc_textblock_f801f944-eSc_line_cf0c00d1-lineCount26"/>HISTOIRE</fw>
       </div>
     </body>

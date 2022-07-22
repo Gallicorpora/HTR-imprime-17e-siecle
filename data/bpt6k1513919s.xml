@@ -91,44 +91,48 @@
             <ptr target="https://github.com/segmonto"/>
           </bibl>
           <category xml:id="SegmOntoZones">
-            <catDesc xml:id="QuireMarksZone">
-              <title>QuireMarksZone</title>
-              <ptr target="https://segmonto.github.io/gd/gdZ/QuireMarksZone"/>
-            </catDesc>
-            <catDesc xml:id="TableZone">
-              <title>TableZone</title>
-              <ptr target="https://segmonto.github.io/gd/gdZ/TableZone"/>
-            </catDesc>
-            <catDesc xml:id="MainZone">
-              <title>MainZone</title>
-              <ptr target="https://segmonto.github.io/gd/gdZ/MainZone"/>
-            </catDesc>
-            <catDesc xml:id="StampZone">
-              <title>StampZone</title>
-              <ptr target="https://segmonto.github.io/gd/gdZ/StampZone"/>
+            <catDesc xml:id="DropCapitalZone">
+              <title>DropCapitalZone</title>
+              <ptr target="https://segmonto.github.io/gd/gdZ/DropCapitalZone"/>
             </catDesc>
             <catDesc xml:id="TitlePageZone">
               <title>TitlePageZone</title>
               <ptr target="https://segmonto.github.io/gd/gdZ/TitlePageZone"/>
             </catDesc>
+            <catDesc xml:id="MainZone">
+              <title>MainZone</title>
+              <ptr target="https://segmonto.github.io/gd/gdZ/MainZone"/>
+            </catDesc>
+            <catDesc xml:id="TableZone">
+              <title>TableZone</title>
+              <ptr target="https://segmonto.github.io/gd/gdZ/TableZone"/>
+            </catDesc>
             <catDesc xml:id="DamageZone">
               <title>DamageZone</title>
               <ptr target="https://segmonto.github.io/gd/gdZ/DamageZone"/>
             </catDesc>
-            <catDesc xml:id="DropCapitalZone">
-              <title>DropCapitalZone</title>
-              <ptr target="https://segmonto.github.io/gd/gdZ/DropCapitalZone"/>
-            </catDesc>
-            <catDesc xml:id="NumberingZone">
-              <title>NumberingZone</title>
-              <ptr target="https://segmonto.github.io/gd/gdZ/NumberingZone"/>
+            <catDesc xml:id="StampZone">
+              <title>StampZone</title>
+              <ptr target="https://segmonto.github.io/gd/gdZ/StampZone"/>
             </catDesc>
             <catDesc xml:id="RunningTitleZone">
               <title>RunningTitleZone</title>
               <ptr target="https://segmonto.github.io/gd/gdZ/RunningTitleZone"/>
             </catDesc>
+            <catDesc xml:id="QuireMarksZone">
+              <title>QuireMarksZone</title>
+              <ptr target="https://segmonto.github.io/gd/gdZ/QuireMarksZone"/>
+            </catDesc>
+            <catDesc xml:id="NumberingZone">
+              <title>NumberingZone</title>
+              <ptr target="https://segmonto.github.io/gd/gdZ/NumberingZone"/>
+            </catDesc>
           </category>
           <category xml:id="SegmOntoLines">
+            <catDesc xml:id="DropCapitalLine">
+              <title>DropCapitalLine</title>
+              <ptr target="https://segmonto.github.io/gd/gdL/DropCapitalLine"/>
+            </catDesc>
             <catDesc xml:id="InterlinearLine">
               <title>InterlinearLine</title>
               <ptr target="https://segmonto.github.io/gd/gdL/InterlinearLine"/>
@@ -140,10 +144,6 @@
             <catDesc xml:id="DefaultLine">
               <title>DefaultLine</title>
               <ptr target="https://segmonto.github.io/gd/gdL/DefaultLine"/>
-            </catDesc>
-            <catDesc xml:id="DropCapitalLine">
-              <title>DropCapitalLine</title>
-              <ptr target="https://segmonto.github.io/gd/gdL/DropCapitalLine"/>
             </catDesc>
           </category>
         </taxonomy>
@@ -2637,7 +2637,7 @@
     <body>
       <div>
         <pb corresp="#f3"/>
-        <ab corresp="#f3-eSc_textblock_669c625f-blockCount1" type="MainZone"><hi rend="HeadingLine"><lb corresp="#f3-eSc_textblock_669c625f-line_18-lineCount1"/>LLLVSTRISSIME ET REVERENDISSME.<lb corresp="#f3-eSc_textblock_669c625f-line_17-lineCount2"/>A MONSEIGNEVR.<lb corresp="#f3-eSc_textblock_669c625f-line_19-lineCount3"/>LAVRENS CVRSI<lb corresp="#f3-eSc_textblock_669c625f-line_21-lineCount4"/>Doyen des Protonotaires Apoſtolics du nombre des<lb corresp="#f3-eSc_textblock_669c625f-line_22-lineCount5"/>Participans, Referendaire de l'vne &amp; l'autre<lb corresp="#f3-eSc_textblock_669c625f-line_23-lineCount6"/>Signature, Vicelegat &amp; Gouuerneur General<lb corresp="#f3-eSc_textblock_669c625f-line_24-lineCount7"/>en cette Cité &amp; Legation d’Auignon, &amp; Sur-<lb corresp="#f3-eSc_textblock_669c625f-line_25-lineCount8"/>Intendant General au fait des Armes pour<lb corresp="#f3-eSc_textblock_669c625f-line_26-lineCount9"/>Noſtre Saint pere en cet Eſtat.<lb corresp="#f3-eSc_textblock_669c625f-eSc_line_9c601902-lineCount10"/>M</hi><lb corresp="#f3-eSc_textblock_669c625f-line_27-lineCount11"/>ONSEIGNEVR.<lb corresp="#f3-eSc_textblock_669c625f-line_28-lineCount12"/>Pvis qu’il vous a pleu d’hon¬<lb corresp="#f3-eSc_textblock_669c625f-line_29-lineCount13"/>norer noſtre Balet de voſtre pre¬<lb corresp="#f3-eSc_textblock_669c625f-line_30-lineCount14"/>ſence autant de fois que le deſir<lb corresp="#f3-eSc_textblock_669c625f-line_31-lineCount15"/>des Curieux nous a obligé de le</ab>
+        <ab corresp="#f3-eSc_textblock_669c625f-blockCount1" type="MainZone"><hi rend="HeadingLine"><lb corresp="#f3-eSc_textblock_669c625f-line_18-lineCount1"/>LLLVSTRISSIME ET REVERENDISSME.<lb corresp="#f3-eSc_textblock_669c625f-line_17-lineCount2"/>A MONSEIGNEVR.<lb corresp="#f3-eSc_textblock_669c625f-line_19-lineCount3"/>LAVRENS CVRSI<lb corresp="#f3-eSc_textblock_669c625f-line_21-lineCount4"/>Doyen des Protonotaires Apoſtolics du nombre des<lb corresp="#f3-eSc_textblock_669c625f-line_22-lineCount5"/>Participans, Referendaire de l'vne &amp; l'autre<lb corresp="#f3-eSc_textblock_669c625f-line_23-lineCount6"/>Signature, Vicelegat &amp; Gouuerneur General<lb corresp="#f3-eSc_textblock_669c625f-line_24-lineCount7"/>en cette Cité &amp; Legation d’Auignon, &amp; Sur-<lb corresp="#f3-eSc_textblock_669c625f-line_25-lineCount8"/>Intendant General au fait des Armes pour<lb corresp="#f3-eSc_textblock_669c625f-line_26-lineCount9"/>Noſtre Saint pere en cet Eſtat.</hi><hi rend="DropCapitalLine"><lb corresp="#f3-eSc_textblock_669c625f-eSc_line_9c601902-lineCount10"/>M</hi><lb corresp="#f3-eSc_textblock_669c625f-line_27-lineCount11"/>ONSEIGNEVR.<lb corresp="#f3-eSc_textblock_669c625f-line_28-lineCount12"/>Pvis qu’il vous a pleu d’hon¬<lb corresp="#f3-eSc_textblock_669c625f-line_29-lineCount13"/>norer noſtre Balet de voſtre pre¬<lb corresp="#f3-eSc_textblock_669c625f-line_30-lineCount14"/>ſence autant de fois que le deſir<lb corresp="#f3-eSc_textblock_669c625f-line_31-lineCount15"/>des Curieux nous a obligé de le</ab>
         <pb corresp="#f4"/>
         <ab corresp="#f4-block_0-blockCount1" type="MainZone"><lb corresp="#f4-block_0-line_1-lineCount1"/>danſer, &amp; leur: faire voit les merveil¬<lb corresp="#f4-block_0-line_2-lineCount2"/>Ieuſes decorations du Theatre, nous<lb corresp="#f4-block_0-line_3-lineCount3"/>auons creu d’y auoir entierement ren¬<lb corresp="#f4-block_0-line_4-lineCount4"/>contré voſtre ſatisfaction, &amp; que ce<lb corresp="#f4-block_0-line_5-lineCount5"/>diuertiſſement que nous donnions au<lb corresp="#f4-block_0-line_6-lineCount6"/>public, &amp; que nous prenions pour<lb corresp="#f4-block_0-line_7-lineCount7"/>nous meſmes, auoit eſté digne de<lb corresp="#f4-block_0-line_8-lineCount8"/>voſtre approbation. Ce qui nous a<lb corresp="#f4-block_0-line_9-lineCount9"/>donné la hardieſſe de publier ſous<lb corresp="#f4-block_0-line_10-lineCount10"/>voſtre Nom ſi precieux à tous les<lb corresp="#f4-block_0-line_11-lineCount11"/>peuples de cette Prouince, &amp; ſon ſu¬<lb corresp="#f4-block_0-line_12-lineCount12"/>jet &amp; ſon Œconomie pour en inſtruire<lb corresp="#f4-block_0-line_13-lineCount13"/>les Eſtrangers. Nous ne ſommes pas<lb corresp="#f4-block_0-line_14-lineCount14"/>ſortis hors des limites de voſtre Gou¬<lb corresp="#f4-block_0-line_15-lineCount15"/>uernement (MONSEIGNEVR) pour<lb corresp="#f4-block_0-line_16-lineCount16"/>former noſtre deſſein; la Fontaine de<lb corresp="#f4-block_0-line_17-lineCount17"/>Vaucluſe (pour qui la Nature ſem¬<lb corresp="#f4-block_0-line_18-lineCount18"/>ble s’eſtre ſurmontée en toutes cho¬<lb corresp="#f4-block_0-line_19-lineCount19"/>ſes) nous en a donné la matiere,<lb corresp="#f4-block_0-line_20-lineCount20"/>voſtre chere preſence nous a animez</ab>
         <fw corresp="#f4-eSc_textblock_8022d7fc-blockCount2" type="RunningTitleZone"><lb corresp="#f4-eSc_textblock_8022d7fc-line_0-lineCount21"/>EPISTRE.</fw>
