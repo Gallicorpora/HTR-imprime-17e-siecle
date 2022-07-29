@@ -11,11 +11,14 @@ NS = {'a':"http://www.loc.gov/standards/alto/ns-v4#"}  # namespace for the Alto 
 
 
 class Attributes:
-    def __init__(self, doc, folio, alto_root, tags):
+    def __init__(self, doc, folio, alto_root, tags, config):
         self.doc = doc
         self.folio = folio
         self.root = alto_root
         self.tags = tags
+        self.scheme = config["scheme"]
+        self.server = config["server"]
+        self.prefix = config["image_prefix"]
 
     def surface(self):
         """Create attributes for the TEI <surface> element using data parsed from the ALTO file's <Page> element.
@@ -67,7 +70,7 @@ class Attributes:
                 id=element.attrib["ID"]
                 # Instantiate the named tuple ZoneData with an empty dictionary and the element's ID if it was found
                 data = ZoneData(attributes, id)
-                if "TAGREFS" in element.attrib:
+                if "TAGREFS" in element.attrib and element.attrib["TAGREFS"] in self.tags:
                     tag = str(self.tags[element.attrib["TAGREFS"]])
                     
                     # parse the three (possible) components of the targeted ALTO element's @TAGREFS, according to SegmOnto guidelines;
@@ -109,7 +112,7 @@ class Attributes:
 
                 # Only parse coordinate data if it is present
                 if "HPOS" in element.attrib:
-                    data.attributes["source"]=f"https://gallica.bnf.fr/iiif/ark:/12148/{self.doc}/f{self.folio}/{x},{y},{w},{h}/full/0/native.jpg"
+                    data.attributes["source"]=f"{self.scheme}://{self.server}{self.prefix}/{self.doc}/f{self.folio}/{x},{y},{w},{h}/full/0/native.jpg"
 
                 output.append(data)
 
