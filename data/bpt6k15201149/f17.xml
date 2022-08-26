@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>f17.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT2254" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT2253" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT2252" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT2251" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT2250" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT2249" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT2248" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT2247" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT2246" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT2245" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT2244" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT2243" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT2242" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT2241" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/>
+    <OtherTag ID="LT785" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT786" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT787" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT788" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT789" LABEL="MusicLine" DESCRIPTION="line type MusicLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="4034"
+          HEIGHT="6298"
+          PHYSICAL_IMG_NR="4"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="4034"
+                  HEIGHT="6298">
+        
+        <TextBlock HPOS="504"
+                   VPOS="545"
+                   WIDTH="2075"
+                   HEIGHT="3536"
+                   ID="eSc_textblock_2c1f8458"
+                   TAGREFS="BT2245">
+          <Shape><Polygon POINTS="525 1485 504 587 1218 545 2579 566 2536 4018 819 4081 504 4064"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_717b9329"
+                    TAGREFS="LT785"
+                    BASELINE="504 671 2573 635" 
+                    HPOS="498"
+                    VPOS="545"
+                    WIDTH="2075"
+                    HEIGHT="153">
+            <Shape><Polygon POINTS="2547 561 2494 561 2442 561 2389 561 2337 561 2284 561 2232 561 2179 556 2127 556 2074 556 2022 556 1969 556 1917 556 1864 551 1833 551 1812 551 1759 551 1707 551 1654 551 1633 551 1623 556 1528 545 1496 545 1444 545 1391 545 1339 545 1286 545 1234 545 1223 545 1024 566 919 561 866 561 814 566 761 572 709 572 656 577 604 577 551 582 509 572 498 577 504 671 504 698 2573 661 2573 635 2558 551 2547 561"/></Shape>
+	    <String CONTENT="d&#39; Efpaigne contrainte de s&#39;humilier devant eux. Vo¬"
+                    HPOS="498"
+                    VPOS="545"
+                    WIDTH="2075"
+                    HEIGHT="153"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_90d63b1d"
+                    TAGREFS="LT785"
+                    BASELINE="504 834 2573 797" 
+                    HPOS="498"
+                    VPOS="666"
+                    WIDTH="2075"
+                    HEIGHT="210">
+            <Shape><Polygon POINTS="504 834 504 876 2573 823 2573 797 2563 698 2284 666 2279 666 2274 666 2269 666 2221 698 2111 671 2106 671 2101 671 2095 671 1959 703 1791 677 1785 677 1780 677 1712 703 1512 682 1507 682 961 719 892 692 887 692 882 692 630 724 556 698 551 698 546 698 541 698 535 698 498 719 504 834"/></Shape>
+	    <String CONTENT="ſtre Alteſſe y trouvera auſsi la gloire que ſa valeur luy"
+                    HPOS="498"
+                    VPOS="666"
+                    WIDTH="2075"
+                    HEIGHT="210"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ec14febc"
+                    TAGREFS="LT785"
+                    BASELINE="498 986 2579 955" 
+                    HPOS="493"
+                    VPOS="855"
+                    WIDTH="2086"
+                    HEIGHT="152">
+            <Shape><Polygon POINTS="2558 855 493 881 498 986 498 1007 2579 970 2579 955 2563 860 2558 855"/></Shape>
+	    <String CONTENT="donne, &amp; tout le monde y recognoiſtra, que comme Dieu"
+                    HPOS="493"
+                    VPOS="855"
+                    WIDTH="2086"
+                    HEIGHT="152"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f7ba6828"
+                    TAGREFS="LT785"
+                    BASELINE="504 1144 2573 1117" 
+                    HPOS="498"
+                    VPOS="1002"
+                    WIDTH="2075"
+                    HEIGHT="178">
+            <Shape><Polygon POINTS="504 1144 504 1180 2568 1138 2573 1117 2558 1002 498 1044 504 1144"/></Shape>
+	    <String CONTENT="vous a donné de vaincre vos Ennemis, vous ne cedés à"
+                    HPOS="498"
+                    VPOS="1002"
+                    WIDTH="2075"
+                    HEIGHT="178"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9f021ae7"
+                    TAGREFS="LT785"
+                    BASELINE="498 1301 2584 1270" 
+                    HPOS="493"
+                    VPOS="1154"
+                    WIDTH="2091"
+                    HEIGHT="200">
+            <Shape><Polygon POINTS="498 1301 498 1354 2579 1322 2584 1270 2573 1180 2090 1154 2085 1154 1633 1186 1591 1159 1586 1159 1581 1159 1575 1159 1570 1159 1565 1159 1528 1191 1386 1165 1381 1165 1166 1196 1134 1170 1129 1170 1124 1170 840 1170 835 1170 829 1170 751 1207 493 1207 498 1301"/></Shape>
+	    <String CONTENT="aucun Prince du monde, en merite, en bonneur, en"
+                    HPOS="493"
+                    VPOS="1154"
+                    WIDTH="2091"
+                    HEIGHT="200"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b9e78b8e"
+                    TAGREFS="LT785"
+                    BASELINE="504 1459 961 1448" 
+                    HPOS="498"
+                    VPOS="1312"
+                    WIDTH="463"
+                    HEIGHT="220">
+            <Shape><Polygon POINTS="504 1459 504 1501 667 1532 672 1532 761 1516 877 1495 950 1527 961 1448 950 1364 745 1312 740 1312 498 1343 504 1459"/></Shape>
+	    <String CONTENT="vaillance."
+                    HPOS="498"
+                    VPOS="1312"
+                    WIDTH="463"
+                    HEIGHT="220"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ac2e2d91"
+                    TAGREFS="LT785"
+                    BASELINE="1457 1851 2498 1846" 
+                    HPOS="1449"
+                    VPOS="1742"
+                    WIDTH="1045"
+                    HEIGHT="163">
+            <Shape><Polygon POINTS="2395 1752 2342 1752 2290 1747 2237 1747 2185 1747 2132 1742 2080 1742 2027 1742 1974 1742 1922 1742 1869 1747 1817 1747 1764 1747 1712 1752 1659 1752 1607 1752 1554 1758 1502 1758 1449 1758 1454 1847 1454 1905 2489 1905 2494 1842 2484 1758 2447 1758"/></Shape>
+	    <String CONTENT="I0SEPH DE LA PISE."
+                    HPOS="1449"
+                    VPOS="1742"
+                    WIDTH="1045"
+                    HEIGHT="163"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="830"
+                   VPOS="2572"
+                   WIDTH="1375"
+                   HEIGHT="1392"
+                   ID="eSc_textblock_a02781ac"
+                   TAGREFS="BT2244">
+          <Shape><Polygon POINTS="830 2572 921 3964 2205 3958 2205 2572"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>
