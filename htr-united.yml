@@ -44,13 +44,13 @@ license:
 format: Alto-XML
 volume:
 - metric: characters
-  count: 132479
+  count: 255983
 - metric: files
-  count: 160
+  count: 327
 - metric: lines
-  count: 4519
+  count: 8951
 - metric: regions
-  count: 624
+  count: 1200
 transcription-guidelines: "Les normes de transcription suivent les pr\xE9conisations\
   \ du projet gallicorpora"
 citation-file-link: https://github.com/Gallicorpora/HTR-imprime-17e-siecle/CITATION.cff
@@ -59,10 +59,10 @@ characters:
   mode: NFD
   members:
   - e
-  - a
   - u
-  - n
   - r
+  - a
+  - n
   - i
   - t
   - o
@@ -76,92 +76,123 @@ characters:
   - ','
   - v
   - q
-  - g
-  - f
   - .
-  - "\u2019"
+  - f
+  - g
   - b
+  - E
+  - "\u2019"
+  - h
   - y
   - "\u0301"
-  - h
-  - E
-  - '&'
-  - "\xAC"
   - A
-  - S
-  - x
-  - C
-  - L
-  - P
-  - "\u0300"
-  - I
+  - '&'
   - ''''
-  - D
-  - M
+  - S
+  - I
+  - x
+  - "\xAC"
+  - L
+  - C
   - R
-  - O
+  - P
+  - D
+  - "\u0300"
+  - M
   - V
   - T
+  - O
   - N
   - z
   - ':'
-  - '-'
   - Q
-  - ;
-  - G
-  - F
   - j
-  - B
-  - "\u0308"
-  - H
+  - '-'
+  - F
+  - G
   - "\u0303"
-  - '?'
-  - "\u0327"
+  - B
+  - ;
+  - H
+  - "\u0308"
   - '1'
+  - "\u0302"
+  - "\u0327"
   - '2'
+  - '?'
   - '3'
   - "\u0153"
-  - "\u0302"
-  - Y
   - '4'
-  - (
   - '5'
-  - X
-  - )
-  - "\xE6"
-  - '6'
+  - Y
+  - U
   - Z
-  - "\xDF"
+  - '6'
   - '7'
-  - "\xC6"
+  - '8'
+  - '0'
+  - X
   - J
   - '9'
-  - '8'
-  - '!'
-  - '0'
-  - U
-  - "\u03BD"
+  - (
+  - "\xE6"
+  - )
+  - "\xC6"
   - "\u03B9"
   - "\u03B1"
-  - "\u03C9"
-  - "\u03C5"
-  - K
-  - k
-  - "\u03C1"
-  - "\u03C3"
-  - "\u0391"
+  - '!'
+  - "\xDF"
+  - "\u03BF"
+  - "\u03BD"
   - "\u03B5"
+  - "\u03C1"
   - '*'
-  - "\u0152"
+  - "\u0313"
+  - "\u03C5"
+  - "\u03BA"
+  - "\u03C3"
+  - "\u03C4"
+  - "\u03C9"
+  - '['
+  - ']'
+  - "\uA770"
+  - K
+  - "\u0391"
+  - "\u03C7"
+  - "\u03C2"
+  - "\u03C0"
+  - "\u03B3"
+  - "\u0328"
+  - "\u03BC"
+  - k
+  - "\u0342"
+  - "\u039D"
+  - "\u0392"
+  - "\u03BB"
+  - "\u03A3"
+  - "\u039A"
+  - "\u03B7"
+  - "\u03B8"
   - W
+  - "\u0152"
+  - "\u03B4"
+  - "\u03A4"
+  - "\u0345"
+  - "\xBB"
+  - "\u1D49"
+  - "\u02E1"
+  - "\u0367"
+  - "\u0396"
+  - "\u03B2"
+  - "\u0314"
+  - "\u0307"
+  - "\xB0"
   - w
   - "\u1E9E"
   - "\u03A6"
-  - "\u03BA"
-  - "\u0313"
   - "\u039B"
-  - "\u03B3"
-  - "\u03B4"
-  - "\u03BF"
   - "\u03A7"
-  - "\uA770"
+  - "\u03C6"
+  - "\u0399"
+  - "\u02B3"
+  - "\u1D50"
