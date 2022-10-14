@@ -1,0 +1,451 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>f11.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT2157" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT2158" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT2159" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT2160" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT2161" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT2162" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT2163" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT2164" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT2165" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT2166" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT2167" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT2168" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT2169" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT2170" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT3558" LABEL="MainZone#1" DESCRIPTION="block type MainZone#1"/><OtherTag ID="BT3559" LABEL="MainZone#2" DESCRIPTION="block type MainZone#2"/>
+    <OtherTag ID="LT755" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT756" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT757" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT758" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT759" LABEL="MusicLine" DESCRIPTION="line type MusicLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="1749"
+          HEIGHT="2481"
+          PHYSICAL_IMG_NR="6"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1749"
+                  HEIGHT="2481">
+        
+        <TextBlock HPOS="428"
+                   VPOS="49"
+                   WIDTH="825"
+                   HEIGHT="1409"
+                   ID="eSc_textblock_de38a9b2"
+                   TAGREFS="BT2161">
+          <Shape><Polygon POINTS="428 49 428 1458 1253 1458 1253 49"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_e3353434"
+                    TAGREFS="LT757"
+                    BASELINE="478 113 1103 105 1173 115" 
+                    HPOS="476"
+                    VPOS="57"
+                    WIDTH="697"
+                    HEIGHT="69">
+            <Shape><Polygon POINTS="1159 57 1138 57 1117 57 1097 57 1076 57 1055 57 1034 57 1014 57 993 57 972 57 952 57 931 57 910 57 890 57 869 57 848 57 829 57 819 62 813 57 807 57 786 57 776 57 772 59 769 57 765 57 745 57 724 57 703 57 683 57 662 57 641 57 633 57 618 64 536 57 517 57 498 57 476 66 478 113 478 126 1171 119 1173 115 1171 57 1159 57"/></Shape>
+	    <String CONTENT="AV SIEVR DESRVES,"
+                    HPOS="476"
+                    VPOS="57"
+                    WIDTH="697"
+                    HEIGHT="69"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e3643520"
+                    TAGREFS="LT757"
+                    BASELINE="505 161 1152 155" 
+                    HPOS="502"
+                    VPOS="109"
+                    WIDTH="650"
+                    HEIGHT="58">
+            <Shape><Polygon POINTS="772 111 751 111 740 111 730 121 502 124 505 161 505 167 1152 161 1152 155 1148 119 782 109 772 111"/></Shape>
+	    <String CONTENT="SVR SES MARGVERITES"
+                    HPOS="502"
+                    VPOS="109"
+                    WIDTH="650"
+                    HEIGHT="58"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2bdbecc0"
+                    TAGREFS="LT757"
+                    BASELINE="718 208 964 208" 
+                    HPOS="718"
+                    VPOS="157"
+                    WIDTH="246"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="925 159 904 159 896 159 858 167 852 169 776 169 772 165 765 159 759 159 738 159 736 159 718 163 718 208 718 221 964 221 964 208 964 167 931 157 925 159"/></Shape>
+	    <String CONTENT="Françoiſes."
+                    HPOS="718"
+                    VPOS="157"
+                    WIDTH="246"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d2db37f0"
+                    
+                    BASELINE="505 289 1161 289" 
+                    HPOS="505"
+                    VPOS="246"
+                    WIDTH="656"
+                    HEIGHT="57">
+            <Shape><Polygon POINTS="1146 248 1140 246 505 254 505 289 505 303 1161 303 1161 289 1159 248 1146 248"/></Shape>
+	    <String CONTENT="Autant de los qu&#39;on doit au pere d&#39;Eloquence,"
+                    HPOS="505"
+                    VPOS="246"
+                    WIDTH="656"
+                    HEIGHT="57"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5ae75303"
+                    
+                    BASELINE="480 330 1190 330" 
+                    HPOS="480"
+                    VPOS="295"
+                    WIDTH="710"
+                    HEIGHT="50">
+            <Shape><Polygon POINTS="1183 305 1169 295 480 295 480 330 480 341 1188 345 1190 330 1190 295 1183 295 1183 305"/></Shape>
+	    <String CONTENT="Ou qu&#39;au diuin Maron ſont deus das Lauriers verds."
+                    HPOS="480"
+                    VPOS="295"
+                    WIDTH="710"
+                    HEIGHT="50"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_93db8611"
+                    
+                    BASELINE="486 370 1183 374" 
+                    HPOS="484"
+                    VPOS="332"
+                    WIDTH="699"
+                    HEIGHT="54">
+            <Shape><Polygon POINTS="817 332 796 332 776 332 755 332 734 332 714 332 693 332 672 332 651 332 631 332 610 332 589 332 569 332 548 332 527 332 507 332 486 332 486 370 484 382 1179 386 1183 374 1181 337 834 332 817 332"/></Shape>
+	    <String CONTENT="Vn iour autant d&#39;honneur tu auras par la France,"
+                    HPOS="484"
+                    VPOS="332"
+                    WIDTH="699"
+                    HEIGHT="54"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5b2593cb"
+                    
+                    BASELINE="488 413 1194 413" 
+                    HPOS="488"
+                    VPOS="376"
+                    WIDTH="706"
+                    HEIGHT="49">
+            <Shape><Polygon POINTS="488 413 488 425 1194 421 1194 413 1194 378 488 376 488 413"/></Shape>
+	    <String CONTENT="Eſgalant l’vn en proſe, &amp; ſuiuant l’autre en vers."
+                    HPOS="488"
+                    VPOS="376"
+                    WIDTH="706"
+                    HEIGHT="49"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_92ee53a9"
+                    
+                    BASELINE="736 463 1190 458" 
+                    HPOS="734"
+                    VPOS="415"
+                    WIDTH="456"
+                    HEIGHT="60">
+            <Shape><Polygon POINTS="743 415 740 415 738 415 738 417 736 417 734 419 736 463 736 475 1188 475 1190 458 1186 423 745 415 743 415"/></Shape>
+	    <String CONTENT="Barn le Gendre Ad. à Auran."
+                    HPOS="734"
+                    VPOS="415"
+                    WIDTH="456"
+                    HEIGHT="60"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1515a22d"
+                    TAGREFS="LT757"
+                    BASELINE="515 580 1171 576" 
+                    HPOS="513"
+                    VPOS="523"
+                    WIDTH="658"
+                    HEIGHT="74">
+            <Shape><Polygon POINTS="515 580 515 597 1169 585 1171 576 1167 535 840 523 838 523 836 523 834 523 813 535 579 525 577 525 575 525 573 525 562 535 544 525 542 525 540 525 538 525 513 535 515 580"/></Shape>
+	    <String CONTENT="Ad Dominum Deſ-ruës in ſuas"
+                    HPOS="513"
+                    VPOS="523"
+                    WIDTH="658"
+                    HEIGHT="74"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_721d3f09"
+                    TAGREFS="LT757"
+                    BASELINE="585 632 1105 632" 
+                    HPOS="585"
+                    VPOS="580"
+                    WIDTH="520"
+                    HEIGHT="71">
+            <Shape><Polygon POINTS="689 580 668 580 647 580 627 580 612 580 604 583 585 620 585 632 585 651 1105 640 1105 632 1105 591 701 580 689 580"/></Shape>
+	    <String CONTENT="Marguaretas Franciſcas,"
+                    HPOS="585"
+                    VPOS="580"
+                    WIDTH="520"
+                    HEIGHT="71"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_21fc3904"
+                    TAGREFS="LT757"
+                    BASELINE="623 686 1055 682" 
+                    HPOS="620"
+                    VPOS="634"
+                    WIDTH="435"
+                    HEIGHT="62">
+            <Shape><Polygon POINTS="643 634 641 634 620 642 623 686 623 696 1053 692 1055 682 1051 642 645 634 643 634"/></Shape>
+	    <String CONTENT="Anagrammatiſmus."
+                    HPOS="620"
+                    VPOS="634"
+                    WIDTH="435"
+                    HEIGHT="62"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1953f298"
+                    TAGREFS="LT755"
+                    BASELINE="600 785 1041 785" 
+                    HPOS="600"
+                    VPOS="742"
+                    WIDTH="441"
+                    HEIGHT="56">
+            <Shape><Polygon POINTS="600 785 600 798 1041 798 1041 785 1041 746 600 742 600 785"/></Shape>
+	    <String CONTENT="Franciſcus Deſ-ruës,"
+                    HPOS="600"
+                    VPOS="742"
+                    WIDTH="441"
+                    HEIGHT="56"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_324a19c2"
+                    TAGREFS="LT755"
+                    BASELINE="602 839 1045 839" 
+                    HPOS="602"
+                    VPOS="787"
+                    WIDTH="443"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="974 787 962 787 927 795 921 795 912 795 867 787 850 787 840 787 798 793 780 795 772 793 759 787 747 787 726 787 705 787 699 787 616 789 602 802 602 839 602 851 1045 851 1045 839 1045 798 985 787 974 787"/></Shape>
+	    <String CONTENT="Res ſcis re facundus."
+                    HPOS="602"
+                    VPOS="787"
+                    WIDTH="443"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_86d3bafe"
+                    TAGREFS="LT755"
+                    BASELINE="488 951 1217 959" 
+                    HPOS="486"
+                    VPOS="911"
+                    WIDTH="731"
+                    HEIGHT="56">
+            <Shape><Polygon POINTS="488 922 488 951 486 965 1212 967 1217 959 1214 922 505 911 488 922"/></Shape>
+	    <String CONTENT="Neſcia docta cohors, quo tecũ munere certet,"
+                    HPOS="486"
+                    VPOS="911"
+                    WIDTH="731"
+                    HEIGHT="56"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1c3fc862"
+                    TAGREFS="LT755"
+                    BASELINE="494 988 1192 998" 
+                    HPOS="492"
+                    VPOS="953"
+                    WIDTH="700"
+                    HEIGHT="60">
+            <Shape><Polygon POINTS="722 955 701 955 680 955 670 953 610 953 598 953 577 953 556 953 536 953 515 953 494 953 494 988 492 996 1188 1013 1192 998 1190 963 726 955 722 955"/></Shape>
+	    <String CONTENT="* Phœbũ adit, hos ſacro qui dedit ore ſonos,"
+                    HPOS="492"
+                    VPOS="953"
+                    WIDTH="700"
+                    HEIGHT="60"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2f43f557"
+                    TAGREFS="LT755"
+                    BASELINE="488 1035 1200 1035" 
+                    HPOS="488"
+                    VPOS="994"
+                    WIDTH="712"
+                    HEIGHT="54">
+            <Shape><Polygon POINTS="488 1035 488 1048 1200 1048 1200 1035 1200 1000 488 994 488 1035"/></Shape>
+	    <String CONTENT="Francia Frãciſco det Francica munera Franco"
+                    HPOS="488"
+                    VPOS="994"
+                    WIDTH="712"
+                    HEIGHT="54"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1a27cf45"
+                    TAGREFS="LT755"
+                    BASELINE="521 1075 1142 1075" 
+                    HPOS="521"
+                    VPOS="1037"
+                    WIDTH="621"
+                    HEIGHT="50">
+            <Shape><Polygon POINTS="811 1037 790 1037 769 1037 749 1037 728 1037 707 1037 687 1037 666 1037 645 1037 625 1037 604 1037 583 1037 562 1037 542 1037 521 1037 521 1075 521 1085 1140 1087 1142 1075 1142 1039 832 1037 811 1037"/></Shape>
+	    <String CONTENT="FrancorumFrancos qui docet arte ſales"
+                    HPOS="521"
+                    VPOS="1037"
+                    WIDTH="621"
+                    HEIGHT="50"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8750838b"
+                    TAGREFS="LT755"
+                    BASELINE="488 1114 1210 1110" 
+                    HPOS="488"
+                    VPOS="1077"
+                    WIDTH="722"
+                    HEIGHT="58">
+            <Shape><Polygon POINTS="488 1101 488 1114 488 1135 1208 1124 1210 1110 1206 1079 494 1077 488 1101"/></Shape>
+	    <String CONTENT="Ftancia tum mater Charitum, genitrixque"
+                    HPOS="488"
+                    VPOS="1077"
+                    WIDTH="722"
+                    HEIGHT="58"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b123abe8"
+                    TAGREFS="LT755"
+                    BASELINE="546 1153 722 1153" 
+                    HPOS="546"
+                    VPOS="1120"
+                    WIDTH="176"
+                    HEIGHT="44">
+            <Shape><Polygon POINTS="546 1153 546 1164 722 1164 722 1153 722 1122 546 1120 546 1153"/></Shape>
+	    <String CONTENT="leporum."
+                    HPOS="546"
+                    VPOS="1120"
+                    WIDTH="176"
+                    HEIGHT="44"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2166a8fc"
+                    TAGREFS="LT755"
+                    BASELINE="521 1192 1146 1192" 
+                    HPOS="521"
+                    VPOS="1151"
+                    WIDTH="625"
+                    HEIGHT="54">
+            <Shape><Polygon POINTS="707 1155 687 1155 666 1155 645 1155 625 1155 604 1155 583 1155 562 1155 560 1151 521 1151 521 1192 521 1205 1146 1205 1146 1192 1146 1159 707 1153 707 1155"/></Shape>
+	    <String CONTENT="Franciſco impertit quas dea gignit opes."
+                    HPOS="521"
+                    VPOS="1151"
+                    WIDTH="625"
+                    HEIGHT="54"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_03662e36"
+                    TAGREFS="LT755"
+                    BASELINE="490 1234 1217 1234" 
+                    HPOS="490"
+                    VPOS="1190"
+                    WIDTH="727"
+                    HEIGHT="58">
+            <Shape><Polygon POINTS="966 1195 945 1195 925 1195 904 1195 883 1195 863 1195 842 1195 821 1195 801 1195 780 1195 759 1195 738 1195 718 1195 697 1195 676 1195 656 1195 635 1195 614 1195 594 1195 573 1195 552 1195 531 1195 529 1190 494 1190 490 1215 490 1234 490 1246 1214 1248 1217 1234 1217 1197 974 1195 966 1195"/></Shape>
+	    <String CONTENT="Hinc Re facundus res ſcis, quas Pallas &amp; Her¬"
+                    HPOS="490"
+                    VPOS="1190"
+                    WIDTH="727"
+                    HEIGHT="58"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_10369628"
+                    TAGREFS="LT755"
+                    BASELINE="536 1269 635 1269" 
+                    HPOS="536"
+                    VPOS="1238"
+                    WIDTH="99"
+                    HEIGHT="45">
+            <Shape><Polygon POINTS="536 1269 536 1283 635 1283 635 1269 635 1238 536 1238 536 1269"/></Shape>
+	    <String CONTENT="mes::"
+                    HPOS="536"
+                    VPOS="1238"
+                    WIDTH="99"
+                    HEIGHT="45"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1e5f94db"
+                    TAGREFS="LT755"
+                    BASELINE="498 1314 1003 1314" 
+                    HPOS="498"
+                    VPOS="1271"
+                    WIDTH="505"
+                    HEIGHT="58">
+            <Shape><Polygon POINTS="498 1314 498 1329 1003 1329 1003 1314 1003 1277 498 1271 498 1314"/></Shape>
+	    <String CONTENT="Vna Francigenas edocuere ſuos."
+                    HPOS="498"
+                    VPOS="1271"
+                    WIDTH="505"
+                    HEIGHT="58"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_bfa573db"
+                    TAGREFS="LT755"
+                    BASELINE="571 1391 1208 1395" 
+                    HPOS="569"
+                    VPOS="1354"
+                    WIDTH="639"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="1192 1362 1179 1358 571 1354 571 1391 569 1407 587 1418 589 1418 591 1418 1206 1410 1208 1395 1206 1360 1192 1362"/></Shape>
+	    <String CONTENT="B. Vagnaudus, Burgundio, Erotopolianus."
+                    HPOS="569"
+                    VPOS="1354"
+                    WIDTH="639"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

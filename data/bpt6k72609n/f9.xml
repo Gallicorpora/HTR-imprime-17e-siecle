@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>f9.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT2129" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT2130" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT2131" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT2132" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT2133" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT2134" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT2135" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT2136" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT2137" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT2138" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT2139" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT2140" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT2141" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT2142" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/>
+    <OtherTag ID="LT745" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT746" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT747" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT748" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT749" LABEL="MusicLine" DESCRIPTION="line type MusicLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2592"
+          HEIGHT="3508"
+          PHYSICAL_IMG_NR="8"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2592"
+                  HEIGHT="3508">
+        
+        <TextBlock HPOS="1140"
+                   VPOS="129"
+                   WIDTH="590"
+                   HEIGHT="94"
+                   ID="eSc_textblock_f1dd8aa7"
+                   TAGREFS="BT2138">
+          <Shape><Polygon POINTS="1140 141 1152 221 1672 223 1730 222 1710 129"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_7d7c6b12"
+                    TAGREFS="LT745"
+                    BASELINE="1158 207 1717 201" 
+                    HPOS="1158"
+                    VPOS="128"
+                    WIDTH="559"
+                    HEIGHT="88">
+            <Shape><Polygon POINTS="1711 140 1682 128 1652 128 1623 128 1594 128 1565 128 1535 128 1506 128 1477 128 1448 128 1418 128 1389 128 1360 128 1331 128 1301 128 1272 128 1243 128 1214 128 1184 128 1173 140 1158 207 1158 216 1717 210 1717 201 1711 143 1711 140"/></Shape>
+	    <String CONTENT="PROLOGUE."
+                    HPOS="1158"
+                    VPOS="128"
+                    WIDTH="559"
+                    HEIGHT="88"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="648"
+                   VPOS="258"
+                   WIDTH="1435"
+                   HEIGHT="1663"
+                   ID="eSc_textblock_f2e0ff2c"
+                   TAGREFS="BT2133">
+          <Shape><Polygon POINTS="648 262 654 1921 2048 1918 2083 258"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_093985dd"
+                    TAGREFS="LT747"
+                    BASELINE="1184 330 1717 324" 
+                    HPOS="1184"
+                    VPOS="245"
+                    WIDTH="533"
+                    HEIGHT="99">
+            <Shape><Polygon POINTS="1693 266 1652 245 1649 245 1647 245 1556 260 1471 245 1468 245 1465 245 1462 245 1462 248 1445 266 1193 271 1184 312 1184 330 1184 344 1717 339 1717 324 1711 309 1708 321"/></Shape>
+	    <String CONTENT="Τous enſemble."
+                    HPOS="1184"
+                    VPOS="245"
+                    WIDTH="533"
+                    HEIGHT="99"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2be76c6c"
+                    TAGREFS="LT745"
+                    BASELINE="848 470 1930 470" 
+                    HPOS="848"
+                    VPOS="382"
+                    WIDTH="1082"
+                    HEIGHT="117">
+            <Shape><Polygon POINTS="877 394 848 423 848 470 848 479 1059 496 1061 496 1146 482 1149 482 1152 482 1240 496 1243 499 1243 496 1331 482 1336 482 1342 482 1462 496 1465 496 1468 496 1515 482 1518 482 1541 496 1544 496 1547 496 1550 496 1553 496 1588 482 1591 482 1609 482 1767 496 1769 496 1930 482 1930 470 1927 394 1825 400 1805 394 1769 382 1767 382 1764 382 1761 382 1758 382 1740 394 1726 406 1696 397 1655 382 1652 382 1649 382 1647 382 1644 382 1620 397 1614 400 1603 397 1565 388 1562 388 1559 388 1503 400 1462 406 1421 400 1310 382 1307 382 1304 382 1260 403 1252 406 1243 403 1202 382 1199 382 1196 382 1193 382 1190 382 1190 385 1170 403 1167 409 947 409 944 406 901 391 877 394"/></Shape>
+	    <String CONTENT="Le temps des Jeux, &amp; du repos,"
+                    HPOS="848"
+                    VPOS="382"
+                    WIDTH="1082"
+                    HEIGHT="117"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_433c7705"
+                    TAGREFS="LT745"
+                    BASELINE="656 577 2077 561" 
+                    HPOS="652"
+                    VPOS="467"
+                    WIDTH="1422"
+                    HEIGHT="120">
+            <Shape><Polygon POINTS="1632 470 1629 470 1626 470 1623 470 1582 485 1562 494 1357 494 1351 485 1342 479 1342 476 1339 476 1336 476 1334 476 1331 476 1310 485 1293 496 1208 496 1196 485 1187 476 1184 476 1181 476 1132 476 1129 476 1126 476 1123 476 1123 479 1120 479 1114 485 1105 499 1015 499 1003 485 997 482 997 479 994 479 991 479 988 479 985 479 965 485 930 496 892 485 874 482 871 482 868 482 865 482 851 485 801 499 775 485 766 482 763 482 760 482 652 485 655 575 655 587 2071 587 2074 558 2068 485 1963 467 1960 467 1957 467 1954 467 1930 485 1927 488 1825 491 1655 491 1649 485 1635 470 1632 470"/></Shape>
+	    <String CONTENT="Luy ſert à mediter de nouvelles Conqueſtes."
+                    HPOS="652"
+                    VPOS="467"
+                    WIDTH="1422"
+                    HEIGHT="120"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3ea2eed4"
+                    TAGREFS="LT745"
+                    BASELINE="1097 780 1734 774" 
+                    HPOS="1094"
+                    VPOS="701"
+                    WIDTH="640"
+                    HEIGHT="102">
+            <Shape><Polygon POINTS="1714 722 1582 722 1570 716 1556 707 1532 707 1503 707 1489 707 1483 710 1477 713 1471 710 1459 707 1445 707 1415 704 1389 704 1386 707 1369 722 1325 704 1298 704 1275 701 1272 704 1240 722 1190 701 1181 701 1152 701 1123 707 1094 707 1097 780 1097 792 1731 803 1734 774 1728 751 1714 722"/></Shape>
+	    <String CONTENT="Fin du Prologue."
+                    HPOS="1094"
+                    VPOS="701"
+                    WIDTH="640"
+                    HEIGHT="102"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1108"
+                   VPOS="1152"
+                   WIDTH="673"
+                   HEIGHT="742"
+                   ID="eSc_textblock_c18ad379"
+                   TAGREFS="BT2132">
+          <Shape><Polygon POINTS="1108 1152 1108 1894 1781 1894 1781 1152"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="440"
+                   VPOS="448"
+                   WIDTH="159"
+                   HEIGHT="169"
+                   ID="eSc_textblock_def25a78"
+                   TAGREFS="BT2129">
+          <Shape><Polygon POINTS="440 448 440 617 599 617 599 448"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>
