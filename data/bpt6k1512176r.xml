@@ -93,17 +93,29 @@
             <ptr target="https://github.com/segmonto"/>
           </bibl>
           <category xml:id="SegmOntoZones">
-            <catDesc xml:id="SealZone">
-              <title>SealZone</title>
-              <ptr target="https://segmonto.github.io/gd/gdZ/SealZone"/>
+            <catDesc xml:id="MusicZone">
+              <title>MusicZone</title>
+              <ptr target="https://segmonto.github.io/gd/gdZ/MusicZone"/>
+            </catDesc>
+            <catDesc xml:id="MainZone">
+              <title>MainZone</title>
+              <ptr target="https://segmonto.github.io/gd/gdZ/MainZone"/>
             </catDesc>
             <catDesc xml:id="RunningTitleZone">
               <title>RunningTitleZone</title>
               <ptr target="https://segmonto.github.io/gd/gdZ/RunningTitleZone"/>
             </catDesc>
+            <catDesc xml:id="DamageZone">
+              <title>DamageZone</title>
+              <ptr target="https://segmonto.github.io/gd/gdZ/DamageZone"/>
+            </catDesc>
             <catDesc xml:id="TitlePageZone">
               <title>TitlePageZone</title>
               <ptr target="https://segmonto.github.io/gd/gdZ/TitlePageZone"/>
+            </catDesc>
+            <catDesc xml:id="QuireMarksZone">
+              <title>QuireMarksZone</title>
+              <ptr target="https://segmonto.github.io/gd/gdZ/QuireMarksZone"/>
             </catDesc>
             <catDesc xml:id="NumberingZone">
               <title>NumberingZone</title>
@@ -113,47 +125,35 @@
               <title>TableZone</title>
               <ptr target="https://segmonto.github.io/gd/gdZ/TableZone"/>
             </catDesc>
-            <catDesc xml:id="MainZone">
-              <title>MainZone</title>
-              <ptr target="https://segmonto.github.io/gd/gdZ/MainZone"/>
-            </catDesc>
-            <catDesc xml:id="DamageZone">
-              <title>DamageZone</title>
-              <ptr target="https://segmonto.github.io/gd/gdZ/DamageZone"/>
+            <catDesc xml:id="DropCapitalZone">
+              <title>DropCapitalZone</title>
+              <ptr target="https://segmonto.github.io/gd/gdZ/DropCapitalZone"/>
             </catDesc>
             <catDesc xml:id="StampZone">
               <title>StampZone</title>
               <ptr target="https://segmonto.github.io/gd/gdZ/StampZone"/>
             </catDesc>
-            <catDesc xml:id="MusicZone">
-              <title>MusicZone</title>
-              <ptr target="https://segmonto.github.io/gd/gdZ/MusicZone"/>
-            </catDesc>
-            <catDesc xml:id="QuireMarksZone">
-              <title>QuireMarksZone</title>
-              <ptr target="https://segmonto.github.io/gd/gdZ/QuireMarksZone"/>
-            </catDesc>
-            <catDesc xml:id="DropCapitalZone">
-              <title>DropCapitalZone</title>
-              <ptr target="https://segmonto.github.io/gd/gdZ/DropCapitalZone"/>
+            <catDesc xml:id="SealZone">
+              <title>SealZone</title>
+              <ptr target="https://segmonto.github.io/gd/gdZ/SealZone"/>
             </catDesc>
           </category>
           <category xml:id="SegmOntoLines">
-            <catDesc xml:id="DropCapitalLine">
-              <title>DropCapitalLine</title>
-              <ptr target="https://segmonto.github.io/gd/gdL/DropCapitalLine"/>
-            </catDesc>
-            <catDesc xml:id="DefaultLine">
-              <title>DefaultLine</title>
-              <ptr target="https://segmonto.github.io/gd/gdL/DefaultLine"/>
-            </catDesc>
             <catDesc xml:id="InterlinearLine">
               <title>InterlinearLine</title>
               <ptr target="https://segmonto.github.io/gd/gdL/InterlinearLine"/>
             </catDesc>
+            <catDesc xml:id="DropCapitalLine">
+              <title>DropCapitalLine</title>
+              <ptr target="https://segmonto.github.io/gd/gdL/DropCapitalLine"/>
+            </catDesc>
             <catDesc xml:id="MusicLine">
               <title>MusicLine</title>
               <ptr target="https://segmonto.github.io/gd/gdL/MusicLine"/>
+            </catDesc>
+            <catDesc xml:id="DefaultLine">
+              <title>DefaultLine</title>
+              <ptr target="https://segmonto.github.io/gd/gdL/DefaultLine"/>
             </catDesc>
             <catDesc xml:id="HeadingLine">
               <title>HeadingLine</title>
@@ -222,7 +222,7 @@
         </zone>
       </zone>
       <zone xml:id="f9-eSc_textblock_562d0539-blockCount2" type="NumberingZone" corresp="#NumberingZone" subtype="none" n="none" ulx="936" uly="2596" lrx="1434" lry="2745" points="1434,2689 1386,2745 945,2745 936,2596 1405,2615" source="https://gallica.bnf.fr/iiif/ark:/12148//bpt6k1512176r/f9/936,2596,498,149/full/0/native.jpg">
-        <zone xml:id="f9-eSc_textblock_562d0539-eSc_line_4bb265ef-lineCount14" type="TextLine" ulx="919" uly="2587" lrx="1400" lry="2779" points="1398,2613 1374,2613 1351,2613 1327,2610 1303,2610 1280,2608 1256,2608 1232,2608 1208,2606 1185,2606 1168,2603 1137,2603 1114,2603 1090,2601 1066,2601 1042,2598 1019,2598 995,2598 971,2596 948,2596 943,2587 924,2591 922,2693 919,2738 955,2750 957,2750 960,2750 962,2750 964,2750 971,2743 997,2726 1111,2729 1137,2757 1147,2767 1147,2769 1149,2769 1152,2769 1189,2771 1192,2771 1194,2771 1197,2771 1208,2764 1234,2748 1261,2769 1265,2774 1268,2774 1270,2774 1393,2779 1400,2715 1400,2620 1398,2613" source="https://gallica.bnf.fr/iiif/ark:/12148//bpt6k1512176r/f9/919,2587,481,192/full/0/native.jpg">
+        <zone xml:id="f9-eSc_textblock_562d0539-eSc_line_4bb265ef-lineCount14" type="HeadingLine" corresp="#HeadingLine" subtype="none" n="none" ulx="919" uly="2587" lrx="1400" lry="2779" points="1398,2613 1374,2613 1351,2613 1327,2610 1303,2610 1280,2608 1256,2608 1232,2608 1208,2606 1185,2606 1168,2603 1137,2603 1114,2603 1090,2601 1066,2601 1042,2598 1019,2598 995,2598 971,2596 948,2596 943,2587 924,2591 922,2693 919,2738 955,2750 957,2750 960,2750 962,2750 964,2750 971,2743 997,2726 1111,2729 1137,2757 1147,2767 1147,2769 1149,2769 1152,2769 1189,2771 1192,2771 1194,2771 1197,2771 1208,2764 1234,2748 1261,2769 1265,2774 1268,2774 1270,2774 1393,2779 1400,2715 1400,2620 1398,2613" source="https://gallica.bnf.fr/iiif/ark:/12148//bpt6k1512176r/f9/919,2587,481,192/full/0/native.jpg">
           <path xml:id="f9-eSc_textblock_562d0539-eSc_line_4bb265ef-lineCount14-baseline" points="924,2695 1401,2716"/>
           <line xml:id="f9-eSc_textblock_562d0539-eSc_line_4bb265ef-lineCount14-text" n="14">8°T 7009</line>
         </zone>
@@ -504,8 +504,7 @@
           <line xml:id="f22-eSc_textblock_dc9ed1f7-eSc_line_7a2e7f89-lineCount22-text" n="22">en</line>
         </zone>
       </zone>
-      <zone xml:id="f22-eSc_textblock_1da3ad6d-blockCount2" type="TextBlock" ulx="1566" uly="2366" lrx="1664" lry="2451" points="1566,2366 1566,2451 1664,2451 1664,2366" source="https://gallica.bnf.fr/iiif/ark:/12148//bpt6k1512176r/f22/1566,2366,98,85/full/0/native.jpg"/>
-      <zone xml:id="f22-eSc_textblock_9a014667-blockCount3" type="QuireMarksZone" corresp="#QuireMarksZone" subtype="none" n="none" ulx="1566" uly="2356" lrx="1676" lry="2451" points="1566,2366 1566,2451 1676,2432 1670,2356" source="https://gallica.bnf.fr/iiif/ark:/12148//bpt6k1512176r/f22/1566,2356,110,95/full/0/native.jpg"/>
+      <zone xml:id="f22-eSc_textblock_9a014667-blockCount2" type="QuireMarksZone" corresp="#QuireMarksZone" subtype="none" n="none" ulx="1566" uly="2356" lrx="1676" lry="2451" points="1566,2366 1566,2451 1676,2432 1670,2356" source="https://gallica.bnf.fr/iiif/ark:/12148//bpt6k1512176r/f22/1566,2356,110,95/full/0/native.jpg"/>
     </surface>
     <surface xml:id="f23" n="4" ulx="0" uly="0" lrx="1718" lry="2843">
       <graphic url="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k1512176r/f23/full/full/0/native.jpg"/>
@@ -1034,7 +1033,7 @@
           <path xml:id="f31-eSc_textblock_7e4e6d69-eSc_line_174a3c8c-lineCount18-baseline" points="104,1594 1248,1608"/>
           <line xml:id="f31-eSc_textblock_7e4e6d69-eSc_line_174a3c8c-lineCount18-text" n="18">toutes ces Veritez. Fait à Anuers ce .16. Iuillet</line>
         </zone>
-        <zone xml:id="f31-eSc_textblock_7e4e6d69-eSc_line_f2a778ae-lineCount19" type="TextLine" ulx="111" uly="1603" lrx="241" lry="1710" points="111,1663 111,1689 239,1710 241,1663 241,1618 149,1603 146,1603 144,1603 111,1615 111,1663" source="https://gallica.bnf.fr/iiif/ark:/12148//bpt6k1512176r/f31/111,1603,130,107/full/0/native.jpg">
+        <zone xml:id="f31-eSc_textblock_7e4e6d69-eSc_line_f2a778ae-lineCount19" type="DefaultLine" corresp="#DefaultLine" subtype="none" n="none" ulx="111" uly="1603" lrx="241" lry="1710" points="111,1663 111,1689 239,1710 241,1663 241,1618 149,1603 146,1603 144,1603 111,1615 111,1663" source="https://gallica.bnf.fr/iiif/ark:/12148//bpt6k1512176r/f31/111,1603,130,107/full/0/native.jpg">
           <path xml:id="f31-eSc_textblock_7e4e6d69-eSc_line_f2a778ae-lineCount19-baseline" points="113,1665 242,1665"/>
           <line xml:id="f31-eSc_textblock_7e4e6d69-eSc_line_f2a778ae-lineCount19-text" n="19">.1630.</line>
         </zone>
@@ -2173,7 +2172,7 @@
         <ab corresp="#f27-eSc_textblock_4612c850-blockCount3" type="MainZone"><lb corresp="#f27-eSc_textblock_4612c850-eSc_line_45b57e23-lineCount3"/>E ne ſuis pas d'hu¬<lb corresp="#f27-eSc_textblock_4612c850-eSc_line_ef05f13b-lineCount4"/>meur à t'entretenir<lb corresp="#f27-eSc_textblock_4612c850-eSc_line_3dd05ebe-lineCount5"/>longtemps; Aprens<lb corresp="#f27-eSc_textblock_4612c850-eSc_line_df407b28-lineCount6"/>donc,ſi tu veux,que<lb corresp="#f27-eSc_textblock_4612c850-eSc_line_f97ca20d-lineCount7"/>la premiere penſée<lb corresp="#f27-eSc_textblock_4612c850-eSc_line_9a206e1b-lineCount8"/>de compoſer ce li¬<lb corresp="#f27-eSc_textblock_4612c850-eSc_line_032b7ce7-lineCount9"/>ure , me vint à Tilly , comme vn<lb corresp="#f27-eSc_textblock_4612c850-eSc_line_6ded5250-lineCount10"/>lieu, où les delices du monde ſont<lb corresp="#f27-eSc_textblock_4612c850-eSc_line_deb1c99c-lineCount11"/>enſeuelies. Ce n'et pas qu'on n'y viue<lb corresp="#f27-eSc_textblock_4612c850-eSc_line_1bbd0a28-lineCount12"/>contant , mais les plaiſirs qu'on y<lb corresp="#f27-eSc_textblock_4612c850-eSc_line_601ffccc-lineCount13"/>reçoit, &amp; les douceurs qu'on y gou¬<lb corresp="#f27-eSc_textblock_4612c850-eSc_line_9f768387-lineCount14"/>te, ne ſentent pas la terre, quoy qu'el¬<lb corresp="#f27-eSc_textblock_4612c850-eSc_line_a2fc7605-lineCount15"/>le les produiſe; parce que les plantes<lb corresp="#f27-eSc_textblock_4612c850-eSc_line_e8eb512c-lineCount16"/>en ſont arrozées de la meſme liqueur<lb corresp="#f27-eSc_textblock_4612c850-eSc_line_6fc042e9-lineCount17"/>que la Vertu arroze ces fruictz. D'ail¬<lb corresp="#f27-eSc_textblock_4612c850-eSc_line_8e287e73-lineCount18"/>leurs , la Pieté eſpure telement tout<lb corresp="#f27-eSc_textblock_4612c850-eSc_line_439041a3-lineCount19"/>l'air qu'on y reſpire, que les ames n'y<lb corresp="#f27-eSc_textblock_4612c850-eSc_line_1bc8d5af-lineCount20"/>ſont iamais malades , &amp; les corps n'y<lb corresp="#f27-eSc_textblock_4612c850-eSc_line_f3390726-lineCount21"/>meurent que de vielleſſe. Que ſi la<lb corresp="#f27-eSc_textblock_4612c850-eSc_line_ed4d2ecd-lineCount22"/>curioſité y guide tes pas,ſouuienne toy<lb corresp="#f27-eSc_textblock_4612c850-eSc_line_a489cc92-lineCount23"/>de laiſſer tes paſſions au logis; car les<lb corresp="#f27-eSc_textblock_4612c850-eSc_line_d97ba8c2-lineCount24"/>cœurs<lb corresp="#f27-eSc_textblock_4612c850-eSc_line_653f7ecd-lineCount25"/>** 5</ab>
         <pb corresp="#f31"/>
         <note corresp="#f31-eSc_textblock_32eafec4-blockCount2" type="MarginTextZone"><lb corresp="#f31-eSc_textblock_32eafec4-eSc_line_c8dd4dbc-lineCount2"/>ZEGERVS van HONTSVM<lb corresp="#f31-eSc_textblock_32eafec4-eSc_line_c44908c1-lineCount3"/>chanoine &amp; Penitentier d'Anuers<lb corresp="#f31-eSc_textblock_32eafec4-eSc_line_ca1ac8a1-lineCount4"/>&amp; Censeur de Liures.</note>
-        <ab corresp="#f31-eSc_textblock_7e4e6d69-blockCount3" type="MainZone"><hi rend="HeadingLine"><lb corresp="#f31-eSc_textblock_7e4e6d69-eSc_line_e4c190b3-lineCount5"/>APPROBATION.</hi><lb corresp="#f31-eSc_textblock_7e4e6d69-eSc_line_27ba79b4-lineCount6"/>E Tombeau des Delices , de l'inuention du<lb corresp="#f31-eSc_textblock_7e4e6d69-eSc_line_59999d35-lineCount7"/>sieur de la serre , Hiſtoriographe de France,<lb corresp="#f31-eSc_textblock_7e4e6d69-eSc_line_a154b556-lineCount8"/>ſera ſans doubte vn nouueau Mauzolee en Re¬<lb corresp="#f31-eSc_textblock_7e4e6d69-eSc_line_14d1b9c2-lineCount9"/>nom; Car l'induſtrie en eſt ſi merueilleuſe, qu'on<lb corresp="#f31-eSc_textblock_7e4e6d69-eSc_line_1960232b-lineCount10"/>le doibt mettre au rang de Merueilles du mon¬<lb corresp="#f31-eSc_textblock_7e4e6d69-eSc_line_28bc490e-lineCount11"/>de.L'en ay leu exactement le liure,où je n'ay rien<lb corresp="#f31-eSc_textblock_7e4e6d69-eSc_line_b2f990a6-lineCount12"/>trouué qui ne ſoit conforme à la foy Catholi¬<lb corresp="#f31-eSc_textblock_7e4e6d69-eSc_line_8803086d-lineCount13"/>que,Apoſtolique &amp; Romaine. Ce qui m'oblige<lb corresp="#f31-eSc_textblock_7e4e6d69-eSc_line_b34dfd99-lineCount14"/>d'en authoriſer l'impreſſion , d'en louer l'au¬<lb corresp="#f31-eSc_textblock_7e4e6d69-eSc_line_a0cf3991-lineCount15"/>theur, &amp; d'inciter vn chacun à faire ſon profit<lb corresp="#f31-eSc_textblock_7e4e6d69-eSc_line_a9e8695c-lineCount16"/>d'vne ſi belle moiſſon de fruits de Pieté &amp; d'E¬<lb corresp="#f31-eSc_textblock_7e4e6d69-eSc_line_12762c61-lineCount17"/>loquence. Mon ſeing, ſeruira de caution à<lb corresp="#f31-eSc_textblock_7e4e6d69-eSc_line_174a3c8c-lineCount18"/>toutes ces Veritez. Fait à Anuers ce .16. Iuillet</ab>
+        <ab corresp="#f31-eSc_textblock_7e4e6d69-blockCount3" type="MainZone"><hi rend="HeadingLine"><lb corresp="#f31-eSc_textblock_7e4e6d69-eSc_line_e4c190b3-lineCount5"/>APPROBATION.</hi><lb corresp="#f31-eSc_textblock_7e4e6d69-eSc_line_27ba79b4-lineCount6"/>E Tombeau des Delices , de l'inuention du<lb corresp="#f31-eSc_textblock_7e4e6d69-eSc_line_59999d35-lineCount7"/>sieur de la serre , Hiſtoriographe de France,<lb corresp="#f31-eSc_textblock_7e4e6d69-eSc_line_a154b556-lineCount8"/>ſera ſans doubte vn nouueau Mauzolee en Re¬<lb corresp="#f31-eSc_textblock_7e4e6d69-eSc_line_14d1b9c2-lineCount9"/>nom; Car l'induſtrie en eſt ſi merueilleuſe, qu'on<lb corresp="#f31-eSc_textblock_7e4e6d69-eSc_line_1960232b-lineCount10"/>le doibt mettre au rang de Merueilles du mon¬<lb corresp="#f31-eSc_textblock_7e4e6d69-eSc_line_28bc490e-lineCount11"/>de.L'en ay leu exactement le liure,où je n'ay rien<lb corresp="#f31-eSc_textblock_7e4e6d69-eSc_line_b2f990a6-lineCount12"/>trouué qui ne ſoit conforme à la foy Catholi¬<lb corresp="#f31-eSc_textblock_7e4e6d69-eSc_line_8803086d-lineCount13"/>que,Apoſtolique &amp; Romaine. Ce qui m'oblige<lb corresp="#f31-eSc_textblock_7e4e6d69-eSc_line_b34dfd99-lineCount14"/>d'en authoriſer l'impreſſion , d'en louer l'au¬<lb corresp="#f31-eSc_textblock_7e4e6d69-eSc_line_a0cf3991-lineCount15"/>theur, &amp; d'inciter vn chacun à faire ſon profit<lb corresp="#f31-eSc_textblock_7e4e6d69-eSc_line_a9e8695c-lineCount16"/>d'vne ſi belle moiſſon de fruits de Pieté &amp; d'E¬<lb corresp="#f31-eSc_textblock_7e4e6d69-eSc_line_12762c61-lineCount17"/>loquence. Mon ſeing, ſeruira de caution à<lb corresp="#f31-eSc_textblock_7e4e6d69-eSc_line_174a3c8c-lineCount18"/>toutes ces Veritez. Fait à Anuers ce .16. Iuillet<lb corresp="#f31-eSc_textblock_7e4e6d69-eSc_line_f2a778ae-lineCount19"/>.1630.</ab>
         <pb corresp="#f32"/>
         <note corresp="#f32-eSc_textblock_65b7243b-blockCount3" type="MarginTextZone"><lb corresp="#f32-eSc_textblock_65b7243b-eSc_line_3460554b-lineCount3"/>Par le Roy en ſon Conſeil.<lb corresp="#f32-eSc_textblock_65b7243b-eSc_line_91f3462d-lineCount4"/>Prats.<lb corresp="#f32-eSc_textblock_65b7243b-eSc_line_a4e83a57-lineCount5"/>Et par le Conſeil de Bradant<lb corresp="#f32-eSc_textblock_65b7243b-eSc_line_d45161f5-lineCount6"/>Signé Cools.</note>
         <ab corresp="#f32-eSc_textblock_10e92a00-blockCount4" type="MainZone"><lb corresp="#f32-eSc_textblock_10e92a00-eSc_line_4d4816aa-lineCount7"/>Hilippe par la Grace de Dieu, Roy de Caſtille, de Lion,<lb corresp="#f32-eSc_textblock_10e92a00-eSc_line_2fc4b0ff-lineCount8"/>d'Aragon, &amp;. A permis &amp; octroyé à François<lb corresp="#f32-eSc_textblock_10e92a00-eSc_line_4e55d242-lineCount9"/>Viuien, marchant Libraie, &amp; Imprimeur juré de no¬<lb corresp="#f32-eSc_textblock_10e92a00-eSc_line_13ff59ae-lineCount10"/>ſtre ville de Bruſſelle, de pouvoir luy ſeul imprimer ou fai¬<lb corresp="#f32-eSc_textblock_10e92a00-eSc_line_d715a1a9-lineCount11"/>re imprimer , vendre, &amp; diſtribuer vn liure intitulé<lb corresp="#f32-eSc_textblock_10e92a00-eSc_line_1c772ddf-lineCount12"/>Le Tombeau des Delices du monde , par le<lb corresp="#f32-eSc_textblock_10e92a00-eSc_line_c2910c3b-lineCount13"/>Sr. DE LA SERRE,&amp; ce pour le terme de ſix<lb corresp="#f32-eSc_textblock_10e92a00-eSc_line_20777f24-lineCount14"/>ans, auec deſſences à tous aultres Imprimeurs &amp; Li¬<lb corresp="#f32-eSc_textblock_10e92a00-eSc_line_790d1f0a-lineCount15"/>braires, ou aultres de quelle qualité qu'ilz ſoyent , d'im¬<lb corresp="#f32-eSc_textblock_10e92a00-eSc_line_713a9b10-lineCount16"/>primer ou contrefaire ledict liure , où ailleurs imprimé<lb corresp="#f32-eSc_textblock_10e92a00-eSc_line_af9cb208-lineCount17"/>&amp; contrefaict apporter, vendre ou diſtribuer es pays<lb corresp="#f32-eSc_textblock_10e92a00-eSc_line_b799ef44-lineCount18"/>&amp; Signeuries de ſa Majeſté , durant ledict terme , à<lb corresp="#f32-eSc_textblock_10e92a00-eSc_line_6efb4712-lineCount19"/>peine de confiſcation des exemplaires &amp; aultres amendes,<lb corresp="#f32-eSc_textblock_10e92a00-eSc_line_914a2bab-lineCount20"/>contenus plus amplement es lettres patentes dudit Priuile¬<lb corresp="#f32-eSc_textblock_10e92a00-eSc_line_9d43f7a5-lineCount21"/>ge, donné à Bruſſelle le .20. de Iuillet .1630.</ab>

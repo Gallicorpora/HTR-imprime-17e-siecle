@@ -93,67 +93,67 @@
             <ptr target="https://github.com/segmonto"/>
           </bibl>
           <category xml:id="SegmOntoZones">
-            <catDesc xml:id="SealZone">
-              <title>SealZone</title>
-              <ptr target="https://segmonto.github.io/gd/gdZ/SealZone"/>
-            </catDesc>
-            <catDesc xml:id="RunningTitleZone">
-              <title>RunningTitleZone</title>
-              <ptr target="https://segmonto.github.io/gd/gdZ/RunningTitleZone"/>
-            </catDesc>
-            <catDesc xml:id="TitlePageZone">
-              <title>TitlePageZone</title>
-              <ptr target="https://segmonto.github.io/gd/gdZ/TitlePageZone"/>
-            </catDesc>
-            <catDesc xml:id="NumberingZone">
-              <title>NumberingZone</title>
-              <ptr target="https://segmonto.github.io/gd/gdZ/NumberingZone"/>
-            </catDesc>
-            <catDesc xml:id="DamageZone">
-              <title>DamageZone</title>
-              <ptr target="https://segmonto.github.io/gd/gdZ/DamageZone"/>
+            <catDesc xml:id="MusicZone">
+              <title>MusicZone</title>
+              <ptr target="https://segmonto.github.io/gd/gdZ/MusicZone"/>
             </catDesc>
             <catDesc xml:id="MainZone">
               <title>MainZone</title>
               <ptr target="https://segmonto.github.io/gd/gdZ/MainZone"/>
             </catDesc>
-            <catDesc xml:id="TableZone">
-              <title>TableZone</title>
-              <ptr target="https://segmonto.github.io/gd/gdZ/TableZone"/>
+            <catDesc xml:id="RunningTitleZone">
+              <title>RunningTitleZone</title>
+              <ptr target="https://segmonto.github.io/gd/gdZ/RunningTitleZone"/>
             </catDesc>
-            <catDesc xml:id="StampZone">
-              <title>StampZone</title>
-              <ptr target="https://segmonto.github.io/gd/gdZ/StampZone"/>
+            <catDesc xml:id="DamageZone">
+              <title>DamageZone</title>
+              <ptr target="https://segmonto.github.io/gd/gdZ/DamageZone"/>
             </catDesc>
-            <catDesc xml:id="MusicZone">
-              <title>MusicZone</title>
-              <ptr target="https://segmonto.github.io/gd/gdZ/MusicZone"/>
+            <catDesc xml:id="TitlePageZone">
+              <title>TitlePageZone</title>
+              <ptr target="https://segmonto.github.io/gd/gdZ/TitlePageZone"/>
             </catDesc>
             <catDesc xml:id="QuireMarksZone">
               <title>QuireMarksZone</title>
               <ptr target="https://segmonto.github.io/gd/gdZ/QuireMarksZone"/>
             </catDesc>
+            <catDesc xml:id="NumberingZone">
+              <title>NumberingZone</title>
+              <ptr target="https://segmonto.github.io/gd/gdZ/NumberingZone"/>
+            </catDesc>
+            <catDesc xml:id="TableZone">
+              <title>TableZone</title>
+              <ptr target="https://segmonto.github.io/gd/gdZ/TableZone"/>
+            </catDesc>
             <catDesc xml:id="DropCapitalZone">
               <title>DropCapitalZone</title>
               <ptr target="https://segmonto.github.io/gd/gdZ/DropCapitalZone"/>
             </catDesc>
+            <catDesc xml:id="StampZone">
+              <title>StampZone</title>
+              <ptr target="https://segmonto.github.io/gd/gdZ/StampZone"/>
+            </catDesc>
+            <catDesc xml:id="SealZone">
+              <title>SealZone</title>
+              <ptr target="https://segmonto.github.io/gd/gdZ/SealZone"/>
+            </catDesc>
           </category>
           <category xml:id="SegmOntoLines">
-            <catDesc xml:id="DropCapitalLine">
-              <title>DropCapitalLine</title>
-              <ptr target="https://segmonto.github.io/gd/gdL/DropCapitalLine"/>
-            </catDesc>
-            <catDesc xml:id="DefaultLine">
-              <title>DefaultLine</title>
-              <ptr target="https://segmonto.github.io/gd/gdL/DefaultLine"/>
-            </catDesc>
             <catDesc xml:id="InterlinearLine">
               <title>InterlinearLine</title>
               <ptr target="https://segmonto.github.io/gd/gdL/InterlinearLine"/>
             </catDesc>
+            <catDesc xml:id="DropCapitalLine">
+              <title>DropCapitalLine</title>
+              <ptr target="https://segmonto.github.io/gd/gdL/DropCapitalLine"/>
+            </catDesc>
             <catDesc xml:id="MusicLine">
               <title>MusicLine</title>
               <ptr target="https://segmonto.github.io/gd/gdL/MusicLine"/>
+            </catDesc>
+            <catDesc xml:id="DefaultLine">
+              <title>DefaultLine</title>
+              <ptr target="https://segmonto.github.io/gd/gdL/DefaultLine"/>
             </catDesc>
             <catDesc xml:id="HeadingLine">
               <title>HeadingLine</title>
@@ -1900,7 +1900,7 @@
           <path xml:id="f32-eSc_textblock_66c9e8e2-eSc_line_ba558803-lineCount2-baseline" points="548,924 1157,920"/>
           <line xml:id="f32-eSc_textblock_66c9e8e2-eSc_line_ba558803-lineCount2-text" n="2">VERITABLE,</line>
         </zone>
-        <zone xml:id="f32-eSc_textblock_66c9e8e2-eSc_line_2fdd858e-lineCount3" type="TextLine" ulx="786" uly="930" lrx="881" lry="1000" points="788,994 788,1000 881,998 881,992 875,930 786,940 788,994" source="https://gallica.bnf.fr/iiif/ark:/12148//bpt6k111525t/f32/786,930,95,70/full/0/native.jpg">
+        <zone xml:id="f32-eSc_textblock_66c9e8e2-eSc_line_2fdd858e-lineCount3" type="HeadingLine" corresp="#HeadingLine" subtype="none" n="none" ulx="786" uly="930" lrx="881" lry="1000" points="788,994 788,1000 881,998 881,992 875,930 786,940 788,994" source="https://gallica.bnf.fr/iiif/ark:/12148//bpt6k111525t/f32/786,930,95,70/full/0/native.jpg">
           <path xml:id="f32-eSc_textblock_66c9e8e2-eSc_line_2fdd858e-lineCount3-baseline" points="789,996 883,993"/>
           <line xml:id="f32-eSc_textblock_66c9e8e2-eSc_line_2fdd858e-lineCount3-text" n="3">OV</line>
         </zone>
@@ -2621,7 +2621,7 @@
         <fw corresp="#f29-eSc_textblock_980da913-blockCount2" type="RunningTitleZone"><lb corresp="#f29-eSc_textblock_980da913-eSc_line_984c8116-lineCount29"/>des Deſſeins.</fw>
         <pb corresp="#f31"/>
         <pb corresp="#f32"/>
-        <ab corresp="#f32-eSc_textblock_66c9e8e2-blockCount1" type="MainZone"><hi rend="HeadingLine"><lb corresp="#f32-eSc_textblock_66c9e8e2-eSc_line_96e36d60-lineCount1"/>L'HISTOIRE<lb corresp="#f32-eSc_textblock_66c9e8e2-eSc_line_ba558803-lineCount2"/>VERITABLE,<lb corresp="#f32-eSc_textblock_66c9e8e2-eSc_line_8ee3e5a0-lineCount4"/>LE VOYAGE DES PRINCES<lb corresp="#f32-eSc_textblock_66c9e8e2-eSc_line_f4a13ba1-lineCount5"/>FORTVNEZ.<lb corresp="#f32-eSc_textblock_66c9e8e2-eSc_line_6ba38fc6-lineCount6"/>ENTREPRISE PREMIERE:<lb corresp="#f32-eSc_textblock_66c9e8e2-eSc_line_d50dfd1a-lineCount7"/>FRONTISPICE.</hi><lb corresp="#f32-eSc_textblock_66c9e8e2-eSc_line_54ecaa41-lineCount8"/>Es Rois verronticy la gloire de leurs<lb corresp="#f32-eSc_textblock_66c9e8e2-eSc_line_8a2216ee-lineCount9"/>magnificences, les Grands qui ont<lb corresp="#f32-eSc_textblock_66c9e8e2-eSc_line_95f50fc5-lineCount10"/>fait eſtat de la Vertv, jugeront par<hi rend="DropCapitalLine"><lb corresp="#f32-eSc_textblock_66c9e8e2-eSc_line_377d351d-lineCount11"/>L</hi><lb corresp="#f32-eSc_textblock_66c9e8e2-eSc_line_98433c51-lineCount12"/>ces Diuerſirez des [[]]Ets heureux que<lb corresp="#f32-eSc_textblock_66c9e8e2-eSc_line_25cf584d-lineCount13"/>produiſent les actions genéreuses :  Et les Dames<lb corresp="#f32-eSc_textblock_66c9e8e2-eSc_line_fd31fedf-lineCount14"/>pudiques iettans l'oeil ſur ces trauerſes y remar¬<lb corresp="#f32-eSc_textblock_66c9e8e2-eSc_line_310edafd-lineCount15"/>queront les difeles profits qu'apportent les paſ¬<lb corresp="#f32-eSc_textblock_66c9e8e2-eSc_line_45d6c91d-lineCount16"/>ſions legitimes conduites par RAISON: Car tou¬<lb corresp="#f32-eSc_textblock_66c9e8e2-eSc_line_8ac2e799-lineCount17"/>tes ames d'honneur que la curioſité pouſſera vers<lb corresp="#f32-eSc_textblock_66c9e8e2-eSc_line_da21f817-lineCount18"/>ces recherches, diſcerneront en ces meſlanges les<lb corresp="#f32-eSc_textblock_66c9e8e2-eSc_line_95a2e7c8-lineCount19"/>effects accomplis qui reüſſiſſent abondamment<lb corresp="#f32-eSc_textblock_66c9e8e2-eSc_line_84410ecf-lineCount20"/>du DEVOIR. Mais ie demande pardon au Ciel.<lb corresp="#f32-eSc_textblock_66c9e8e2-eSc_line_89c39e32-lineCount21"/>à l'Amour, &amp; aux beaux eſprits , de ce que ie pre¬<lb corresp="#f32-eSc_textblock_66c9e8e2-eSc_line_fe53037f-lineCount22"/>ſente indiferemment à tout le monde les excel¬<lb corresp="#f32-eSc_textblock_66c9e8e2-eSc_line_9e156677-lineCount23"/>lens myſteres de perfecti [[]] ur ſouſſrir meſmes</ab>
+        <ab corresp="#f32-eSc_textblock_66c9e8e2-blockCount1" type="MainZone"><hi rend="HeadingLine"><lb corresp="#f32-eSc_textblock_66c9e8e2-eSc_line_96e36d60-lineCount1"/>L'HISTOIRE<lb corresp="#f32-eSc_textblock_66c9e8e2-eSc_line_ba558803-lineCount2"/>VERITABLE,<lb corresp="#f32-eSc_textblock_66c9e8e2-eSc_line_2fdd858e-lineCount3"/>OV<lb corresp="#f32-eSc_textblock_66c9e8e2-eSc_line_8ee3e5a0-lineCount4"/>LE VOYAGE DES PRINCES<lb corresp="#f32-eSc_textblock_66c9e8e2-eSc_line_f4a13ba1-lineCount5"/>FORTVNEZ.<lb corresp="#f32-eSc_textblock_66c9e8e2-eSc_line_6ba38fc6-lineCount6"/>ENTREPRISE PREMIERE:<lb corresp="#f32-eSc_textblock_66c9e8e2-eSc_line_d50dfd1a-lineCount7"/>FRONTISPICE.</hi><lb corresp="#f32-eSc_textblock_66c9e8e2-eSc_line_54ecaa41-lineCount8"/>Es Rois verronticy la gloire de leurs<lb corresp="#f32-eSc_textblock_66c9e8e2-eSc_line_8a2216ee-lineCount9"/>magnificences, les Grands qui ont<lb corresp="#f32-eSc_textblock_66c9e8e2-eSc_line_95f50fc5-lineCount10"/>fait eſtat de la Vertv, jugeront par<hi rend="DropCapitalLine"><lb corresp="#f32-eSc_textblock_66c9e8e2-eSc_line_377d351d-lineCount11"/>L</hi><lb corresp="#f32-eSc_textblock_66c9e8e2-eSc_line_98433c51-lineCount12"/>ces Diuerſirez des [[]]Ets heureux que<lb corresp="#f32-eSc_textblock_66c9e8e2-eSc_line_25cf584d-lineCount13"/>produiſent les actions genéreuses :  Et les Dames<lb corresp="#f32-eSc_textblock_66c9e8e2-eSc_line_fd31fedf-lineCount14"/>pudiques iettans l'oeil ſur ces trauerſes y remar¬<lb corresp="#f32-eSc_textblock_66c9e8e2-eSc_line_310edafd-lineCount15"/>queront les difeles profits qu'apportent les paſ¬<lb corresp="#f32-eSc_textblock_66c9e8e2-eSc_line_45d6c91d-lineCount16"/>ſions legitimes conduites par RAISON: Car tou¬<lb corresp="#f32-eSc_textblock_66c9e8e2-eSc_line_8ac2e799-lineCount17"/>tes ames d'honneur que la curioſité pouſſera vers<lb corresp="#f32-eSc_textblock_66c9e8e2-eSc_line_da21f817-lineCount18"/>ces recherches, diſcerneront en ces meſlanges les<lb corresp="#f32-eSc_textblock_66c9e8e2-eSc_line_95a2e7c8-lineCount19"/>effects accomplis qui reüſſiſſent abondamment<lb corresp="#f32-eSc_textblock_66c9e8e2-eSc_line_84410ecf-lineCount20"/>du DEVOIR. Mais ie demande pardon au Ciel.<lb corresp="#f32-eSc_textblock_66c9e8e2-eSc_line_89c39e32-lineCount21"/>à l'Amour, &amp; aux beaux eſprits , de ce que ie pre¬<lb corresp="#f32-eSc_textblock_66c9e8e2-eSc_line_fe53037f-lineCount22"/>ſente indiferemment à tout le monde les excel¬<lb corresp="#f32-eSc_textblock_66c9e8e2-eSc_line_9e156677-lineCount23"/>lens myſteres de perfecti [[]] ur ſouſſrir meſmes</ab>
         <fw corresp="#f32-eSc_textblock_498d3064-blockCount2" type="QuireMarksZone"><lb corresp="#f32-eSc_textblock_498d3064-eSc_line_f29654c1-lineCount24"/>A</fw>
         <pb corresp="#f34"/>
         <ab corresp="#f34-eSc_textblock_17760490-blockCount1" type="MainZone"><lb corresp="#f34-eSc_textblock_17760490-eSc_line_2783bc40-lineCount1"/>fait penſer. En ceſte liberté vous ayant pour gui¬<lb corresp="#f34-eSc_textblock_17760490-eSc_line_4743db55-lineCount2"/>de aſtre de mon bon-heur, vous ſeul dont l'vni¬<lb corresp="#f34-eSc_textblock_17760490-eSc_line_8f7ec060-lineCount3"/>que faueur m'eſleue à produire ces grands deſ¬<lb corresp="#f34-eSc_textblock_17760490-eSc_line_1a40a22e-lineCount4"/>ſeins, ie ne fay plus de difficulté d'eſtaler les pre¬<lb corresp="#f34-eSc_textblock_17760490-eSc_line_c00ba192-lineCount5"/>cieux ſecrets de Sapience :  Ie me licentie donc, &amp;<lb corresp="#f34-eSc_textblock_17760490-eSc_line_a934de52-lineCount6"/>prenant carriere pour eſtre conduit aux vrais ſen¬<lb corresp="#f34-eSc_textblock_17760490-eSc_line_1f351e03-lineCount7"/>tiers d'Amour, ie m'adreſſe auſſi à vous BELLE<lb corresp="#f34-eSc_textblock_17760490-eSc_line_c88ac93b-lineCount8"/>que ie reuere ſous pluſieurs de ces noms, eſquels<lb corresp="#f34-eSc_textblock_17760490-eSc_line_845ea70e-lineCount9"/>la vertu reluit; à vous lumiere de mon cœur de la¬<lb corresp="#f34-eSc_textblock_17760490-eSc_line_99fb4146-lineCount10"/>quelle ie chante l'honneur ſous ces feintes verita¬<lb corresp="#f34-eSc_textblock_17760490-eSc_line_6794d6e2-lineCount11"/>bles où ie meſle mes deſirs, mes ſeruices, mes paſ¬<lb corresp="#f34-eSc_textblock_17760490-eSc_line_39282469-lineCount12"/>ſions, &amp; les galantiſes de ma dexterité : Prenez y<lb corresp="#f34-eSc_textblock_17760490-eSc_line_fe26e39a-lineCount13"/>plaiſir, afin que ie trauerſe heureuſement toutes<lb corresp="#f34-eSc_textblock_17760490-eSc_line_a5ecb129-lineCount14"/>diſpoſitions contraires à mes belles entrepriſes:<lb corresp="#f34-eSc_textblock_17760490-eSc_line_67d0a564-lineCount15"/>Et vous tous qui participerez à ces delices, reſ¬<lb corresp="#f34-eSc_textblock_17760490-eSc_line_a2e0b28c-lineCount16"/>iouyſſez-vous d'icelles &amp; les gouſtez; Ne penſez¬<lb corresp="#f34-eSc_textblock_17760490-eSc_line_dc750236-lineCount17"/>pas que ces Rois ſoient cauſes de ces effects:<lb corresp="#f34-eSc_textblock_17760490-eSc_line_feecf8ee-lineCount18"/>Amour qui triomphe de tout , les a reduits ſous<lb corresp="#f34-eSc_textblock_17760490-eSc_line_7ceeeedd-lineCount19"/>ſon obeiſſance pour les faire trophees de me arti¬<lb corresp="#f34-eSc_textblock_17760490-eSc_line_867c066e-lineCount20"/>fices: Ce n'eſt pas auſſi pour leure ſeruice que ie<lb corresp="#f34-eSc_textblock_17760490-eSc_line_fa1541b7-lineCount21"/>m'occupe, ie les fav ſeruir aux intentions qui eſ¬<lb corresp="#f34-eSc_textblock_17760490-eSc_line_3f48caa3-lineCount22"/>lancent ma valeur. Ceux qui ſont maiſtres de leurs<lb corresp="#f34-eSc_textblock_17760490-eSc_line_2e65dc75-lineCount23"/>penſees ſont Rois en leurs courages; ce qu'ils ho¬<lb corresp="#f34-eSc_textblock_17760490-eSc_line_d0ca6643-lineCount24"/>norent, eſt la loy &amp; le loyer qui les contraint à<lb corresp="#f34-eSc_textblock_17760490-eSc_line_ee6d5c39-lineCount25"/>mettre au iour ce qu'ils meditent. Ces eſcriuains<lb corresp="#f34-eSc_textblock_17760490-eSc_line_0a1d2b21-lineCount26"/>qui ſe donnent de l'affiction au receuil des Hi¬<lb corresp="#f34-eSc_textblock_17760490-eSc_line_ecb713fe-lineCount27"/>ſtoires dont poſſible ils ne ſçauent rien, pource<lb corresp="#f34-eSc_textblock_17760490-eSc_line_5d410e65-lineCount28"/>que tout ce qui ſort des humains, eſt ſouuent ſu¬<lb corresp="#f34-eSc_textblock_17760490-eSc_line_e2092323-lineCount29"/>iet à ne conuenir à la verité, Ces pauurets qui mer¬<lb corresp="#f34-eSc_textblock_17760490-eSc_line_1f5a7460-lineCount30"/>cenaires ſe moleſtent l'ame à eſrire les actes des<lb corresp="#f34-eSc_textblock_17760490-eSc_line_a308761f-lineCount31"/>Grands,ſont ſeulement proclameurs de la glore<lb corresp="#f34-eSc_textblock_17760490-eSc_line_f852ec2c-lineCount32"/>des autres, qui ont l'honneur entier des actions<lb corresp="#f34-eSc_textblock_17760490-eSc_line_687ac0da-lineCount33"/>vertueuſ.s. Ie ne ſeray point de la ſorte, car ſans</ab>

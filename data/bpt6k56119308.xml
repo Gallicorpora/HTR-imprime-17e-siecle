@@ -93,67 +93,67 @@
             <ptr target="https://github.com/segmonto"/>
           </bibl>
           <category xml:id="SegmOntoZones">
-            <catDesc xml:id="SealZone">
-              <title>SealZone</title>
-              <ptr target="https://segmonto.github.io/gd/gdZ/SealZone"/>
-            </catDesc>
-            <catDesc xml:id="RunningTitleZone">
-              <title>RunningTitleZone</title>
-              <ptr target="https://segmonto.github.io/gd/gdZ/RunningTitleZone"/>
-            </catDesc>
-            <catDesc xml:id="TitlePageZone">
-              <title>TitlePageZone</title>
-              <ptr target="https://segmonto.github.io/gd/gdZ/TitlePageZone"/>
-            </catDesc>
-            <catDesc xml:id="NumberingZone">
-              <title>NumberingZone</title>
-              <ptr target="https://segmonto.github.io/gd/gdZ/NumberingZone"/>
-            </catDesc>
-            <catDesc xml:id="DamageZone">
-              <title>DamageZone</title>
-              <ptr target="https://segmonto.github.io/gd/gdZ/DamageZone"/>
+            <catDesc xml:id="MusicZone">
+              <title>MusicZone</title>
+              <ptr target="https://segmonto.github.io/gd/gdZ/MusicZone"/>
             </catDesc>
             <catDesc xml:id="MainZone">
               <title>MainZone</title>
               <ptr target="https://segmonto.github.io/gd/gdZ/MainZone"/>
             </catDesc>
-            <catDesc xml:id="TableZone">
-              <title>TableZone</title>
-              <ptr target="https://segmonto.github.io/gd/gdZ/TableZone"/>
+            <catDesc xml:id="RunningTitleZone">
+              <title>RunningTitleZone</title>
+              <ptr target="https://segmonto.github.io/gd/gdZ/RunningTitleZone"/>
             </catDesc>
-            <catDesc xml:id="StampZone">
-              <title>StampZone</title>
-              <ptr target="https://segmonto.github.io/gd/gdZ/StampZone"/>
+            <catDesc xml:id="DamageZone">
+              <title>DamageZone</title>
+              <ptr target="https://segmonto.github.io/gd/gdZ/DamageZone"/>
             </catDesc>
-            <catDesc xml:id="MusicZone">
-              <title>MusicZone</title>
-              <ptr target="https://segmonto.github.io/gd/gdZ/MusicZone"/>
+            <catDesc xml:id="TitlePageZone">
+              <title>TitlePageZone</title>
+              <ptr target="https://segmonto.github.io/gd/gdZ/TitlePageZone"/>
             </catDesc>
             <catDesc xml:id="QuireMarksZone">
               <title>QuireMarksZone</title>
               <ptr target="https://segmonto.github.io/gd/gdZ/QuireMarksZone"/>
             </catDesc>
+            <catDesc xml:id="NumberingZone">
+              <title>NumberingZone</title>
+              <ptr target="https://segmonto.github.io/gd/gdZ/NumberingZone"/>
+            </catDesc>
+            <catDesc xml:id="TableZone">
+              <title>TableZone</title>
+              <ptr target="https://segmonto.github.io/gd/gdZ/TableZone"/>
+            </catDesc>
             <catDesc xml:id="DropCapitalZone">
               <title>DropCapitalZone</title>
               <ptr target="https://segmonto.github.io/gd/gdZ/DropCapitalZone"/>
             </catDesc>
+            <catDesc xml:id="StampZone">
+              <title>StampZone</title>
+              <ptr target="https://segmonto.github.io/gd/gdZ/StampZone"/>
+            </catDesc>
+            <catDesc xml:id="SealZone">
+              <title>SealZone</title>
+              <ptr target="https://segmonto.github.io/gd/gdZ/SealZone"/>
+            </catDesc>
           </category>
           <category xml:id="SegmOntoLines">
-            <catDesc xml:id="DropCapitalLine">
-              <title>DropCapitalLine</title>
-              <ptr target="https://segmonto.github.io/gd/gdL/DropCapitalLine"/>
-            </catDesc>
-            <catDesc xml:id="DefaultLine">
-              <title>DefaultLine</title>
-              <ptr target="https://segmonto.github.io/gd/gdL/DefaultLine"/>
-            </catDesc>
             <catDesc xml:id="InterlinearLine">
               <title>InterlinearLine</title>
               <ptr target="https://segmonto.github.io/gd/gdL/InterlinearLine"/>
             </catDesc>
+            <catDesc xml:id="DropCapitalLine">
+              <title>DropCapitalLine</title>
+              <ptr target="https://segmonto.github.io/gd/gdL/DropCapitalLine"/>
+            </catDesc>
             <catDesc xml:id="MusicLine">
               <title>MusicLine</title>
               <ptr target="https://segmonto.github.io/gd/gdL/MusicLine"/>
+            </catDesc>
+            <catDesc xml:id="DefaultLine">
+              <title>DefaultLine</title>
+              <ptr target="https://segmonto.github.io/gd/gdL/DefaultLine"/>
             </catDesc>
             <catDesc xml:id="HeadingLine">
               <title>HeadingLine</title>
@@ -1313,23 +1313,22 @@
         </zone>
       </zone>
       <zone xml:id="f8-eSc_textblock_111cb9a6-blockCount2" type="StampZone" corresp="#StampZone" subtype="none" n="none" ulx="1363" uly="1680" lrx="1717" lry="2039" points="1363,1680 1363,2039 1717,2039 1717,1684" source="https://gallica.bnf.fr/iiif/ark:/12148//bpt6k56119308/f8/1363,1680,354,359/full/0/native.jpg"/>
-      <zone xml:id="f8-eSc_textblock_3762a25f-blockCount3" type="NumberingZone" corresp="#NumberingZone" subtype="none" n="none" ulx="840" uly="124" lrx="892" lry="183" points="840,124 840,183 892,181 892,133" source="https://gallica.bnf.fr/iiif/ark:/12148//bpt6k56119308/f8/840,124,52,59/full/0/native.jpg"/>
-      <zone xml:id="f8-eSc_dummyblock_-blockCount4" type="TextBlock" points="1056,1828 922,1823 915,1823 892,1823 869,1823 846,1823 823,1823 801,1823 778,1823 771,1823 764,1830 755,1823 732,1823 716,1823 687,1835 687,1837 673,1837 629,1837 613,1823 595,1823 572,1876 572,1880 572,1887 1056,1894 1059,1880 1059,1833 1056,1828">
-        <zone xml:id="f8-eSc_dummyblock_-eSc_line_bb731534-lineCount17" type="DefaultLine" corresp="#DefaultLine" subtype="none" n="none" ulx="572" uly="1823" lrx="1059" lry="1894" points="1056,1828 922,1823 915,1823 892,1823 869,1823 846,1823 823,1823 801,1823 778,1823 771,1823 764,1830 755,1823 732,1823 716,1823 687,1835 687,1837 673,1837 629,1837 613,1823 595,1823 572,1876 572,1880 572,1887 1056,1894 1059,1880 1059,1833 1056,1828" source="https://gallica.bnf.fr/iiif/ark:/12148//bpt6k56119308/f8/572,1823,487,71/full/0/native.jpg">
-          <path xml:id="f8-eSc_dummyblock_-eSc_line_bb731534-lineCount17-baseline" points="572,1880 1059,1880"/>
-          <line xml:id="f8-eSc_dummyblock_-eSc_line_bb731534-lineCount17-text" n="17">A ALENC,ON,</line>
+      <zone xml:id="f8-eSc_textblock_3762a25f-blockCount3" type="NumberingZone" corresp="#NumberingZone" subtype="none" n="none" ulx="840" uly="124" lrx="892" lry="183" points="840,124 840,183 892,181 892,133" source="https://gallica.bnf.fr/iiif/ark:/12148//bpt6k56119308/f8/840,124,52,59/full/0/native.jpg">
+        <zone xml:id="f8-eSc_textblock_3762a25f-eSc_line_bb731534-lineCount17" type="DefaultLine" corresp="#DefaultLine" subtype="none" n="none" ulx="572" uly="1823" lrx="1059" lry="1894" points="1056,1828 922,1823 915,1823 892,1823 869,1823 846,1823 823,1823 801,1823 778,1823 771,1823 764,1830 755,1823 732,1823 716,1823 687,1835 687,1837 673,1837 629,1837 613,1823 595,1823 572,1876 572,1880 572,1887 1056,1894 1059,1880 1059,1833 1056,1828" source="https://gallica.bnf.fr/iiif/ark:/12148//bpt6k56119308/f8/572,1823,487,71/full/0/native.jpg">
+          <path xml:id="f8-eSc_textblock_3762a25f-eSc_line_bb731534-lineCount17-baseline" points="572,1880 1059,1880"/>
+          <line xml:id="f8-eSc_textblock_3762a25f-eSc_line_bb731534-lineCount17-text" n="17">A ALENC,ON,</line>
         </zone>
-        <zone xml:id="f8-eSc_dummyblock_-eSc_line_157b0851-lineCount18" type="DefaultLine" corresp="#DefaultLine" subtype="none" n="none" ulx="200" uly="1908" lrx="1465" lry="1997" points="435,1908 433,1908 431,1908 429,1908 426,1908 413,1922 397,1910 394,1910 392,1910 390,1910 269,1922 244,1912 225,1912 223,1912 203,1963 203,1969 200,1976 399,1990 401,1990 632,1985 794,1981 808,1988 817,1992 819,1992 821,1992 897,1988 1038,1981 1045,1990 1047,1990 1047,1992 1049,1992 1052,1992 1054,1992 1068,1992 1132,1983 1164,1992 1177,1997 1180,1997 1182,1997 1184,1997 1191,1994 1205,1985 1221,1994 1223,1994 1225,1994 1227,1994 1241,1994 1360,1983 1460,1997 1465,1976 1463,1924 1328,1912 1326,1912 1323,1912 1321,1912 1310,1924 1307,1926 1301,1924 1275,1912 1273,1912 1271,1912 1269,1912 1266,1912 1266,1915 1257,1924 1255,1926 1248,1924 1227,1915 1225,1915 1223,1915 1221,1915 1193,1924 1180,1926 1134,1924 979,1910 976,1910 899,1924 892,1924 874,1910 871,1910 869,1910 867,1910 865,1910 862,1910 862,1912 851,1924 849,1924 821,1912 819,1912 817,1912 814,1912 812,1912 796,1924 794,1926 650,1926 650,1924 639,1915 639,1912 636,1912 634,1912 474,1910 472,1910 470,1910 449,1922 438,1910 438,1908 435,1908" source="https://gallica.bnf.fr/iiif/ark:/12148//bpt6k56119308/f8/200,1908,1265,89/full/0/native.jpg">
-          <path xml:id="f8-eSc_dummyblock_-eSc_line_157b0851-lineCount18-baseline" points="203,1969 1465,1976"/>
-          <line xml:id="f8-eSc_dummyblock_-eSc_line_157b0851-lineCount18-text" n="18">Chez MARTIN DE LA MOTTE, &amp; la Veuve</line>
+        <zone xml:id="f8-eSc_textblock_3762a25f-eSc_line_157b0851-lineCount18" type="DefaultLine" corresp="#DefaultLine" subtype="none" n="none" ulx="200" uly="1908" lrx="1465" lry="1997" points="435,1908 433,1908 431,1908 429,1908 426,1908 413,1922 397,1910 394,1910 392,1910 390,1910 269,1922 244,1912 225,1912 223,1912 203,1963 203,1969 200,1976 399,1990 401,1990 632,1985 794,1981 808,1988 817,1992 819,1992 821,1992 897,1988 1038,1981 1045,1990 1047,1990 1047,1992 1049,1992 1052,1992 1054,1992 1068,1992 1132,1983 1164,1992 1177,1997 1180,1997 1182,1997 1184,1997 1191,1994 1205,1985 1221,1994 1223,1994 1225,1994 1227,1994 1241,1994 1360,1983 1460,1997 1465,1976 1463,1924 1328,1912 1326,1912 1323,1912 1321,1912 1310,1924 1307,1926 1301,1924 1275,1912 1273,1912 1271,1912 1269,1912 1266,1912 1266,1915 1257,1924 1255,1926 1248,1924 1227,1915 1225,1915 1223,1915 1221,1915 1193,1924 1180,1926 1134,1924 979,1910 976,1910 899,1924 892,1924 874,1910 871,1910 869,1910 867,1910 865,1910 862,1910 862,1912 851,1924 849,1924 821,1912 819,1912 817,1912 814,1912 812,1912 796,1924 794,1926 650,1926 650,1924 639,1915 639,1912 636,1912 634,1912 474,1910 472,1910 470,1910 449,1922 438,1910 438,1908 435,1908" source="https://gallica.bnf.fr/iiif/ark:/12148//bpt6k56119308/f8/200,1908,1265,89/full/0/native.jpg">
+          <path xml:id="f8-eSc_textblock_3762a25f-eSc_line_157b0851-lineCount18-baseline" points="203,1969 1465,1976"/>
+          <line xml:id="f8-eSc_textblock_3762a25f-eSc_line_157b0851-lineCount18-text" n="18">Chez MARTIN DE LA MOTTE, &amp; la Veuve</line>
         </zone>
-        <zone xml:id="f8-eSc_dummyblock_-eSc_line_a424972f-lineCount19" type="DefaultLine" corresp="#DefaultLine" subtype="none" n="none" ulx="280" uly="1976" lrx="1380" lry="2054" points="1282,1976 956,1983 760,1988 655,1981 600,1976 598,1976 595,1976 593,1976 593,1979 591,1979 582,1990 369,1990 280,1976 280,2029 280,2040 1378,2054 1380,2029 1380,1990 1285,1976 1282,1976" source="https://gallica.bnf.fr/iiif/ark:/12148//bpt6k56119308/f8/280,1976,1100,78/full/0/native.jpg">
-          <path xml:id="f8-eSc_dummyblock_-eSc_line_a424972f-lineCount19-baseline" points="280,2029 1380,2029"/>
-          <line xml:id="f8-eSc_dummyblock_-eSc_line_a424972f-lineCount19-text" n="19">MALASSIS: Imprimeurs du Roy &amp; du College.</line>
+        <zone xml:id="f8-eSc_textblock_3762a25f-eSc_line_a424972f-lineCount19" type="DefaultLine" corresp="#DefaultLine" subtype="none" n="none" ulx="280" uly="1976" lrx="1380" lry="2054" points="1282,1976 956,1983 760,1988 655,1981 600,1976 598,1976 595,1976 593,1976 593,1979 591,1979 582,1990 369,1990 280,1976 280,2029 280,2040 1378,2054 1380,2029 1380,1990 1285,1976 1282,1976" source="https://gallica.bnf.fr/iiif/ark:/12148//bpt6k56119308/f8/280,1976,1100,78/full/0/native.jpg">
+          <path xml:id="f8-eSc_textblock_3762a25f-eSc_line_a424972f-lineCount19-baseline" points="280,2029 1380,2029"/>
+          <line xml:id="f8-eSc_textblock_3762a25f-eSc_line_a424972f-lineCount19-text" n="19">MALASSIS: Imprimeurs du Roy &amp; du College.</line>
         </zone>
-        <zone xml:id="f8-eSc_dummyblock_-eSc_line_eea8791d-lineCount20" type="DefaultLine" corresp="#DefaultLine" subtype="none" n="none" ulx="572" uly="2111" lrx="1102" lry="2204" points="1100,2127 1077,2118 1054,2113 1031,2113 1008,2113 986,2111 963,2111 940,2111 833,2111 830,2111 828,2111 826,2111 826,2113 812,2124 741,2113 739,2113 639,2124 613,2113 611,2113 609,2113 607,2113 593,2118 575,2163 575,2172 572,2188 657,2200 659,2200 693,2193 725,2186 764,2195 789,2200 792,2200 794,2200 796,2200 796,2197 801,2195 810,2186 1013,2186 1027,2200 1027,2202 1029,2202 1031,2202 1033,2204 1100,2204 1102,2177 1102,2127 1100,2127 1100,2127" source="https://gallica.bnf.fr/iiif/ark:/12148//bpt6k56119308/f8/572,2111,530,93/full/0/native.jpg">
-          <path xml:id="f8-eSc_dummyblock_-eSc_line_eea8791d-lineCount20-baseline" points="575,2172 1102,2177"/>
-          <line xml:id="f8-eSc_dummyblock_-eSc_line_eea8791d-lineCount20-text" n="20">M. DC. LXXVII.</line>
+        <zone xml:id="f8-eSc_textblock_3762a25f-eSc_line_eea8791d-lineCount20" type="DefaultLine" corresp="#DefaultLine" subtype="none" n="none" ulx="572" uly="2111" lrx="1102" lry="2204" points="1100,2127 1077,2118 1054,2113 1031,2113 1008,2113 986,2111 963,2111 940,2111 833,2111 830,2111 828,2111 826,2111 826,2113 812,2124 741,2113 739,2113 639,2124 613,2113 611,2113 609,2113 607,2113 593,2118 575,2163 575,2172 572,2188 657,2200 659,2200 693,2193 725,2186 764,2195 789,2200 792,2200 794,2200 796,2200 796,2197 801,2195 810,2186 1013,2186 1027,2200 1027,2202 1029,2202 1031,2202 1033,2204 1100,2204 1102,2177 1102,2127 1100,2127 1100,2127" source="https://gallica.bnf.fr/iiif/ark:/12148//bpt6k56119308/f8/572,2111,530,93/full/0/native.jpg">
+          <path xml:id="f8-eSc_textblock_3762a25f-eSc_line_eea8791d-lineCount20-baseline" points="575,2172 1102,2177"/>
+          <line xml:id="f8-eSc_textblock_3762a25f-eSc_line_eea8791d-lineCount20-text" n="20">M. DC. LXXVII.</line>
         </zone>
       </zone>
     </surface>
@@ -1365,6 +1364,10 @@
         <note corresp="#f7-eSc_textblock_58b22ec9-blockCount3" type="MarginTextZone"><lb corresp="#f7-eSc_textblock_58b22ec9-eSc_line_e0e097ce-lineCount40"/>Le Grand<lb corresp="#f7-eSc_textblock_58b22ec9-eSc_line_f8f235c6-lineCount41"/>Duc de<lb corresp="#f7-eSc_textblock_58b22ec9-eSc_line_cc5df348-lineCount42"/>Moſcovie.</note>
         <pb corresp="#f8"/>
         <ab corresp="#f8-eSc_textblock_304c2bcf-blockCount1" type="MainZone"><lb corresp="#f8-eSc_textblock_304c2bcf-eSc_line_cb0c5a9a-lineCount1"/>7<lb corresp="#f8-eSc_textblock_304c2bcf-eSc_line_fba6f0dd-lineCount2"/>Ou l'œüil peut voir toûjours briller également<lb corresp="#f8-eSc_textblock_304c2bcf-eSc_line_f8cff079-lineCount3"/>l'Eloquence, I’Efprit, l’Art &amp; le Jugement.<lb corresp="#f8-eSc_textblock_304c2bcf-eSc_line_7ac56346-lineCount4"/>Continüez GRARD-HOMME à faire des merveilles<lb corresp="#f8-eSc_textblock_304c2bcf-eSc_line_bbd100c6-lineCount5"/>En nous donnant des fruits de vos fécondes veilles,<lb corresp="#f8-eSc_textblock_304c2bcf-eSc_line_071a6760-lineCount6"/>Le ſuc en nourira les Eſprits curieux<lb corresp="#f8-eSc_textblock_304c2bcf-eSc_line_940966c8-lineCount7"/>Et la charmante odeur en ira juſqu’aux Cieux.<lb corresp="#f8-eSc_textblock_304c2bcf-eSc_line_29ae186e-lineCount8"/>L’Eternel qui conduit les ſages déſtinées<lb corresp="#f8-eSc_textblock_304c2bcf-eSc_line_fd7f73e9-lineCount9"/>Fera long-temps fleurir de ſi nobles années,<lb corresp="#f8-eSc_textblock_304c2bcf-eSc_line_167cdb17-lineCount10"/>Et comme il prend plaiſir à voir de ſi beaux jours<lb corresp="#f8-eSc_textblock_304c2bcf-eSc_line_563b4e68-lineCount11"/>Il a de l'intereſt d'en prolonger le cours.<lb corresp="#f8-eSc_textblock_304c2bcf-eSc_line_1a00a8c6-lineCount12"/>C'eſt luy qui vous infpire, &amp; ce feu qu'il allume<lb corresp="#f8-eSc_textblock_304c2bcf-eSc_line_a629d217-lineCount13"/>Produit dans vôtre cœur l’Encens qui le parfume.<lb corresp="#f8-eSc_textblock_304c2bcf-eSc_line_d0988349-lineCount14"/>Des preſens qu'il vous fait il vous ſçait ſi bon gré<lb corresp="#f8-eSc_textblock_304c2bcf-eSc_line_33518828-lineCount15"/>Qu’en les luy refaiſant il s’en trouve honoré.<lb corresp="#f8-eSc_textblock_304c2bcf-eSc_line_caac695e-lineCount16"/>DU PERRON LE HAYER.</ab>
+        <fw corresp="#f8-eSc_textblock_3762a25f-blockCount3" type="NumberingZone"><lb corresp="#f8-eSc_textblock_3762a25f-eSc_line_bb731534-lineCount17"/>A ALENC,ON,</fw>
+        <fw corresp="#f8-eSc_textblock_3762a25f-blockCount3" type="NumberingZone"><lb corresp="#f8-eSc_textblock_3762a25f-eSc_line_157b0851-lineCount18"/>Chez MARTIN DE LA MOTTE, &amp; la Veuve</fw>
+        <fw corresp="#f8-eSc_textblock_3762a25f-blockCount3" type="NumberingZone"><lb corresp="#f8-eSc_textblock_3762a25f-eSc_line_a424972f-lineCount19"/>MALASSIS: Imprimeurs du Roy &amp; du College.</fw>
+        <fw corresp="#f8-eSc_textblock_3762a25f-blockCount3" type="NumberingZone"><lb corresp="#f8-eSc_textblock_3762a25f-eSc_line_eea8791d-lineCount20"/>M. DC. LXXVII.</fw>
       </div>
     </body>
   </text>
