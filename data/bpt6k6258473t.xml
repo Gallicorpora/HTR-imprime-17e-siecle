@@ -40,7 +40,7 @@
         <availability status="restricted" n="cc-by">
           <licence target="https://creativecommons.org/licenses/by/4.0/"/>
         </availability>
-        <date when="2022-10-14"/>
+        <date when="2022-11-16"/>
       </publicationStmt>
       <sourceDesc>
         <bibl>
@@ -99,33 +99,13 @@
               <title>NumberingZone</title>
               <ptr target="https://segmonto.github.io/gd/gdZ/NumberingZone"/>
             </catDesc>
-            <catDesc xml:id="MainZone">
-              <title>MainZone</title>
-              <ptr target="https://segmonto.github.io/gd/gdZ/MainZone"/>
-            </catDesc>
-            <catDesc xml:id="RunningTitleZone">
-              <title>RunningTitleZone</title>
-              <ptr target="https://segmonto.github.io/gd/gdZ/RunningTitleZone"/>
-            </catDesc>
-            <catDesc xml:id="QuireMarksZone">
-              <title>QuireMarksZone</title>
-              <ptr target="https://segmonto.github.io/gd/gdZ/QuireMarksZone"/>
-            </catDesc>
-            <catDesc xml:id="TableZone">
-              <title>TableZone</title>
-              <ptr target="https://segmonto.github.io/gd/gdZ/TableZone"/>
-            </catDesc>
-            <catDesc xml:id="TitlePageZone">
-              <title>TitlePageZone</title>
-              <ptr target="https://segmonto.github.io/gd/gdZ/TitlePageZone"/>
-            </catDesc>
-            <catDesc xml:id="DamageZone">
-              <title>DamageZone</title>
-              <ptr target="https://segmonto.github.io/gd/gdZ/DamageZone"/>
-            </catDesc>
             <catDesc xml:id="MusicZone">
               <title>MusicZone</title>
               <ptr target="https://segmonto.github.io/gd/gdZ/MusicZone"/>
+            </catDesc>
+            <catDesc xml:id="MainZone">
+              <title>MainZone</title>
+              <ptr target="https://segmonto.github.io/gd/gdZ/MainZone"/>
             </catDesc>
             <catDesc xml:id="SealZone">
               <title>SealZone</title>
@@ -135,23 +115,39 @@
               <title>DropCapitalZone</title>
               <ptr target="https://segmonto.github.io/gd/gdZ/DropCapitalZone"/>
             </catDesc>
+            <catDesc xml:id="DamageZone">
+              <title>DamageZone</title>
+              <ptr target="https://segmonto.github.io/gd/gdZ/DamageZone"/>
+            </catDesc>
             <catDesc xml:id="StampZone">
               <title>StampZone</title>
               <ptr target="https://segmonto.github.io/gd/gdZ/StampZone"/>
             </catDesc>
+            <catDesc xml:id="QuireMarksZone">
+              <title>QuireMarksZone</title>
+              <ptr target="https://segmonto.github.io/gd/gdZ/QuireMarksZone"/>
+            </catDesc>
+            <catDesc xml:id="TableZone">
+              <title>TableZone</title>
+              <ptr target="https://segmonto.github.io/gd/gdZ/TableZone"/>
+            </catDesc>
+            <catDesc xml:id="RunningTitleZone">
+              <title>RunningTitleZone</title>
+              <ptr target="https://segmonto.github.io/gd/gdZ/RunningTitleZone"/>
+            </catDesc>
+            <catDesc xml:id="TitlePageZone">
+              <title>TitlePageZone</title>
+              <ptr target="https://segmonto.github.io/gd/gdZ/TitlePageZone"/>
+            </catDesc>
           </category>
           <category xml:id="SegmOntoLines">
-            <catDesc xml:id="InterlinearLine">
-              <title>InterlinearLine</title>
-              <ptr target="https://segmonto.github.io/gd/gdL/InterlinearLine"/>
+            <catDesc xml:id="HeadingLine">
+              <title>HeadingLine</title>
+              <ptr target="https://segmonto.github.io/gd/gdL/HeadingLine"/>
             </catDesc>
             <catDesc xml:id="MusicLine">
               <title>MusicLine</title>
               <ptr target="https://segmonto.github.io/gd/gdL/MusicLine"/>
-            </catDesc>
-            <catDesc xml:id="HeadingLine">
-              <title>HeadingLine</title>
-              <ptr target="https://segmonto.github.io/gd/gdL/HeadingLine"/>
             </catDesc>
             <catDesc xml:id="DefaultLine">
               <title>DefaultLine</title>
@@ -160,6 +156,10 @@
             <catDesc xml:id="DropCapitalLine">
               <title>DropCapitalLine</title>
               <ptr target="https://segmonto.github.io/gd/gdL/DropCapitalLine"/>
+            </catDesc>
+            <catDesc xml:id="InterlinearLine">
+              <title>InterlinearLine</title>
+              <ptr target="https://segmonto.github.io/gd/gdL/InterlinearLine"/>
             </catDesc>
           </category>
         </taxonomy>
@@ -1558,51 +1558,51 @@
     <surface xml:id="f37" n="12" ulx="0" uly="0" lrx="1731" lry="2553">
       <graphic url="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k6258473t/f37/full/full/0/native.jpg"/>
       <zone xml:id="f37-eSc_textblock_1642977a-blockCount1" type="NumberingZone" corresp="#NumberingZone" subtype="none" n="none" ulx="404" uly="231" lrx="492" lry="282" points="404,231 409,279 492,282 484,231" source="https://gallica.bnf.fr/iiif/ark:/12148//bpt6k6258473t/f37/404,231,88,51/full/0/native.jpg">
-        <zone xml:id="f37-eSc_textblock_1642977a-eSc_line_b096568c-lineCount1" type="TextLine" ulx="413" uly="221" lrx="481" lry="287" points="417,268 417,287 481,274 481,263 474,221 413,223 417,268" source="https://gallica.bnf.fr/iiif/ark:/12148//bpt6k6258473t/f37/413,221,68,66/full/0/native.jpg">
+        <zone xml:id="f37-eSc_textblock_1642977a-eSc_line_b096568c-lineCount1" type="DefaultLine" corresp="#DefaultLine" subtype="none" n="none" ulx="413" uly="221" lrx="481" lry="287" points="417,268 417,287 481,274 481,263 474,221 413,223 417,268" source="https://gallica.bnf.fr/iiif/ark:/12148//bpt6k6258473t/f37/413,221,68,66/full/0/native.jpg">
           <path xml:id="f37-eSc_textblock_1642977a-eSc_line_b096568c-lineCount1-baseline" points="417,268 481,263"/>
           <line xml:id="f37-eSc_textblock_1642977a-eSc_line_b096568c-lineCount1-text" n="1">30</line>
         </zone>
       </zone>
       <zone xml:id="f37-eSc_textblock_14ecf460-blockCount2" type="RunningTitleZone" corresp="#RunningTitleZone" subtype="none" n="none" ulx="660" uly="214" lrx="1155" lry="276" points="668,214 660,275 1155,276 1145,216" source="https://gallica.bnf.fr/iiif/ark:/12148//bpt6k6258473t/f37/660,214,495,62/full/0/native.jpg">
-        <zone xml:id="f37-eSc_textblock_14ecf460-eSc_line_8eb6f68c-lineCount2" type="TextLine" ulx="664" uly="212" lrx="1147" lry="278" points="1143,225 1007,225 1002,223 970,212 964,212 943,212 941,212 917,221 907,212 900,212 881,212 860,221 855,221 783,219 734,219 728,212 709,212 689,212 666,217 666,263 664,270 1143,278 1147,270 1145,225 1143,225" source="https://gallica.bnf.fr/iiif/ark:/12148//bpt6k6258473t/f37/664,212,483,66/full/0/native.jpg">
+        <zone xml:id="f37-eSc_textblock_14ecf460-eSc_line_8eb6f68c-lineCount2" type="DefaultLine" corresp="#DefaultLine" subtype="none" n="none" ulx="664" uly="212" lrx="1147" lry="278" points="1143,225 1007,225 1002,223 970,212 964,212 943,212 941,212 917,221 907,212 900,212 881,212 860,221 855,221 783,219 734,219 728,212 709,212 689,212 666,217 666,263 664,270 1143,278 1147,270 1145,225 1143,225" source="https://gallica.bnf.fr/iiif/ark:/12148//bpt6k6258473t/f37/664,212,483,66/full/0/native.jpg">
           <path xml:id="f37-eSc_textblock_14ecf460-eSc_line_8eb6f68c-lineCount2-baseline" points="666,263 1147,270"/>
           <line xml:id="f37-eSc_textblock_14ecf460-eSc_line_8eb6f68c-lineCount2-text" n="2">Contre l’Automne.</line>
         </zone>
       </zone>
       <zone xml:id="f37-eSc_textblock_a2fbe086-blockCount3" type="MainZone" corresp="#MainZone" subtype="none" n="none" ulx="375" uly="281" lrx="1487" lry="1874" points="406,285 375,1846 1487,1874 1470,281" source="https://gallica.bnf.fr/iiif/ark:/12148//bpt6k6258473t/f37/375,281,1112,1593/full/0/native.jpg">
-        <zone xml:id="f37-eSc_textblock_a2fbe086-eSc_line_13c39697-lineCount3" type="TextLine" ulx="408" uly="270" lrx="1449" lry="340" points="1388,278 1377,276 1362,276 1345,276 1324,276 1303,274 1281,274 1266,274 1254,282 1243,289 1226,285 1179,270 1177,270 1175,270 1173,270 1171,270 1171,272 1156,285 1149,291 1053,291 1045,285 1011,270 1009,270 1007,270 1004,270 1002,270 1002,272 987,287 983,291 921,291 898,287 817,272 815,272 813,272 811,272 811,274 796,289 792,293 768,293 762,289 721,272 719,272 717,272 715,272 683,289 679,291 670,289 591,272 589,272 587,272 585,272 585,274 568,291 566,291 557,291 455,280 453,280 451,280 408,291 410,331 410,340 1447,338 1449,327 1445,282 1390,278 1388,278" source="https://gallica.bnf.fr/iiif/ark:/12148//bpt6k6258473t/f37/408,270,1041,70/full/0/native.jpg">
+        <zone xml:id="f37-eSc_textblock_a2fbe086-eSc_line_13c39697-lineCount3" type="DefaultLine" corresp="#DefaultLine" subtype="none" n="none" ulx="408" uly="270" lrx="1449" lry="340" points="1388,278 1377,276 1362,276 1345,276 1324,276 1303,274 1281,274 1266,274 1254,282 1243,289 1226,285 1179,270 1177,270 1175,270 1173,270 1171,270 1171,272 1156,285 1149,291 1053,291 1045,285 1011,270 1009,270 1007,270 1004,270 1002,270 1002,272 987,287 983,291 921,291 898,287 817,272 815,272 813,272 811,272 811,274 796,289 792,293 768,293 762,289 721,272 719,272 717,272 715,272 683,289 679,291 670,289 591,272 589,272 587,272 585,272 585,274 568,291 566,291 557,291 455,280 453,280 451,280 408,291 410,331 410,340 1447,338 1449,327 1445,282 1390,278 1388,278" source="https://gallica.bnf.fr/iiif/ark:/12148//bpt6k6258473t/f37/408,270,1041,70/full/0/native.jpg">
           <path xml:id="f37-eSc_textblock_a2fbe086-eSc_line_13c39697-lineCount3-baseline" points="410,331 1449,327"/>
           <line xml:id="f37-eSc_textblock_a2fbe086-eSc_line_13c39697-lineCount3-text" n="3">veux dire le ſang, dont elle ſoüille</line>
         </zone>
-        <zone xml:id="f37-eSc_textblock_a2fbe086-eSc_line_88b9e2af-lineCount4" type="TextLine" ulx="408" uly="338" lrx="1447" lry="408" points="1439,355 1273,355 1271,355 1232,338 1230,338 1228,338 1226,338 1224,338 1224,340 1207,355 1207,357 1149,357 1147,355 1083,338 1081,338 1079,338 1077,338 1034,355 994,338 992,338 990,338 987,338 985,338 985,340 968,355 968,357 964,357 885,357 755,338 753,338 751,338 706,355 634,338 632,338 630,338 581,355 553,338 551,338 549,338 547,338 472,353 430,338 427,338 425,338 423,338 421,338 421,340 408,353 408,395 408,402 1445,408 1447,395 1445,368 1439,355" source="https://gallica.bnf.fr/iiif/ark:/12148//bpt6k6258473t/f37/408,338,1039,70/full/0/native.jpg">
+        <zone xml:id="f37-eSc_textblock_a2fbe086-eSc_line_88b9e2af-lineCount4" type="DefaultLine" corresp="#DefaultLine" subtype="none" n="none" ulx="408" uly="338" lrx="1447" lry="408" points="1439,355 1273,355 1271,355 1232,338 1230,338 1228,338 1226,338 1224,338 1224,340 1207,355 1207,357 1149,357 1147,355 1083,338 1081,338 1079,338 1077,338 1034,355 994,338 992,338 990,338 987,338 985,338 985,340 968,355 968,357 964,357 885,357 755,338 753,338 751,338 706,355 634,338 632,338 630,338 581,355 553,338 551,338 549,338 547,338 472,353 430,338 427,338 425,338 423,338 421,338 421,340 408,353 408,395 408,402 1445,408 1447,395 1445,368 1439,355" source="https://gallica.bnf.fr/iiif/ark:/12148//bpt6k6258473t/f37/408,338,1039,70/full/0/native.jpg">
           <path xml:id="f37-eSc_textblock_a2fbe086-eSc_line_88b9e2af-lineCount4-baseline" points="408,395 1447,395"/>
           <line xml:id="f37-eSc_textblock_a2fbe086-eSc_line_88b9e2af-lineCount4-text" n="4">depuis tant d’années la face de toute</line>
         </zone>
-        <zone xml:id="f37-eSc_textblock_a2fbe086-eSc_line_9fadae7f-lineCount5" type="TextLine" ulx="406" uly="404" lrx="1452" lry="480" points="406,459 406,468 559,480 562,480 638,470 660,480 662,480 664,480 666,480 698,470 798,470 809,478 809,480 811,480 813,480 815,480 872,470 977,470 992,480 994,480 996,480 998,480 1300,470 1358,480 1360,480 1362,480 1386,470 1428,480 1430,480 1432,480 1435,480 1437,480 1452,470 1452,459 1452,423 1366,410 1364,410 1307,419 1294,421 1286,419 1243,404 1241,404 1188,404 1185,404 1183,404 1181,404 1181,406 1168,416 1166,421 1156,416 1122,404 1119,404 1117,404 1115,404 1087,414 1073,421 1051,414 1015,404 1013,404 1011,404 1009,404 987,414 973,421 953,412 932,404 930,404 928,404 926,404 909,412 889,421 864,410 845,404 843,404 841,404 838,404 836,404 828,410 813,421 796,410 787,404 785,404 783,404 781,404 779,404 757,410 713,421 566,410 564,410 485,419 470,406 470,404 468,404 466,404 406,404 406,459" source="https://gallica.bnf.fr/iiif/ark:/12148//bpt6k6258473t/f37/406,404,1046,76/full/0/native.jpg">
+        <zone xml:id="f37-eSc_textblock_a2fbe086-eSc_line_9fadae7f-lineCount5" type="DefaultLine" corresp="#DefaultLine" subtype="none" n="none" ulx="406" uly="404" lrx="1452" lry="480" points="406,459 406,468 559,480 562,480 638,470 660,480 662,480 664,480 666,480 698,470 798,470 809,478 809,480 811,480 813,480 815,480 872,470 977,470 992,480 994,480 996,480 998,480 1300,470 1358,480 1360,480 1362,480 1386,470 1428,480 1430,480 1432,480 1435,480 1437,480 1452,470 1452,459 1452,423 1366,410 1364,410 1307,419 1294,421 1286,419 1243,404 1241,404 1188,404 1185,404 1183,404 1181,404 1181,406 1168,416 1166,421 1156,416 1122,404 1119,404 1117,404 1115,404 1087,414 1073,421 1051,414 1015,404 1013,404 1011,404 1009,404 987,414 973,421 953,412 932,404 930,404 928,404 926,404 909,412 889,421 864,410 845,404 843,404 841,404 838,404 836,404 828,410 813,421 796,410 787,404 785,404 783,404 781,404 779,404 757,410 713,421 566,410 564,410 485,419 470,406 470,404 468,404 466,404 406,404 406,459" source="https://gallica.bnf.fr/iiif/ark:/12148//bpt6k6258473t/f37/406,404,1046,76/full/0/native.jpg">
           <path xml:id="f37-eSc_textblock_a2fbe086-eSc_line_9fadae7f-lineCount5-baseline" points="406,459 1452,459"/>
           <line xml:id="f37-eSc_textblock_a2fbe086-eSc_line_9fadae7f-lineCount5-text" n="5">l’Europe, car je le devois faire pour</line>
         </zone>
-        <zone xml:id="f37-eSc_textblock_a2fbe086-eSc_line_291ef083-lineCount6" type="TextLine" ulx="404" uly="468" lrx="1452" lry="546" points="406,523 406,536 521,546 523,546 525,546 559,536 562,534 662,534 664,536 672,542 672,544 674,544 677,544 679,544 823,534 843,534 847,534 892,546 894,546 896,546 898,546 900,546 921,534 930,534 1062,544 1064,544 1066,544 1068,544 1068,542 1079,534 1079,531 1081,534 1111,544 1113,544 1115,544 1117,544 1151,531 1156,531 1166,531 1268,544 1271,544 1347,531 1366,544 1369,544 1371,544 1373,544 1449,529 1452,519 1449,485 1432,470 1432,468 1430,468 1428,468 1426,468 1424,468 1422,468 1422,470 1411,478 1392,468 1390,468 1388,468 1386,468 1296,482 1198,468 1196,468 1194,468 1192,468 1192,470 1179,482 1168,482 924,485 815,476 770,474 768,474 766,474 760,476 732,485 702,476 685,470 683,470 681,470 679,470 668,474 645,485 613,474 600,470 598,470 596,470 562,474 466,485 451,472 451,470 449,470 447,470 444,470 404,470 406,523" source="https://gallica.bnf.fr/iiif/ark:/12148//bpt6k6258473t/f37/404,468,1048,78/full/0/native.jpg">
+        <zone xml:id="f37-eSc_textblock_a2fbe086-eSc_line_291ef083-lineCount6" type="DefaultLine" corresp="#DefaultLine" subtype="none" n="none" ulx="404" uly="468" lrx="1452" lry="546" points="406,523 406,536 521,546 523,546 525,546 559,536 562,534 662,534 664,536 672,542 672,544 674,544 677,544 679,544 823,534 843,534 847,534 892,546 894,546 896,546 898,546 900,546 921,534 930,534 1062,544 1064,544 1066,544 1068,544 1068,542 1079,534 1079,531 1081,534 1111,544 1113,544 1115,544 1117,544 1151,531 1156,531 1166,531 1268,544 1271,544 1347,531 1366,544 1369,544 1371,544 1373,544 1449,529 1452,519 1449,485 1432,470 1432,468 1430,468 1428,468 1426,468 1424,468 1422,468 1422,470 1411,478 1392,468 1390,468 1388,468 1386,468 1296,482 1198,468 1196,468 1194,468 1192,468 1192,470 1179,482 1168,482 924,485 815,476 770,474 768,474 766,474 760,476 732,485 702,476 685,470 683,470 681,470 679,470 668,474 645,485 613,474 600,470 598,470 596,470 562,474 466,485 451,472 451,470 449,470 447,470 444,470 404,470 406,523" source="https://gallica.bnf.fr/iiif/ark:/12148//bpt6k6258473t/f37/404,468,1048,78/full/0/native.jpg">
           <path xml:id="f37-eSc_textblock_a2fbe086-eSc_line_291ef083-lineCount6-baseline" points="406,523 1452,519"/>
           <line xml:id="f37-eSc_textblock_a2fbe086-eSc_line_291ef083-lineCount6-text" n="6">la punir de ce qu’ayant prodigué des</line>
         </zone>
-        <zone xml:id="f37-eSc_textblock_a2fbe086-eSc_line_d053a5be-lineCount7" type="TextLine" ulx="400" uly="534" lrx="1447" lry="597" points="402,585 400,593 1443,597 1447,589 1445,542 1313,548 1300,542 1292,536 1290,536 1288,536 1286,536 1283,536 1260,542 1239,548 1220,542 1200,536 1198,536 1196,536 1194,536 1177,542 1160,548 1128,542 1085,536 1083,536 1081,536 1079,536 1070,544 1062,551 1013,551 996,544 973,536 970,536 968,536 966,536 964,536 953,544 947,548 894,544 762,534 760,534 628,546 615,546 613,546 583,534 581,534 579,534 577,534 574,534 574,536 562,546 562,548 506,548 502,546 417,534 415,534 413,534 410,534 402,540 402,585" source="https://gallica.bnf.fr/iiif/ark:/12148//bpt6k6258473t/f37/400,534,1047,63/full/0/native.jpg">
+        <zone xml:id="f37-eSc_textblock_a2fbe086-eSc_line_d053a5be-lineCount7" type="DefaultLine" corresp="#DefaultLine" subtype="none" n="none" ulx="400" uly="534" lrx="1447" lry="597" points="402,585 400,593 1443,597 1447,589 1445,542 1313,548 1300,542 1292,536 1290,536 1288,536 1286,536 1283,536 1260,542 1239,548 1220,542 1200,536 1198,536 1196,536 1194,536 1177,542 1160,548 1128,542 1085,536 1083,536 1081,536 1079,536 1070,544 1062,551 1013,551 996,544 973,536 970,536 968,536 966,536 964,536 953,544 947,548 894,544 762,534 760,534 628,546 615,546 613,546 583,534 581,534 579,534 577,534 574,534 574,536 562,546 562,548 506,548 502,546 417,534 415,534 413,534 410,534 402,540 402,585" source="https://gallica.bnf.fr/iiif/ark:/12148//bpt6k6258473t/f37/400,534,1047,63/full/0/native.jpg">
           <path xml:id="f37-eSc_textblock_a2fbe086-eSc_line_d053a5be-lineCount7-baseline" points="402,585 1447,589"/>
           <line xml:id="f37-eSc_textblock_a2fbe086-eSc_line_d053a5be-lineCount7-text" n="7">fruits à tout le monde, elle ne m’en a</line>
         </zone>
-        <zone xml:id="f37-eSc_textblock_a2fbe086-eSc_line_d6af9414-lineCount8" type="TextLine" ulx="404" uly="597" lrx="1452" lry="676" points="406,653 408,676 440,663 632,663 640,672 643,674 643,676 645,676 647,676 649,676 651,676 666,672 698,663 800,670 879,674 881,674 883,674 885,674 894,668 900,663 932,668 985,674 987,674 990,674 992,674 992,672 998,665 1002,663 1004,665 1013,674 1015,674 1017,674 1019,674 1087,663 1111,661 1115,663 1130,674 1132,674 1134,674 1136,676 1288,676 1288,674 1290,674 1292,674 1311,661 1386,674 1388,674 1390,674 1452,657 1452,648 1447,612 1205,597 1202,597 1111,610 1090,597 1087,597 1085,597 1083,597 1019,610 934,599 932,599 930,599 928,599 915,612 885,599 883,599 881,599 496,612 423,599 421,599 419,599 417,599 404,608 406,653" source="https://gallica.bnf.fr/iiif/ark:/12148//bpt6k6258473t/f37/404,597,1048,79/full/0/native.jpg">
+        <zone xml:id="f37-eSc_textblock_a2fbe086-eSc_line_d6af9414-lineCount8" type="DefaultLine" corresp="#DefaultLine" subtype="none" n="none" ulx="404" uly="597" lrx="1452" lry="676" points="406,653 408,676 440,663 632,663 640,672 643,674 643,676 645,676 647,676 649,676 651,676 666,672 698,663 800,670 879,674 881,674 883,674 885,674 894,668 900,663 932,668 985,674 987,674 990,674 992,674 992,672 998,665 1002,663 1004,665 1013,674 1015,674 1017,674 1019,674 1087,663 1111,661 1115,663 1130,674 1132,674 1134,674 1136,676 1288,676 1288,674 1290,674 1292,674 1311,661 1386,674 1388,674 1390,674 1452,657 1452,648 1447,612 1205,597 1202,597 1111,610 1090,597 1087,597 1085,597 1083,597 1019,610 934,599 932,599 930,599 928,599 915,612 885,599 883,599 881,599 496,612 423,599 421,599 419,599 417,599 404,608 406,653" source="https://gallica.bnf.fr/iiif/ark:/12148//bpt6k6258473t/f37/404,597,1048,79/full/0/native.jpg">
           <path xml:id="f37-eSc_textblock_a2fbe086-eSc_line_d6af9414-lineCount8-baseline" points="406,653 1452,648"/>
           <line xml:id="f37-eSc_textblock_a2fbe086-eSc_line_d6af9414-lineCount8-text" n="8">pas encore donné un qui puiſſe vous</line>
         </zone>
-        <zone xml:id="f37-eSc_textblock_a2fbe086-eSc_line_0599b900-lineCount9" type="TextLine" ulx="402" uly="661" lrx="1173" lry="738" points="404,714 402,733 1168,738 1173,721 1173,682 1128,665 1126,665 1051,665 1049,665 1047,665 1019,680 977,665 975,665 973,665 970,665 928,680 913,668 913,665 911,665 909,665 811,663 809,663 806,663 804,663 785,678 785,680 672,680 670,678 649,661 647,661 645,661 643,661 513,676 427,661 425,661 423,661 421,661 404,672 404,714" source="https://gallica.bnf.fr/iiif/ark:/12148//bpt6k6258473t/f37/402,661,771,77/full/0/native.jpg">
+        <zone xml:id="f37-eSc_textblock_a2fbe086-eSc_line_0599b900-lineCount9" type="DefaultLine" corresp="#DefaultLine" subtype="none" n="none" ulx="402" uly="661" lrx="1173" lry="738" points="404,714 402,733 1168,738 1173,721 1173,682 1128,665 1126,665 1051,665 1049,665 1047,665 1019,680 977,665 975,665 973,665 970,665 928,680 913,668 913,665 911,665 909,665 811,663 809,663 806,663 804,663 785,678 785,680 672,680 670,678 649,661 647,661 645,661 643,661 513,676 427,661 425,661 423,661 421,661 404,672 404,714" source="https://gallica.bnf.fr/iiif/ark:/12148//bpt6k6258473t/f37/402,661,771,77/full/0/native.jpg">
           <path xml:id="f37-eSc_textblock_a2fbe086-eSc_line_0599b900-lineCount9-baseline" points="404,714 1173,721"/>
           <line xml:id="f37-eSc_textblock_a2fbe086-eSc_line_0599b900-lineCount9-text" n="9">dire aprés ma mort, je ſuis,</line>
         </zone>
-        <zone xml:id="f37-eSc_textblock_a2fbe086-eSc_line_ad3c933d-lineCount10" type="TextLine" ulx="496" uly="780" lrx="1015" lry="868" points="1013,799 977,799 977,797 962,785 962,782 960,782 958,782 955,782 868,795 858,795 855,793 843,782 841,782 838,782 836,782 794,791 736,780 734,780 732,780 730,780 730,782 721,791 717,793 711,789 698,780 696,780 694,780 691,780 689,780 660,789 638,793 506,785 498,789 498,846 496,853 1011,868 1015,853 1015,836 1013,799" source="https://gallica.bnf.fr/iiif/ark:/12148//bpt6k6258473t/f37/496,780,519,88/full/0/native.jpg">
+        <zone xml:id="f37-eSc_textblock_a2fbe086-eSc_line_ad3c933d-lineCount10" type="DefaultLine" corresp="#DefaultLine" subtype="none" n="none" ulx="496" uly="780" lrx="1015" lry="868" points="1013,799 977,799 977,797 962,785 962,782 960,782 958,782 955,782 868,795 858,795 855,793 843,782 841,782 838,782 836,782 794,791 736,780 734,780 732,780 730,780 730,782 721,791 717,793 711,789 698,780 696,780 694,780 691,780 689,780 660,789 638,793 506,785 498,789 498,846 496,853 1011,868 1015,853 1015,836 1013,799" source="https://gallica.bnf.fr/iiif/ark:/12148//bpt6k6258473t/f37/496,780,519,88/full/0/native.jpg">
           <path xml:id="f37-eSc_textblock_a2fbe086-eSc_line_ad3c933d-lineCount10-baseline" points="498,846 1015,853"/>
           <line xml:id="f37-eSc_textblock_a2fbe086-eSc_line_ad3c933d-lineCount10-text" n="10">MONSIEUR,</line>
         </zone>
-        <zone xml:id="f37-eSc_textblock_a2fbe086-eSc_line_c5e4e728-lineCount11" type="TextLine" ulx="894" uly="921" lrx="1349" lry="995" points="1341,940 1330,936 1247,936 1211,923 1192,923 1171,923 1162,923 1128,929 1079,921 1077,921 1075,921 1073,921 1073,923 1058,936 917,921 915,921 913,921 894,957 896,978 896,987 1311,995 1313,995 1315,995 1349,982 1349,974 1345,940 1341,940" source="https://gallica.bnf.fr/iiif/ark:/12148//bpt6k6258473t/f37/894,921,455,74/full/0/native.jpg">
+        <zone xml:id="f37-eSc_textblock_a2fbe086-eSc_line_c5e4e728-lineCount11" type="DefaultLine" corresp="#DefaultLine" subtype="none" n="none" ulx="894" uly="921" lrx="1349" lry="995" points="1341,940 1330,936 1247,936 1211,923 1192,923 1171,923 1162,923 1128,929 1079,921 1077,921 1075,921 1073,921 1073,923 1058,936 917,921 915,921 913,921 894,957 896,978 896,987 1311,995 1313,995 1315,995 1349,982 1349,974 1345,940 1341,940" source="https://gallica.bnf.fr/iiif/ark:/12148//bpt6k6258473t/f37/894,921,455,74/full/0/native.jpg">
           <path xml:id="f37-eSc_textblock_a2fbe086-eSc_line_c5e4e728-lineCount11-baseline" points="896,978 1349,974"/>
           <line xml:id="f37-eSc_textblock_a2fbe086-eSc_line_c5e4e728-lineCount11-text" n="11">Vôtre Serviteur..</line>
         </zone>
@@ -2347,7 +2347,6 @@
           <line xml:id="f46-eSc_textblock_4d1f102a-eSc_line_82410a0c-lineCount32-text" n="32">au baſſin en preſence de tout le monde.</line>
         </zone>
       </zone>
-      <zone xml:id="f46-eSc_textblock_703e3a28-blockCount4" type="TextBlock" ulx="158" uly="2212" lrx="164" lry="2226" points="158,2226 158,2212 164,2212 164,2226" source="https://gallica.bnf.fr/iiif/ark:/12148//bpt6k6258473t/f46/158,2212,6,14/full/0/native.jpg"/>
     </surface>
     <surface xml:id="f48" n="19" ulx="0" uly="0" lrx="1619" lry="2493">
       <graphic url="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k6258473t/f48/full/full/0/native.jpg"/>
@@ -2515,7 +2514,7 @@
         <pb corresp="#f37"/>
         <fw corresp="#f37-eSc_textblock_1642977a-blockCount1" type="NumberingZone"><lb corresp="#f37-eSc_textblock_1642977a-eSc_line_b096568c-lineCount1"/>30</fw>
         <fw corresp="#f37-eSc_textblock_14ecf460-blockCount2" type="RunningTitleZone"><lb corresp="#f37-eSc_textblock_14ecf460-eSc_line_8eb6f68c-lineCount2"/>Contre l’Automne.</fw>
-        <ab corresp="#f37-eSc_textblock_a2fbe086-blockCount3" type="MainZone"/>
+        <ab corresp="#f37-eSc_textblock_a2fbe086-blockCount3" type="MainZone"><lb corresp="#f37-eSc_textblock_a2fbe086-eSc_line_13c39697-lineCount3"/>veux dire le ſang, dont elle ſoüille<lb corresp="#f37-eSc_textblock_a2fbe086-eSc_line_88b9e2af-lineCount4"/>depuis tant d’années la face de toute<lb corresp="#f37-eSc_textblock_a2fbe086-eSc_line_9fadae7f-lineCount5"/>l’Europe, car je le devois faire pour<lb corresp="#f37-eSc_textblock_a2fbe086-eSc_line_291ef083-lineCount6"/>la punir de ce qu’ayant prodigué des<lb corresp="#f37-eSc_textblock_a2fbe086-eSc_line_d053a5be-lineCount7"/>fruits à tout le monde, elle ne m’en a<lb corresp="#f37-eSc_textblock_a2fbe086-eSc_line_d6af9414-lineCount8"/>pas encore donné un qui puiſſe vous<lb corresp="#f37-eSc_textblock_a2fbe086-eSc_line_0599b900-lineCount9"/>dire aprés ma mort, je ſuis,<lb corresp="#f37-eSc_textblock_a2fbe086-eSc_line_ad3c933d-lineCount10"/>MONSIEUR,<lb corresp="#f37-eSc_textblock_a2fbe086-eSc_line_c5e4e728-lineCount11"/>Vôtre Serviteur..</ab>
         <pb corresp="#f38"/>
         <fw corresp="#f38-eSc_textblock_2bdc761f-blockCount1" type="NumberingZone"><lb corresp="#f38-eSc_textblock_2bdc761f-eSc_line_ad66ac05-lineCount1"/>31</fw>
         <ab corresp="#f38-eSc_textblock_7254143a-blockCount2" type="MainZone"><hi rend="HeadingLine"><lb corresp="#f38-eSc_textblock_7254143a-eSc_line_32dff625-lineCount2"/>DESCRIPTION II.<lb corresp="#f38-eSc_textblock_7254143a-eSc_line_8ec77f6c-lineCount3"/>DE L’ACQUEDUC,<lb corresp="#f38-eSc_textblock_7254143a-eSc_line_aa3b4024-lineCount4"/>OU LA FONTAINE<lb corresp="#f38-eSc_textblock_7254143a-eSc_line_66ad74f8-lineCount5"/>D'ARCUEIL.<lb corresp="#f38-eSc_textblock_7254143a-eSc_line_0c0cb0e7-lineCount6"/>A MES AMIS LES BEVVEVRS<lb corresp="#f38-eSc_textblock_7254143a-eSc_line_72bf52a6-lineCount7"/>d’Eau.<lb corresp="#f38-eSc_textblock_7254143a-eSc_line_7c5bd188-lineCount8"/>LETTRE V.</hi><lb corresp="#f38-eSc_textblock_7254143a-eSc_line_5cedb8c5-lineCount9"/>Cette lettre d'Arcueil ayant été perduë, l'Auteur<lb corresp="#f38-eSc_textblock_7254143a-eSc_line_757bac6f-lineCount10"/>long-temps aprés en fit une autre : mais comme<lb corresp="#f38-eSc_textblock_7254143a-eSc_line_550555e8-lineCount11"/>il ne ſe ſouvenoit preſque plus de la primiere, il<lb corresp="#f38-eSc_textblock_7254143a-eSc_line_7207e39b-lineCount12"/>ne rencontra pas les mêmes pensées: Depuis il<lb corresp="#f38-eSc_textblock_7254143a-eSc_line_916688be-lineCount13"/>retrouva la perduë : &amp; comme il eſt aſſez enne¬<lb corresp="#f38-eSc_textblock_7254143a-eSc_line_8316dc79-lineCount14"/>my du travail, il ne creut pas que le ſujet ſût<lb corresp="#f38-eSc_textblock_7254143a-eSc_line_90a3c30d-lineCount15"/>digne d’épurer chaquè Lettre en ôtant de chacu¬<lb corresp="#f38-eSc_textblock_7254143a-eSc_line_e3969a81-lineCount16"/>ne les imaginations qui ſe pourroient rencontrer<lb corresp="#f38-eSc_textblock_7254143a-eSc_line_29e81731-lineCount17"/>dans l’autre.<hi rend="DropCapitalLine"><lb corresp="#f38-eSc_textblock_7254143a-eSc_line_d52be9b8-lineCount18"/>M</hi><lb corresp="#f38-eSc_textblock_7254143a-eSc_line_468949db-lineCount19"/>ESSIEUIRS,<lb corresp="#f38-eSc_textblock_7254143a-eSc_line_c56a6cc6-lineCount20"/>Pied-là, picd-là; ma tête ſert de<lb corresp="#f38-eSc_textblock_7254143a-eSc_line_a36cf50f-lineCount21"/>Pont à une riviere, je ſuis deſſous, tout<lb corresp="#f38-eSc_textblock_7254143a-eSc_line_e106da12-lineCount22"/>au fonds ſans nager; &amp; toutesfois j'y</ab>

@@ -39,7 +39,7 @@
         <availability status="restricted" n="cc-by">
           <licence target="https://creativecommons.org/licenses/by/4.0/"/>
         </availability>
-        <date when="2022-10-14"/>
+        <date when="2022-11-16"/>
       </publicationStmt>
       <sourceDesc>
         <bibl>
@@ -97,33 +97,13 @@
               <title>NumberingZone</title>
               <ptr target="https://segmonto.github.io/gd/gdZ/NumberingZone"/>
             </catDesc>
-            <catDesc xml:id="MainZone">
-              <title>MainZone</title>
-              <ptr target="https://segmonto.github.io/gd/gdZ/MainZone"/>
-            </catDesc>
-            <catDesc xml:id="RunningTitleZone">
-              <title>RunningTitleZone</title>
-              <ptr target="https://segmonto.github.io/gd/gdZ/RunningTitleZone"/>
-            </catDesc>
-            <catDesc xml:id="QuireMarksZone">
-              <title>QuireMarksZone</title>
-              <ptr target="https://segmonto.github.io/gd/gdZ/QuireMarksZone"/>
-            </catDesc>
-            <catDesc xml:id="TableZone">
-              <title>TableZone</title>
-              <ptr target="https://segmonto.github.io/gd/gdZ/TableZone"/>
-            </catDesc>
-            <catDesc xml:id="TitlePageZone">
-              <title>TitlePageZone</title>
-              <ptr target="https://segmonto.github.io/gd/gdZ/TitlePageZone"/>
-            </catDesc>
-            <catDesc xml:id="DamageZone">
-              <title>DamageZone</title>
-              <ptr target="https://segmonto.github.io/gd/gdZ/DamageZone"/>
-            </catDesc>
             <catDesc xml:id="MusicZone">
               <title>MusicZone</title>
               <ptr target="https://segmonto.github.io/gd/gdZ/MusicZone"/>
+            </catDesc>
+            <catDesc xml:id="MainZone">
+              <title>MainZone</title>
+              <ptr target="https://segmonto.github.io/gd/gdZ/MainZone"/>
             </catDesc>
             <catDesc xml:id="SealZone">
               <title>SealZone</title>
@@ -133,23 +113,39 @@
               <title>DropCapitalZone</title>
               <ptr target="https://segmonto.github.io/gd/gdZ/DropCapitalZone"/>
             </catDesc>
+            <catDesc xml:id="DamageZone">
+              <title>DamageZone</title>
+              <ptr target="https://segmonto.github.io/gd/gdZ/DamageZone"/>
+            </catDesc>
             <catDesc xml:id="StampZone">
               <title>StampZone</title>
               <ptr target="https://segmonto.github.io/gd/gdZ/StampZone"/>
             </catDesc>
+            <catDesc xml:id="QuireMarksZone">
+              <title>QuireMarksZone</title>
+              <ptr target="https://segmonto.github.io/gd/gdZ/QuireMarksZone"/>
+            </catDesc>
+            <catDesc xml:id="TableZone">
+              <title>TableZone</title>
+              <ptr target="https://segmonto.github.io/gd/gdZ/TableZone"/>
+            </catDesc>
+            <catDesc xml:id="RunningTitleZone">
+              <title>RunningTitleZone</title>
+              <ptr target="https://segmonto.github.io/gd/gdZ/RunningTitleZone"/>
+            </catDesc>
+            <catDesc xml:id="TitlePageZone">
+              <title>TitlePageZone</title>
+              <ptr target="https://segmonto.github.io/gd/gdZ/TitlePageZone"/>
+            </catDesc>
           </category>
           <category xml:id="SegmOntoLines">
-            <catDesc xml:id="InterlinearLine">
-              <title>InterlinearLine</title>
-              <ptr target="https://segmonto.github.io/gd/gdL/InterlinearLine"/>
+            <catDesc xml:id="HeadingLine">
+              <title>HeadingLine</title>
+              <ptr target="https://segmonto.github.io/gd/gdL/HeadingLine"/>
             </catDesc>
             <catDesc xml:id="MusicLine">
               <title>MusicLine</title>
               <ptr target="https://segmonto.github.io/gd/gdL/MusicLine"/>
-            </catDesc>
-            <catDesc xml:id="HeadingLine">
-              <title>HeadingLine</title>
-              <ptr target="https://segmonto.github.io/gd/gdL/HeadingLine"/>
             </catDesc>
             <catDesc xml:id="DefaultLine">
               <title>DefaultLine</title>
@@ -158,6 +154,10 @@
             <catDesc xml:id="DropCapitalLine">
               <title>DropCapitalLine</title>
               <ptr target="https://segmonto.github.io/gd/gdL/DropCapitalLine"/>
+            </catDesc>
+            <catDesc xml:id="InterlinearLine">
+              <title>InterlinearLine</title>
+              <ptr target="https://segmonto.github.io/gd/gdL/InterlinearLine"/>
             </catDesc>
           </category>
         </taxonomy>
@@ -351,7 +351,7 @@
           <path xml:id="f5-eSc_textblock_b03602df-eSc_line_0db69ee1-lineCount14-baseline" points="703,1467 1299,1467"/>
           <line xml:id="f5-eSc_textblock_b03602df-eSc_line_0db69ee1-lineCount14-text" n="14">me portoit, i ay eu enuie de faire</line>
         </zone>
-        <zone xml:id="f5-eSc_textblock_b03602df-eSc_line_471b828e-lineCount15" type="TextLine" ulx="473" uly="1244" lrx="697" lry="1513" points="697,1248 484,1244 476,1469 473,1513 689,1513 691,1478 697,1248" source="https://gallica.bnf.fr/iiif/ark:/12148//bpt6k111525t/f5/473,1244,224,269/full/0/native.jpg">
+        <zone xml:id="f5-eSc_textblock_b03602df-eSc_line_471b828e-lineCount15" type="DropCapitalLine" corresp="#DropCapitalLine" subtype="none" n="none" ulx="473" uly="1244" lrx="697" lry="1513" points="697,1248 484,1244 476,1469 473,1513 689,1513 691,1478 697,1248" source="https://gallica.bnf.fr/iiif/ark:/12148//bpt6k111525t/f5/473,1244,224,269/full/0/native.jpg">
           <path xml:id="f5-eSc_textblock_b03602df-eSc_line_471b828e-lineCount15-baseline" points="477,1472 693,1479"/>
           <line xml:id="f5-eSc_textblock_b03602df-eSc_line_471b828e-lineCount15-text" n="15">M</line>
         </zone>
@@ -2137,7 +2137,7 @@
         </zone>
       </zone>
       <zone xml:id="f34-eSc_textblock_a392a4ff-blockCount3" type="NumberingZone" corresp="#NumberingZone" subtype="none" n="none" ulx="1248" uly="436" lrx="1315" lry="507" points="1248,436 1248,507 1315,507 1315,436" source="https://gallica.bnf.fr/iiif/ark:/12148//bpt6k111525t/f34/1248,436,67,71/full/0/native.jpg">
-        <zone xml:id="f34-eSc_textblock_a392a4ff-eSc_line_c4521dc5-lineCount35" type="TextLine" ulx="1256" uly="436" lrx="1297" lry="504" points="1277,436 1262,436 1256,438 1260,492 1260,502 1293,504 1297,489 1287,436 1277,436" source="https://gallica.bnf.fr/iiif/ark:/12148//bpt6k111525t/f34/1256,436,41,68/full/0/native.jpg">
+        <zone xml:id="f34-eSc_textblock_a392a4ff-eSc_line_c4521dc5-lineCount35" type="DefaultLine" corresp="#DefaultLine" subtype="none" n="none" ulx="1256" uly="436" lrx="1297" lry="504" points="1277,436 1262,436 1256,438 1260,492 1260,502 1293,504 1297,489 1287,436 1277,436" source="https://gallica.bnf.fr/iiif/ark:/12148//bpt6k111525t/f34/1256,436,41,68/full/0/native.jpg">
           <path xml:id="f34-eSc_textblock_a392a4ff-eSc_line_c4521dc5-lineCount35-baseline" points="1261,494 1298,492"/>
           <line xml:id="f34-eSc_textblock_a392a4ff-eSc_line_c4521dc5-lineCount35-text" n="35">3</line>
         </zone>
@@ -2357,7 +2357,7 @@
           <path xml:id="f37-eSc_textblock_3b827ce9-eSc_line_2cbf3b20-lineCount12-baseline" points="643,1339 1320,1339"/>
           <line xml:id="f37-eSc_textblock_3b827ce9-eSc_line_2cbf3b20-lineCount12-text" n="12">de la Paix, le beau loiſir rendoit les af¬</line>
         </zone>
-        <zone xml:id="f37-eSc_textblock_3b827ce9-eSc_line_1b6e1cf6-lineCount13" type="TextLine" ulx="473" uly="1234" lrx="594" lry="1434" points="473,1405 473,1434 594,1434 594,1405 594,1238 473,1234 473,1405" source="https://gallica.bnf.fr/iiif/ark:/12148//bpt6k111525t/f37/473,1234,121,200/full/0/native.jpg">
+        <zone xml:id="f37-eSc_textblock_3b827ce9-eSc_line_1b6e1cf6-lineCount13" type="DropCapitalLine" corresp="#DropCapitalLine" subtype="none" n="none" ulx="473" uly="1234" lrx="594" lry="1434" points="473,1405 473,1434 594,1434 594,1405 594,1238 473,1234 473,1405" source="https://gallica.bnf.fr/iiif/ark:/12148//bpt6k111525t/f37/473,1234,121,200/full/0/native.jpg">
           <path xml:id="f37-eSc_textblock_3b827ce9-eSc_line_1b6e1cf6-lineCount13-baseline" points="474,1406 595,1406"/>
           <line xml:id="f37-eSc_textblock_3b827ce9-eSc_line_1b6e1cf6-lineCount13-text" n="13">N</line>
         </zone>
@@ -2421,7 +2421,7 @@
           <path xml:id="f37-eSc_textblock_3b827ce9-eSc_line_b4af1bdc-lineCount28-baseline" points="440,2069 1318,2061"/>
           <line xml:id="f37-eSc_textblock_3b827ce9-eSc_line_b4af1bdc-lineCount28-text" n="28">plus aymable que ce qui eſt beau ? eu de plus de¬</line>
         </zone>
-        <zone xml:id="f37-eSc_textblock_3b827ce9-eSc_line_e25973a6-lineCount29" type="TextLine" ulx="438" uly="2065" lrx="1318" lry="2148" points="440,2110 438,2146 496,2148 498,2148 500,2148 502,2148 502,2146 513,2135 534,2146 536,2146 538,2146 540,2146 542,2146 542,2143 556,2131 608,2146 610,2146 612,2146 614,2146 616,2146 645,2129 680,2129 695,2143 695,2146 697,2146 699,2146 701,2146 774,2129 858,2129 875,2146 875,2148 877,2148 879,2148 881,2148 883,2148 887,2148 935,2135 987,2148 993,2148 995,2148 997,2148 999,2148 1022,2129 1128,2146 1130,2146 1233,2129 1248,2141 1248,2143 1250,2143 1252,2143 1254,2143 1256,2143 1258,2143 1279,2131 1312,2148 1318,2115 1314,2065 440,2073 440,2110" source="https://gallica.bnf.fr/iiif/ark:/12148//bpt6k111525t/f37/438,2065,880,83/full/0/native.jpg">
+        <zone xml:id="f37-eSc_textblock_3b827ce9-eSc_line_e25973a6-lineCount29" type="DefaultLine" corresp="#DefaultLine" subtype="none" n="none" ulx="438" uly="2065" lrx="1318" lry="2148" points="440,2110 438,2146 496,2148 498,2148 500,2148 502,2148 502,2146 513,2135 534,2146 536,2146 538,2146 540,2146 542,2146 542,2143 556,2131 608,2146 610,2146 612,2146 614,2146 616,2146 645,2129 680,2129 695,2143 695,2146 697,2146 699,2146 701,2146 774,2129 858,2129 875,2146 875,2148 877,2148 879,2148 881,2148 883,2148 887,2148 935,2135 987,2148 993,2148 995,2148 997,2148 999,2148 1022,2129 1128,2146 1130,2146 1233,2129 1248,2141 1248,2143 1250,2143 1252,2143 1254,2143 1256,2143 1258,2143 1279,2131 1312,2148 1318,2115 1314,2065 440,2073 440,2110" source="https://gallica.bnf.fr/iiif/ark:/12148//bpt6k111525t/f37/438,2065,880,83/full/0/native.jpg">
           <path xml:id="f37-eSc_textblock_3b827ce9-eSc_line_e25973a6-lineCount29-baseline" points="442,2112 473,2113 513,2117 1320,2117"/>
           <line xml:id="f37-eSc_textblock_3b827ce9-eSc_line_e25973a6-lineCount29-text" n="29">ſirable que le Bien? On la parãgonnoit à la beauté,</line>
         </zone>
@@ -2589,7 +2589,7 @@
         <pb corresp="#f4"/>
         <ab corresp="#f4-eSc_textblock_2cbe07e3-blockCount1" type="MainZone"><lb corresp="#f4-eSc_textblock_2cbe07e3-eSc_line_eca1e192-lineCount1"/>su'il ne paroiſt plus; l'honneur<lb corresp="#f4-eSc_textblock_2cbe07e3-eSc_line_277f3f11-lineCount2"/>&amp; tout ce qui en procede y mul¬<lb corresp="#f4-eSc_textblock_2cbe07e3-eSc_line_f54dd604-lineCount3"/>tiplie, &amp; l'innocence des parfai¬<lb corresp="#f4-eSc_textblock_2cbe07e3-eSc_line_3dbb0802-lineCount4"/>tes fleurs de l'Oriflam y croiſt<lb corresp="#f4-eSc_textblock_2cbe07e3-eSc_line_c9facc38-lineCount5"/>ſous l'aiſle de voſtre Majeſté, en<lb corresp="#f4-eSc_textblock_2cbe07e3-eSc_line_4c0749c5-lineCount6"/>eſperãce que les feüilles en cou¬<lb corresp="#f4-eSc_textblock_2cbe07e3-eSc_line_387ab2d9-lineCount7"/>uriront la face de la terre. Ces<lb corresp="#f4-eSc_textblock_2cbe07e3-eSc_line_ce0355c9-lineCount8"/>excellences ſont l'occaſion que<lb corresp="#f4-eSc_textblock_2cbe07e3-eSc_line_e78d3d14-lineCount9"/>ces voyageurs ſe donnẽt à vous,<lb corresp="#f4-eSc_textblock_2cbe07e3-eSc_line_f0309162-lineCount10"/>pource qu'ailleurs ne peut reüſ¬<lb corresp="#f4-eSc_textblock_2cbe07e3-eSc_line_8379dfcc-lineCount11"/>ſir la gloire de leurs deſſeins : Et<lb corresp="#f4-eSc_textblock_2cbe07e3-eSc_line_e5808123-lineCount12"/>puis, tout vous eſt deu.<lb corresp="#f4-eSc_textblock_2cbe07e3-eSc_line_1c122a95-lineCount13"/>BEROALDE.</ab>
         <pb corresp="#f5"/>
-        <ab corresp="#f5-eSc_textblock_b03602df-blockCount1" type="MainZone"><hi rend="HeadingLine"><lb corresp="#f5-eSc_textblock_b03602df-eSc_line_7a97f385-lineCount1"/>AVIS AUX BEAUX<lb corresp="#f5-eSc_textblock_b03602df-eSc_line_cca6447e-lineCount2"/>ESPRITS,</hi><lb corresp="#f5-eSc_textblock_b03602df-eSc_line_19f345b3-lineCount3"/>Touchant le voyage des PRINCES<lb corresp="#f5-eSc_textblock_b03602df-eSc_line_9c1a5512-lineCount4"/>FORTVNEZ, qui eſt vn oeuure<lb corresp="#f5-eSc_textblock_b03602df-eSc_line_ddb35f6b-lineCount5"/>STEGANOGRAFIQVE, con¬<lb corresp="#f5-eSc_textblock_b03602df-eSc_line_d613cec3-lineCount6"/>tenant ſous le plaiſant voile des<lb corresp="#f5-eSc_textblock_b03602df-eSc_line_a118c6c5-lineCount7"/>diſcours d'Amour, tout ce qu'il<lb corresp="#f5-eSc_textblock_b03602df-eSc_line_7d696a51-lineCount8"/>y a de plus exquis és ſecrets re¬<lb corresp="#f5-eSc_textblock_b03602df-eSc_line_0bfccbd4-lineCount9"/>cherchez par les curieux des<lb corresp="#f5-eSc_textblock_b03602df-eSc_line_0e9e1748-lineCount10"/>bonnes ſciences.<lb corresp="#f5-eSc_textblock_b03602df-eSc_line_c14b80e2-lineCount11"/>EST ANT delecté aux ouúra¬<lb corresp="#f5-eSc_textblock_b03602df-eSc_line_ae71ec78-lineCount12"/>ges de plaiſir, ſuyuant auidement<lb corresp="#f5-eSc_textblock_b03602df-eSc_line_e48b8700-lineCount13"/>les delices d'eſprit où ma curioſité<lb corresp="#f5-eSc_textblock_b03602df-eSc_line_0db69ee1-lineCount14"/>me portoit, i ay eu enuie de faire<lb corresp="#f5-eSc_textblock_b03602df-eSc_line_77112f5d-lineCount16"/>part de mon contentement à ceux<lb corresp="#f5-eSc_textblock_b03602df-eSc_line_85db0ef9-lineCount17"/>qui ſeront eſmeus de ſemblable fantaſie, &amp; qui<lb corresp="#f5-eSc_textblock_b03602df-eSc_line_e4f80da9-lineCount18"/>incitez par beaux deſirs, ont volõté de ſe recreer<lb corresp="#f5-eSc_textblock_b03602df-eSc_line_ca1d7c28-lineCount19"/>aux obiets de perfectiõ, leſquels on peut remner<lb corresp="#f5-eSc_textblock_b03602df-eSc_line_4578935c-lineCount20"/>en toute  feurté pour ſ'en reſiouir Et par les ri¬<lb corresp="#f5-eSc_textblock_b03602df-eSc_line_4c46ac1f-lineCount21"/>cheſſes des ſecrets que l'on y deſcouure tous les<lb corresp="#f5-eSc_textblock_b03602df-eSc_line_3bda24e9-lineCount22"/>iours, recognoiſtre cegrãd D I E V, qui en quel¬<lb corresp="#f5-eSc_textblock_b03602df-eSc_line_f03ae3ba-lineCount23"/>que petit ſuiet que ce ſoit, enuelope une infinité<lb corresp="#f5-eSc_textblock_b03602df-eSc_line_89c4a1c6-lineCount24"/>de choſes dignes d'eſtre cognues. Or pource que<lb corresp="#f5-eSc_textblock_b03602df-eSc_line_c2dc1a86-lineCount25"/>ſiie traictois ces magnificences apertement, il</ab>
+        <ab corresp="#f5-eSc_textblock_b03602df-blockCount1" type="MainZone"><hi rend="HeadingLine"><lb corresp="#f5-eSc_textblock_b03602df-eSc_line_7a97f385-lineCount1"/>AVIS AUX BEAUX<lb corresp="#f5-eSc_textblock_b03602df-eSc_line_cca6447e-lineCount2"/>ESPRITS,</hi><lb corresp="#f5-eSc_textblock_b03602df-eSc_line_19f345b3-lineCount3"/>Touchant le voyage des PRINCES<lb corresp="#f5-eSc_textblock_b03602df-eSc_line_9c1a5512-lineCount4"/>FORTVNEZ, qui eſt vn oeuure<lb corresp="#f5-eSc_textblock_b03602df-eSc_line_ddb35f6b-lineCount5"/>STEGANOGRAFIQVE, con¬<lb corresp="#f5-eSc_textblock_b03602df-eSc_line_d613cec3-lineCount6"/>tenant ſous le plaiſant voile des<lb corresp="#f5-eSc_textblock_b03602df-eSc_line_a118c6c5-lineCount7"/>diſcours d'Amour, tout ce qu'il<lb corresp="#f5-eSc_textblock_b03602df-eSc_line_7d696a51-lineCount8"/>y a de plus exquis és ſecrets re¬<lb corresp="#f5-eSc_textblock_b03602df-eSc_line_0bfccbd4-lineCount9"/>cherchez par les curieux des<lb corresp="#f5-eSc_textblock_b03602df-eSc_line_0e9e1748-lineCount10"/>bonnes ſciences.<lb corresp="#f5-eSc_textblock_b03602df-eSc_line_c14b80e2-lineCount11"/>EST ANT delecté aux ouúra¬<lb corresp="#f5-eSc_textblock_b03602df-eSc_line_ae71ec78-lineCount12"/>ges de plaiſir, ſuyuant auidement<lb corresp="#f5-eSc_textblock_b03602df-eSc_line_e48b8700-lineCount13"/>les delices d'eſprit où ma curioſité<lb corresp="#f5-eSc_textblock_b03602df-eSc_line_0db69ee1-lineCount14"/>me portoit, i ay eu enuie de faire<hi rend="DropCapitalLine"><lb corresp="#f5-eSc_textblock_b03602df-eSc_line_471b828e-lineCount15"/>M</hi><lb corresp="#f5-eSc_textblock_b03602df-eSc_line_77112f5d-lineCount16"/>part de mon contentement à ceux<lb corresp="#f5-eSc_textblock_b03602df-eSc_line_85db0ef9-lineCount17"/>qui ſeront eſmeus de ſemblable fantaſie, &amp; qui<lb corresp="#f5-eSc_textblock_b03602df-eSc_line_e4f80da9-lineCount18"/>incitez par beaux deſirs, ont volõté de ſe recreer<lb corresp="#f5-eSc_textblock_b03602df-eSc_line_ca1d7c28-lineCount19"/>aux obiets de perfectiõ, leſquels on peut remner<lb corresp="#f5-eSc_textblock_b03602df-eSc_line_4578935c-lineCount20"/>en toute  feurté pour ſ'en reſiouir Et par les ri¬<lb corresp="#f5-eSc_textblock_b03602df-eSc_line_4c46ac1f-lineCount21"/>cheſſes des ſecrets que l'on y deſcouure tous les<lb corresp="#f5-eSc_textblock_b03602df-eSc_line_3bda24e9-lineCount22"/>iours, recognoiſtre cegrãd D I E V, qui en quel¬<lb corresp="#f5-eSc_textblock_b03602df-eSc_line_f03ae3ba-lineCount23"/>que petit ſuiet que ce ſoit, enuelope une infinité<lb corresp="#f5-eSc_textblock_b03602df-eSc_line_89c4a1c6-lineCount24"/>de choſes dignes d'eſtre cognues. Or pource que<lb corresp="#f5-eSc_textblock_b03602df-eSc_line_c2dc1a86-lineCount25"/>ſiie traictois ces magnificences apertement, il</ab>
         <fw corresp="#f5-eSc_textblock_6eb9ef47-blockCount2" type="QuireMarksZone"><lb corresp="#f5-eSc_textblock_6eb9ef47-eSc_line_8dfc88d1-lineCount26"/>ã iiy</fw>
         <pb corresp="#f8"/>
         <pb corresp="#f9"/>
@@ -2635,7 +2635,7 @@
         <fw corresp="#f36-eSc_textblock_26616bd0-blockCount4" type="QuireMarksZone"><lb corresp="#f36-eSc_textblock_26616bd0-eSc_line_41a95e11-lineCount36"/>A iij</fw>
         <pb corresp="#f37"/>
         <fw corresp="#f37-eSc_textblock_0fa10965-blockCount1" type="NumberingZone"><lb corresp="#f37-eSc_textblock_0fa10965-eSc_line_64cf140f-lineCount1"/>6</fw>
-        <ab corresp="#f37-eSc_textblock_3b827ce9-blockCount2" type="MainZone"><lb corresp="#f37-eSc_textblock_3b827ce9-eSc_line_2274adc1-lineCount2"/>qu'encor que le ſujet de mon diſcours fut tout<lb corresp="#f37-eSc_textblock_3b827ce9-eSc_line_aa3824ff-lineCount3"/>grand,on doutera qui ſurmonteroit en gloire ou<lb corresp="#f37-eSc_textblock_3b827ce9-eSc_line_d32553b0-lineCount4"/>le Prince ou l'Hiſtorien.<hi rend="HeadingLine"><lb corresp="#f37-eSc_textblock_3b827ce9-eSc_line_0dd36a52-lineCount5"/>DESSEIN PREMIER.</hi><lb corresp="#f37-eSc_textblock_3b827ce9-eSc_line_b5275c5a-lineCount6"/>Entrepriſe pour la conqueſte de la Nymfe Xyrile:<lb corresp="#f37-eSc_textblock_3b827ce9-eSc_line_acde59a3-lineCount7"/>confition des conquerans qui ayans eſté eſ¬<lb corresp="#f37-eSc_textblock_3b827ce9-eSc_line_7485675d-lineCount8"/>choués ſont ſecourus par un vaiſſeau de Na¬<lb corresp="#f37-eSc_textblock_3b827ce9-eSc_line_0e0745f6-lineCount9"/>badonce, où ils trouuerent les Fortunés avec<lb corresp="#f37-eSc_textblock_3b827ce9-eSc_line_2b83dedb-lineCount10"/>leſquels ils vont en Sympſiquee.<lb corresp="#f37-eSc_textblock_3b827ce9-eSc_line_83a1c8db-lineCount11"/>Os aërs eſtoient adoucis de l'odeur<lb corresp="#f37-eSc_textblock_3b827ce9-eSc_line_2cbf3b20-lineCount12"/>de la Paix, le beau loiſir rendoit les af¬<lb corresp="#f37-eSc_textblock_3b827ce9-eSc_line_8e831bd1-lineCount14"/>faires ſeures, l'abondauce de commo¬<lb corresp="#f37-eSc_textblock_3b827ce9-eSc_line_ddead027-lineCount15"/>ceur de la frequentation cordiale les conduiſoit<lb corresp="#f37-eSc_textblock_3b827ce9-eSc_line_97fec798-lineCount16"/>ditez eſgayoit les bons eſprits, la dou¬<lb corresp="#f37-eSc_textblock_3b827ce9-eSc_line_f1bdd2ba-lineCount17"/>aux ſuccez de leurs agreables deſſeins. Et la tran¬<lb corresp="#f37-eSc_textblock_3b827ce9-eSc_line_f94395f1-lineCount18"/>quilité de cœur faiſoit qu'auec plaiſir les ames cu¬<lb corresp="#f37-eSc_textblock_3b827ce9-eSc_line_4cc80013-lineCount19"/>rieuſes s'addonnoyent aux hõneſtes recherches &amp;<lb corresp="#f37-eSc_textblock_3b827ce9-eSc_line_d7670d0f-lineCount20"/>entrepriſes notables; Quand la renommee volant<lb corresp="#f37-eSc_textblock_3b827ce9-eSc_line_ed8d6c57-lineCount21"/>par tout, ſe donnoit licence parmy les courages<lb corresp="#f37-eSc_textblock_3b827ce9-eSc_line_fe9d7acb-lineCount22"/>auantureux d'auãcer le glorieux nom de la Nym¬<lb corresp="#f37-eSc_textblock_3b827ce9-eSc_line_728c48eb-lineCount23"/>phe Xyrile, de laquelle ou repetoit tant de verita¬<lb corresp="#f37-eSc_textblock_3b827ce9-eSc_line_9eeb043c-lineCount24"/>bles merueilles, que ſi les ſtatuës inanimees euſsẽt<lb corresp="#f37-eSc_textblock_3b827ce9-eSc_line_db7b27d3-lineCount25"/>eu les oreilles percees, elles s'en fuſſent eſmeuës.<lb corresp="#f37-eSc_textblock_3b827ce9-eSc_line_7000e01b-lineCount26"/>Au retentiſſement de tant de loüanges, trop de<lb corresp="#f37-eSc_textblock_3b827ce9-eSc_line_2a6ed031-lineCount27"/>cœurs furent eſucillez pour la deſirer. Et qui a-il<lb corresp="#f37-eSc_textblock_3b827ce9-eSc_line_b4af1bdc-lineCount28"/>plus aymable que ce qui eſt beau ? eu de plus de¬</ab>
+        <ab corresp="#f37-eSc_textblock_3b827ce9-blockCount2" type="MainZone"><lb corresp="#f37-eSc_textblock_3b827ce9-eSc_line_2274adc1-lineCount2"/>qu'encor que le ſujet de mon diſcours fut tout<lb corresp="#f37-eSc_textblock_3b827ce9-eSc_line_aa3824ff-lineCount3"/>grand,on doutera qui ſurmonteroit en gloire ou<lb corresp="#f37-eSc_textblock_3b827ce9-eSc_line_d32553b0-lineCount4"/>le Prince ou l'Hiſtorien.<hi rend="HeadingLine"><lb corresp="#f37-eSc_textblock_3b827ce9-eSc_line_0dd36a52-lineCount5"/>DESSEIN PREMIER.</hi><lb corresp="#f37-eSc_textblock_3b827ce9-eSc_line_b5275c5a-lineCount6"/>Entrepriſe pour la conqueſte de la Nymfe Xyrile:<lb corresp="#f37-eSc_textblock_3b827ce9-eSc_line_acde59a3-lineCount7"/>confition des conquerans qui ayans eſté eſ¬<lb corresp="#f37-eSc_textblock_3b827ce9-eSc_line_7485675d-lineCount8"/>choués ſont ſecourus par un vaiſſeau de Na¬<lb corresp="#f37-eSc_textblock_3b827ce9-eSc_line_0e0745f6-lineCount9"/>badonce, où ils trouuerent les Fortunés avec<lb corresp="#f37-eSc_textblock_3b827ce9-eSc_line_2b83dedb-lineCount10"/>leſquels ils vont en Sympſiquee.<lb corresp="#f37-eSc_textblock_3b827ce9-eSc_line_83a1c8db-lineCount11"/>Os aërs eſtoient adoucis de l'odeur<lb corresp="#f37-eSc_textblock_3b827ce9-eSc_line_2cbf3b20-lineCount12"/>de la Paix, le beau loiſir rendoit les af¬<hi rend="DropCapitalLine"><lb corresp="#f37-eSc_textblock_3b827ce9-eSc_line_1b6e1cf6-lineCount13"/>N</hi><lb corresp="#f37-eSc_textblock_3b827ce9-eSc_line_8e831bd1-lineCount14"/>faires ſeures, l'abondauce de commo¬<lb corresp="#f37-eSc_textblock_3b827ce9-eSc_line_ddead027-lineCount15"/>ceur de la frequentation cordiale les conduiſoit<lb corresp="#f37-eSc_textblock_3b827ce9-eSc_line_97fec798-lineCount16"/>ditez eſgayoit les bons eſprits, la dou¬<lb corresp="#f37-eSc_textblock_3b827ce9-eSc_line_f1bdd2ba-lineCount17"/>aux ſuccez de leurs agreables deſſeins. Et la tran¬<lb corresp="#f37-eSc_textblock_3b827ce9-eSc_line_f94395f1-lineCount18"/>quilité de cœur faiſoit qu'auec plaiſir les ames cu¬<lb corresp="#f37-eSc_textblock_3b827ce9-eSc_line_4cc80013-lineCount19"/>rieuſes s'addonnoyent aux hõneſtes recherches &amp;<lb corresp="#f37-eSc_textblock_3b827ce9-eSc_line_d7670d0f-lineCount20"/>entrepriſes notables; Quand la renommee volant<lb corresp="#f37-eSc_textblock_3b827ce9-eSc_line_ed8d6c57-lineCount21"/>par tout, ſe donnoit licence parmy les courages<lb corresp="#f37-eSc_textblock_3b827ce9-eSc_line_fe9d7acb-lineCount22"/>auantureux d'auãcer le glorieux nom de la Nym¬<lb corresp="#f37-eSc_textblock_3b827ce9-eSc_line_728c48eb-lineCount23"/>phe Xyrile, de laquelle ou repetoit tant de verita¬<lb corresp="#f37-eSc_textblock_3b827ce9-eSc_line_9eeb043c-lineCount24"/>bles merueilles, que ſi les ſtatuës inanimees euſsẽt<lb corresp="#f37-eSc_textblock_3b827ce9-eSc_line_db7b27d3-lineCount25"/>eu les oreilles percees, elles s'en fuſſent eſmeuës.<lb corresp="#f37-eSc_textblock_3b827ce9-eSc_line_7000e01b-lineCount26"/>Au retentiſſement de tant de loüanges, trop de<lb corresp="#f37-eSc_textblock_3b827ce9-eSc_line_2a6ed031-lineCount27"/>cœurs furent eſucillez pour la deſirer. Et qui a-il<lb corresp="#f37-eSc_textblock_3b827ce9-eSc_line_b4af1bdc-lineCount28"/>plus aymable que ce qui eſt beau ? eu de plus de¬<lb corresp="#f37-eSc_textblock_3b827ce9-eSc_line_e25973a6-lineCount29"/>ſirable que le Bien? On la parãgonnoit à la beauté,</ab>
         <fw corresp="#f37-eSc_textblock_c6852c5a-blockCount3" type="RunningTitleZone"><lb corresp="#f37-eSc_textblock_c6852c5a-eSc_line_fd922653-lineCount30"/>Le voyage des Princes</fw>
         <pb corresp="#f44"/>
         <ab corresp="#f44-eSc_textblock_2db32695-blockCount1" type="MainZone"><hi rend="HeadingLine"><lb corresp="#f44-eSc_textblock_2db32695-eSc_line_0894225a-lineCount1"/>DESSEIN SECOND.</hi><lb corresp="#f44-eSc_textblock_2db32695-eSc_line_bc47a234-lineCount2"/>Vne Dame raconte à un des Fortunez la perte<lb corresp="#f44-eSc_textblock_2db32695-eSc_line_48c11f9d-lineCount3"/>de Fulondes, duquel on portoit le Cenotafe<lb corresp="#f44-eSc_textblock_2db32695-eSc_line_eb47d9f6-lineCount4"/>en ceremonies, durant leſquelles il apparoiſt<lb corresp="#f44-eSc_textblock_2db32695-eSc_line_b9d9c542-lineCount5"/>&amp; eſt recognu.<lb corresp="#f44-eSc_textblock_2db32695-eSc_line_27e7e3e4-lineCount6"/>I on vouloit naifuement repreſenter la Me¬<lb corresp="#f44-eSc_textblock_2db32695-eSc_line_0d4ffd97-lineCount7"/>tropolitaine de ceſte Iſle, il connuiendroit aſ¬<lb corresp="#f44-eSc_textblock_2db32695-eSc_line_2e9adf96-lineCount8"/>ſembler toutes les belles maiſons qui ſont en<lb corresp="#f44-eSc_textblock_2db32695-eSc_line_c13d5f17-lineCount9"/>France çà &amp; là, &amp; en conſtituer vne ville qui ſe¬<lb corresp="#f44-eSc_textblock_2db32695-eSc_line_e4c3845d-lineCount10"/>roit le vray pourtraict de ceſte-cy,ornee de Palais<lb corresp="#f44-eSc_textblock_2db32695-eSc_line_b662b321-lineCount11"/>magnifiques, decoree de theatres,&amp; amphithea¬<lb corresp="#f44-eSc_textblock_2db32695-eSc_line_86163471-lineCount12"/>tres ſomptueux , embellie de iardins &amp; parterres<lb corresp="#f44-eSc_textblock_2db32695-eSc_line_ca4d1535-lineCount13"/>exquis, &amp; accompagnee d'vn haure tout indu¬<lb corresp="#f44-eSc_textblock_2db32695-eSc_line_a8f15089-lineCount14"/>ſtrieuſement acheué. Eſtans-là nous n'euſmes pas<lb corresp="#f44-eSc_textblock_2db32695-eSc_line_1b398319-lineCount15"/>ſeulement pour obiet des edifices excellens, mais<lb corresp="#f44-eSc_textblock_2db32695-eSc_line_d4c20b89-lineCount16"/>nous faiſions rencontre de pluſieus trouppes de<lb corresp="#f44-eSc_textblock_2db32695-eSc_line_cd8fbd6e-lineCount17"/>Dames &amp; Gentils-hommes qui nous demon¬<lb corresp="#f44-eSc_textblock_2db32695-eSc_line_58e3a637-lineCount18"/>ſtroyent tant d'accueil, que ce que nous en voy¬<lb corresp="#f44-eSc_textblock_2db32695-eSc_line_d22e6a05-lineCount19"/>ons,ſurmontoit aiſement ce que nous en pou¬<lb corresp="#f44-eSc_textblock_2db32695-eSc_line_3d88201c-lineCount20"/>uions eſperer. Or à noſtre arriuee nous remar¬<lb corresp="#f44-eSc_textblock_2db32695-eSc_line_e5f49710-lineCount21"/>quaſmes que ces Dames auoyent le viſage vn peu<lb corresp="#f44-eSc_textblock_2db32695-eSc_line_3d57b454-lineCount22"/>triſte; Ce n'eſtoit pas ſans cauſe que nous eſti¬<lb corresp="#f44-eSc_textblock_2db32695-eSc_line_10d9657f-lineCount23"/>maſmes qu'il y eut là quelque auanture notable,<lb corresp="#f44-eSc_textblock_2db32695-eSc_line_a653063e-lineCount24"/>&amp; principalement voyans pluſieurs portiques pa¬<lb corresp="#f44-eSc_textblock_2db32695-eSc_line_a5cd1713-lineCount25"/>rez, eſquels diuerſité de gens conuenoyent, celà<lb corresp="#f44-eSc_textblock_2db32695-eSc_line_7a332c50-lineCount26"/>occaſionna l'aiſné des Fortu*nez d'arroiſonner<lb corresp="#f44-eSc_textblock_2db32695-eSc_line_7c0aa7ac-lineCount27"/>ainſi la Dame qui l'entretenoit. Madame, ie vous<lb corresp="#f44-eSc_textblock_2db32695-eSc_line_90609788-lineCount28"/>ſipplie par voſtre courtoiſie de m'excuſer ſi ie<lb corresp="#f44-eSc_textblock_2db32695-eSc_line_5aa4ab85-lineCount29"/>vous requiers d'vne faueur; Quelle, dict la Dame,</ab>
