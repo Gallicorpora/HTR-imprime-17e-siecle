@@ -44,13 +44,13 @@ license:
 format: Alto-XML
 volume:
 - metric: characters
-  count: 255983
+  count: 255981
 - metric: files
   count: 327
 - metric: lines
-  count: 8951
+  count: 8950
 - metric: regions
-  count: 1200
+  count: 1187
 transcription-guidelines: "Les normes de transcription suivent les pr\xE9conisations\
   \ du projet gallicorpora"
 citation-file-link: https://github.com/Gallicorpora/HTR-imprime-17e-siecle/CITATION.cff
@@ -146,10 +146,10 @@ characters:
   - "\u03BD"
   - "\u03B5"
   - "\u03C1"
-  - '*'
   - "\u0313"
   - "\u03C5"
   - "\u03BA"
+  - '*'
   - "\u03C3"
   - "\u03C4"
   - "\u03C9"
