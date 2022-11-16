@@ -86,7 +86,7 @@
           
           
           <TextLine ID="eSc_line_d2db37f0"
-                    
+                  TAGREFS="LT757"
                     BASELINE="505 289 1161 289" 
                     HPOS="505"
                     VPOS="246"
@@ -103,7 +103,7 @@
           
           
           <TextLine ID="eSc_line_5ae75303"
-                    
+                  TAGREFS="LT757"
                     BASELINE="480 330 1190 330" 
                     HPOS="480"
                     VPOS="295"
@@ -120,7 +120,7 @@
           
           
           <TextLine ID="eSc_line_93db8611"
-                    
+                  TAGREFS="LT757"
                     BASELINE="486 370 1183 374" 
                     HPOS="484"
                     VPOS="332"
@@ -137,7 +137,7 @@
           
           
           <TextLine ID="eSc_line_5b2593cb"
-                    
+                  TAGREFS="LT757"
                     BASELINE="488 413 1194 413" 
                     HPOS="488"
                     VPOS="376"
@@ -154,7 +154,7 @@
           
           
           <TextLine ID="eSc_line_92ee53a9"
-                    
+                  TAGREFS="LT757"
                     BASELINE="736 463 1190 458" 
                     HPOS="734"
                     VPOS="415"

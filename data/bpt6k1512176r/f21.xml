@@ -420,28 +420,8 @@
         </TextBlock>
         
 
-        
-        <TextBlock ID="eSc_dummyblock_">
-          
-          
-          <TextLine ID="eSc_line_392df34b"
-                    
-                    BASELINE="582 2426 749 2426" 
-                    HPOS="580"
-                    VPOS="2347"
-                    WIDTH="168"
-                    HEIGHT="121">
-            <Shape><Polygon POINTS="580 2423 580 2461 642 2468 644 2468 646 2468 649 2468 670 2452 677 2447 748 2442 748 2423 748 2359 609 2347 606 2347 604 2347 580 2359 580 2423"/></Shape>
-	    <String CONTENT="**"
-                    HPOS="580"
-                    VPOS="2347"
-                    WIDTH="168"
-                    HEIGHT="121"></String>
-          </TextLine>
-
-          
-        </TextBlock>
-        
+       
+       
       </PrintSpace>
     </Page>
   </Layout>

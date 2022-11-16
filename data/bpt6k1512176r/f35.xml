@@ -35,7 +35,7 @@
           
           
           <TextLine ID="eSc_line_02a21c51"
-                    
+                  TAGREFS="LT792"
                     BASELINE="1158 241 1196 238" 
                     HPOS="1152"
                     VPOS="196"
@@ -106,12 +106,6 @@
                    ID="eSc_textblock_d5d83724"
                    TAGREFS="BT2262">
           <Shape><Polygon POINTS="1153 168 1153 280 1209 280 1209 168"/></Shape>
-          
-        </TextBlock>
-        
-
-        
-        <TextBlock ID="eSc_dummyblock_">
           
           
           <TextLine ID="eSc_line_82a219ac"
