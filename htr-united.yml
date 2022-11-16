@@ -50,7 +50,7 @@ volume:
 - metric: lines
   count: 8950
 - metric: regions
-  count: 1187
+  count: 1185
 transcription-guidelines: "Les normes de transcription suivent les pr\xE9conisations\
   \ du projet gallicorpora"
 citation-file-link: https://github.com/Gallicorpora/HTR-imprime-17e-siecle/CITATION.cff
